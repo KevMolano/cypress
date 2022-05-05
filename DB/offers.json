@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "606c9298bb590319e572184e"
+  },
+  "name": "training",
+  "iconLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/offers/trainingOffer.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c93a6bb590319e5721851"
+  },
+  "name": "monitoring",
+  "iconLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/offers/monitoringOffer.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9421bb590319e5721854"
+  },
+  "name": "alignment",
+  "iconLink": "https://new-web-site-bucket.s3.amazonaws.com/website/offers/traficOffer.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c94a5bb590319e5721857"
+  },
+  "name": "secure",
+  "iconLink": "https://new-web-site-bucket.s3.amazonaws.com/website/offers/seguridadPrivacidad.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9562bb590319e572185a"
+  },
+  "name": "places",
+  "iconLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/offers/placesOffer.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c95d9bb590319e572185d"
+  },
+  "name": "background",
+  "iconLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/offers/backgroundOffer.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9644bb590319e5721860"
+  },
+  "name": "travel",
+  "iconLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/offers/travelOffer.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c96a7bb590319e5721863"
+  },
+  "name": "schedule",
+  "iconLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/offers/scheduleOffer.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c96fbbb590319e5721866"
+  },
+  "name": "payment",
+  "iconLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/offers/paymentOffer.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60807aea4fd06a185d7b0ff2"
+  },
+  "name": "bonuses",
+  "iconLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/offers/alignmentOffer.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610846296b22adc1c996cf86"
+  },
+  "name": "coaching",
+  "iconLink": "https://new-web-site-bucket.s3.amazonaws.com/website/offers/coachingMotivacional.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610846a16b22adc1c996cf8c"
+  },
+  "name": "recognition",
+  "iconLink": "https://new-web-site-bucket.s3.amazonaws.com/website/offers/reconocimientoInternacional.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610846e56b22adc1c996cf91"
+  },
+  "name": "financial",
+  "iconLink": "https://new-web-site-bucket.s3.amazonaws.com/website/offers/asesoriaFinanciera.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6108472e6b22adc1c996cf96"
+  },
+  "name": "planning",
+  "iconLink": "https://new-web-site-bucket.s3.amazonaws.com/website/offers/planeacionMetas.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c3444a1443475fa151ae6"
+  },
+  "name": "inversiones",
+  "iconLink": "https://new-web-site-bucket.s3.amazonaws.com/website/offers/inversiones.svg",
+  "modalLink": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6138f11083b3294f51e80c1e"
+  },
+  "name": "Fidelidad",
+  "iconLink": "https://new-web-site-bucket.s3.amazonaws.com/website/offers/loyaltyfee.svg",
+  "modalLink": "",
+  "__v": 0
+}]

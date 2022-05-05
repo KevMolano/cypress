@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "626ab35887b4a30ccbd18757"
+  },
+  "name": "permiso",
+  "idArea": {
+    "$oid": "626aa7d087b4a30ccbd18745"
+  },
+  "description": "Si solicitas un permiso el area de administraión realizara la respectiva gestion.",
+  "isEnable": true,
+  "priority": "medium"
+},{
+  "_id": {
+    "$oid": "626ab81353056ef76686f15b"
+  },
+  "name": "carta laboral",
+  "idArea": {
+    "$oid": "626aa7d087b4a30ccbd18745"
+  },
+  "description": "Este tipo de requerimiento se solicita cuando se necesita un permiso",
+  "isEnable": true,
+  "priority": "low"
+},{
+  "_id": {
+    "$oid": "626ab93453056ef76686f164"
+  },
+  "name": "problema tecnicó",
+  "idArea": {
+    "$oid": "626aa632d0d67de28c1c1a37"
+  },
+  "description": "Este tipo de requerimiento se solicita cuando se necesita un permiso",
+  "isEnable": true,
+  "priority": "low"
+},{
+  "_id": {
+    "$oid": "626abfff1bccb73b9432b0aa"
+  },
+  "name": "otro",
+  "idArea": {
+    "$oid": "626ac0511bccb73b9432b0af"
+  },
+  "description": "Escribe tu ripo de requerimieno y selecciona un area.",
+  "isEnable": true,
+  "priority": "low"
+},{
+  "_id": {
+    "$oid": "62702e0e50caf8169a63d37e"
+  },
+  "name": "historia",
+  "idArea": {
+    "$oid": "626aa80887b4a30ccbd18746"
+  },
+  "description": "Sube tu contenido, para administrar redes sociales",
+  "isEnable": true,
+  "priority": "medium"
+}]

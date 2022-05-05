@@ -1,0 +1,8741 @@
+[{
+  "_id": {
+    "$oid": "60d0fe505dacc53821a9f8de"
+  },
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "date": {
+    "$date": {
+      "$numberLong": "1624050610754"
+    }
+  },
+  "name": "Maria Alejandra ",
+  "email": "auxiliar@models1a.com",
+  "password": "$2b$10$fffAz009K1x2FPNHbvz3K.WCu6DtUCYFNanOt378r.YSLj1TZ3Kcm",
+  "__v": 0,
+  "isEnable": true,
+  "documentId": "1037641305",
+  "role": "superadmin",
+  "city": "Medellín",
+  "documentType": "idcard",
+  "lastname": "Garcia Garcia",
+  "phone": "3187081351",
+  "user": "Maria Alejandra",
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "entrydate": null,
+  "isActive": false,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": null,
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ]
+  },
+  "room": "",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "SSID": "cc4be51c-0d98-0985-b02c-7399e7f83904",
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1630369896720"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1629931541421"
+    }
+  },
+  "reviewRoom": null,
+  "statusRoom": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/60d0fe505dacc53821a9f8de/bannerPic1.jpg",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "60d107e05dacc53821a9f8e7"
+  },
+  "roles": [
+    "coord"
+  ],
+  "branch": "pereira",
+  "date": {
+    "$date": {
+      "$numberLong": "1624050610754"
+    }
+  },
+  "name": "Kellyn Vanessa ",
+  "email": "vanessa.londono@models1a.com",
+  "password": "inactivo2021",
+  "__v": 0,
+  "city": "Pereira",
+  "documentId": "1088030677",
+  "documentType": "idcard",
+  "lastname": "Londoño Zamora ",
+  "phone": "3175594021",
+  "user": "vanessa",
+  "isEnable": true,
+  "role": "coordinator",
+  "apps": [
+    "autologin",
+    "website",
+    "administration"
+  ],
+  "artisticName": null,
+  "entrydate": null,
+  "isActive": false,
+  "isOnline": false,
+  "isSpecialFunctions": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": "0",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "website": [
+      "coord"
+    ],
+    "administration": [
+      "super"
+    ]
+  },
+  "room": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1088030677/images.jpg",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "60d1081b5dacc53821a9f8e8"
+  },
+  "roles": [
+    "coord"
+  ],
+  "branch": "bogota",
+  "date": {
+    "$date": {
+      "$numberLong": "1624050610754"
+    }
+  },
+  "name": "Laura Carolina ",
+  "email": "auxbogota@models1a.com",
+  "password": "$2b$10$H3irRmmIYmAUgY34fZYftOU7GVyrzQ9W/sN1hDTzXlo248/cbLmE6",
+  "__v": 0,
+  "isEnable": true,
+  "documentId": "10184473663",
+  "role": "coordinator",
+  "city": "Bogotá",
+  "documentType": "idcard",
+  "lastname": "Velasquez Albino",
+  "phone": "3102973766",
+  "user": "Laura Carolina",
+  "apps": [
+    "autologin",
+    "website"
+  ],
+  "artisticName": null,
+  "entrydate": null,
+  "isActive": false,
+  "isOnline": false,
+  "isSpecialFunctions": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": "0",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "website": [
+      "coord"
+    ]
+  },
+  "room": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "SSID": "d6f83241-a0df-5ccd-e0c7-9ccb1179a7a5",
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1630083440344"
+    }
+  },
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/10184473663/coordinador.de_.programas.jpg",
+  "statusMantenienceRoom": "pending",
+  "dateIsEnable": null,
+  "workShift": {
+    "name": null,
+    "schedule": null
+  }
+},{
+  "_id": {
+    "$oid": "60d25e73eb9778728c47f964"
+  },
+  "roles": [
+    "coord"
+  ],
+  "branch": "cucuta",
+  "date": {
+    "$date": {
+      "$numberLong": "1624397816515"
+    }
+  },
+  "name": "Silvia Marcela",
+  "email": "silvia@models1a.com",
+  "password": "$2b$10$HfAlLtJBBxZ56NreteWhm.zQp6CshgoXSwYcJp2TbBwR3zHOUeDj2",
+  "__v": 0,
+  "isEnable": true,
+  "documentId": "1090458739",
+  "role": "coordinator",
+  "city": "Cúcuta",
+  "documentType": "CC",
+  "lastname": "Guerrero Rojas",
+  "phone": "3204967885",
+  "user": "Silvia Marcela",
+  "apps": [
+    "autologin",
+    "website"
+  ],
+  "artisticName": null,
+  "entrydate": null,
+  "isActive": false,
+  "isOnline": false,
+  "isSpecialFunctions": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": "0",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "website": [
+      "coord"
+    ]
+  },
+  "room": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "SSID": "860b3532-949f-9b85-c653-1a57f692b9c9",
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1630513751749"
+    }
+  },
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1090458739/COORDINADOR-1.png",
+  "statusMantenienceRoom": "pending"
+},{
+  "_id": {
+    "$oid": "60dddaf8838628007d20671f"
+  },
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "date": {
+    "$date": {
+      "$numberLong": "1625095698408"
+    }
+  },
+  "name": "Alexander",
+  "email": "alexander@models1a.com",
+  "password": "$2b$10$3jerU2ufXbQi2gN0/h/2J.FLqE58NTWySzxomxaqq1W0dcG2bLEoq",
+  "__v": 0,
+  "isEnable": true,
+  "city": "Medellín",
+  "role": "superadmin",
+  "apps": [
+    "autologin",
+    "website",
+    "administration",
+    "reservations",
+    "statistics",
+    "pays"
+  ],
+  "documentId": "8782562",
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1632175907465"
+    }
+  },
+  "user": "Alexander Henao",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1629836919536"
+    }
+  },
+  "documentType": "CC",
+  "lastname": "Henao M",
+  "phone": "3024103423",
+  "artisticName": null,
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": null,
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ]
+  },
+  "room": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "SSID": "959979fb-1c32-54bc-2673-c19bb241b735",
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/8782562/buen-jefe-3-e1567371913109.jpg",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  }
+},{
+  "_id": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "date": {
+    "$date": {
+      "$numberLong": "1625095698408"
+    }
+  },
+  "name": "Gelier ",
+  "email": "gelier.moreno@models1a.com",
+  "password": "$2b$10$TWgI8tbmoVXZgDF399lIr.N//Kt.gPlqJNqyPDCFLiaqz0N7G1pOm",
+  "__v": 0,
+  "city": "Medellín",
+  "documentId": "1216719220",
+  "documentType": "CC",
+  "lastname": "Moreno",
+  "phone": "3193205247",
+  "user": "Gelier Moreno",
+  "isEnable": true,
+  "role": "superadmin",
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1630026733231"
+    }
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": null,
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ]
+  },
+  "room": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "SSID": "dc170f6f-60a6-44dc-c235-fe0154687077",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1630465428330"
+    }
+  },
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1216719220/como_llegar_a_ser_jefe_9221.webp",
+  "statusMantenienceRoom": "pending"
+},{
+  "_id": {
+    "$oid": "60dddec9838628007d206722"
+  },
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "date": {
+    "$date": {
+      "$numberLong": "1625095698408"
+    }
+  },
+  "name": "Carlos ",
+  "email": "ceo@models1a.com",
+  "password": "$2b$10$P/W96h61.H3RpMYs9CH3oeLAnqqsIiIarkaBBejHIirgRKwOAZQ4a",
+  "__v": 0,
+  "isEnable": true,
+  "documentId": "987654321",
+  "role": "superadmin",
+  "city": "Medellín",
+  "documentType": "CC",
+  "lastname": "Olivares",
+  "phone": "17682239948",
+  "user": "ceo",
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "entrydate": null,
+  "isActive": false,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": null,
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ]
+  },
+  "room": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/987654321/download.jpg",
+  "statusMantenienceRoom": "pending"
+},{
+  "_id": {
+    "$oid": "60f1f97dd04188cb8f33c478"
+  },
+  "roles": [
+    "coord"
+  ],
+  "branch": "medellin",
+  "city": "Medellín",
+  "origin": "webSite",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1626467877776"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1629922903180"
+    }
+  },
+  "isActive": false,
+  "isOnline": false,
+  "documentType": "CC",
+  "documentId": "321654987",
+  "phone": "3015094992",
+  "user": "jenifer Martinez",
+  "name": "Jenifer",
+  "lastname": "Martinez Acosta",
+  "email": "jenifer.martinez@models1a.com",
+  "password": "$2b$10$hOEatzAz2wQBBJ7QWSkjz.niT2utTpcLZXdHeCj.7USMthMjcO0ta",
+  "__v": 0,
+  "isEnable": true,
+  "apps": [
+    "autologin",
+    "website"
+  ],
+  "artisticName": null,
+  "entrydate": null,
+  "isSpecialFunctions": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": "0",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "website": [
+      "super"
+    ]
+  },
+  "room": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "SSID": "8ce86c87-3fbc-628f-a235-3c8a4f2177f8",
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/321654987/COORDINADOR-3.jpg",
+  "statusMantenienceRoom": "pending",
+  "currentApp": "",
+  "validSession": false
+},{
+  "_id": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1630710420483"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1630710418024"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": null,
+  "qualification": null,
+  "roles": [
+    "super"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ]
+  },
+  "room": null,
+  "SSID": "f95310f5-12a3-e36a-d422-ea1d5843617a",
+  "name": "Luis",
+  "lastname": "Hurtado",
+  "documentType": "CC",
+  "documentId": "1076321754",
+  "phone": "3117559761",
+  "email": "luis.hurtado@models1a.com",
+  "city": "Medellín",
+  "user": "LuisHurtad",
+  "password": "$2b$10$UqTd5Hi37CC2NEoo5UJ9xuPkgn1oYj3oBI6r5cpos4RB.hhmNdWSq",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1629821129179"
+    }
+  },
+  "__v": 0,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1076321754/images.jpg",
+  "birthday": null,
+  "calling_code": "1",
+  "calling_code_flag": "https://myfans1a.s3.amazonaws.com/api/country/flags/US.svg",
+  "country": "United States of America",
+  "country_flag": "https://myfans1a.s3.amazonaws.com/api/country/flags/US.svg",
+  "describe": "",
+  "website": "https://alpha.omgworldwidegroup.com/LuisHurtad",
+  "statusMantenienceRoom": "pending",
+  "verifyCode": "ddea24"
+},{
+  "_id": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651762549097"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651762547093"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": null,
+  "qualification": null,
+  "roles": [
+    "super"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ]
+  },
+  "room": null,
+  "SSID": "660b36d6-5673-2b58-7bed-db7225254cde",
+  "name": "dev",
+  "lastname": "test",
+  "documentType": "CC",
+  "documentId": "000000000",
+  "phone": "0000000000",
+  "email": "dasvv7@gmail.com",
+  "city": "Medellín",
+  "user": "dev",
+  "password": "$2b$10$62tgV8H1mWyVRXpWl9hJ/Oi9UJEx/suGq0ade7IwGPCYRlULDMiw2",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1629897925378"
+    }
+  },
+  "__v": 0,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/dev/autologin/users/612644c5cba84cf8785d59cd/1644431192513_thumbnail.png",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "validSession": true,
+  "currentApp": ""
+},{
+  "_id": {
+    "$oid": "612697b0c27c8af8657e2446"
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "branch": "medellin",
+  "city": "Medellín",
+  "date": {
+    "$date": {
+      "$numberLong": "1629836773221"
+    }
+  },
+  "isActive": false,
+  "isEnable": true,
+  "isOnline": false,
+  "lastLogin": null,
+  "origin": "webSite",
+  "role": "superadmin",
+  "roles": [
+    "super"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ]
+  },
+  "documentType": null,
+  "documentId": "416834",
+  "phone": "3154104079",
+  "user": "rubenolivares",
+  "name": "Ruben",
+  "lastname": "Olivares",
+  "email": "ruben.olivares@models1a.com",
+  "password": "$2b$10$7mNpKsGaAAsj6oIMnCFkGeFI4vLuqhGKVuEWA60.px9fRVVAjVCYu",
+  "__v": 0,
+  "artisticName": null,
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": null,
+  "reviewRoom": "pending",
+  "room": null,
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/416834/como_llegar_a_ser_jefe_9221.webp",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  }
+},{
+  "_id": {
+    "$oid": "60db9de3e59ed8795f6b8fb3"
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651702673995"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "5",
+  "name": "Coordinador",
+  "lastname": "Medellín",
+  "documentType": "CC",
+  "documentId": "6543219871",
+  "phone": "3050000000",
+  "email": "coordinadorMedellin@models1a.com",
+  "city": "Medellín",
+  "office": "L1",
+  "room": null,
+  "user": "CoordinadorMedellin",
+  "password": "$2b$10$.C69ULn3aP6kS76moKn3sun7cmSSRCVYjUKw2C6lMz9QoSZkP1NEi",
+  "isActive": false,
+  "isOnline": false,
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1624486690186"
+    }
+  },
+  "__v": 0,
+  "roles": [
+    "coord"
+  ],
+  "branch": "medellin",
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/6543219871/0-05.jpg",
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651528076801"
+    }
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "statistics",
+    "website",
+    "reservations"
+  ],
+  "isSpecialFunctions": true,
+  "entrydate": null,
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "website": [
+      "coord"
+    ],
+    "administration": [
+      "coord"
+    ],
+    "statistics": [
+      "coord"
+    ],
+    "reservations": [
+      "coord"
+    ]
+  },
+  "SSID": "51e59aad-10d9-7747-330a-a43f78bd6702",
+  "statusRoom": "pending",
+  "reviewRoom": "pending",
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "60ddf5a81b3b03b4ad76c055"
+  },
+  "roles": [
+    "coord"
+  ],
+  "branch": "medellin",
+  "city": "Medellín",
+  "origin": "webSite",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1625156140362"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1639691951519"
+    }
+  },
+  "isActive": false,
+  "isOnline": false,
+  "documentType": "CC",
+  "documentId": "111058303710056654",
+  "phone": "3134020296",
+  "user": "ahuyama",
+  "name": "ahuyama",
+  "lastname": "delaire",
+  "email": "ahuyama@models1a.com",
+  "password": "$2b$10$.C69ULn3aP6kS76moKn3sun7cmSSRCVYjUKw2C6lMz9QoSZkP1NEi",
+  "__v": 0,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/111058303710056654/aaron-burden-D0ky__jofMk-unsplash.jpg",
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1639691954419"
+    }
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "website",
+    "statistics",
+    "reservations"
+  ],
+  "SSID": "c368b6ab-91ac-2ce1-eaf5-a54dfe95bac9",
+  "artisticName": null,
+  "entrydate": null,
+  "isSpecialFunctions": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": "0",
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "administration": [
+      "coord"
+    ],
+    "website": [
+      "coord"
+    ],
+    "statistics": [
+      "monitor"
+    ],
+    "reservations": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "currentApp": "",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "statusMantenienceRoom": "pending",
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "60de3876ec3263b71f02f977"
+  },
+  "office": null,
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1645826011317"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "0",
+  "roles": [
+    "coord"
+  ],
+  "branch": "pereira",
+  "name": "Coordinador",
+  "lastname": "Pereira",
+  "documentType": "idcard",
+  "documentId": "0000001",
+  "phone": "3134020296",
+  "email": "coordinadorPereira@models1a.com",
+  "city": "Pereira",
+  "user": "CoordinadorPereira",
+  "password": "$2b$10$owhw6.djjAdtGq9zsAVeCeeE98M18PgzZ9athks5rp/rzMlOLdoiO",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1625176182862"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1645826585536"
+    }
+  },
+  "apps": [
+    "autologin",
+    "website"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "website": [
+      "coord"
+    ]
+  },
+  "streamatePassword": null,
+  "streamateUser": null,
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/0000001/coordinador.de_.programas.jpg",
+  "SSID": "9dac7396-f532-146f-d65c-61ce4eb1b2a5",
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "validSession": true,
+  "dateIsEnable": null,
+  "workShift": {
+    "name": null,
+    "schedule": null
+  }
+},{
+  "_id": {
+    "$oid": "60de3918ec3263b71f03121c"
+  },
+  "office": "L1",
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1641247856213"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "5",
+  "roles": [
+    "coord"
+  ],
+  "branch": "cucuta",
+  "name": "Coordinador",
+  "lastname": "Cucuta",
+  "documentType": "CC",
+  "documentId": "0000002",
+  "phone": "3134020296",
+  "email": "coordinadorCucuta@models1a.com",
+  "city": "Medellín",
+  "user": "CoordinadorCucuta",
+  "password": "$2b$10$T493uso5EpQjs9PFiscFDuB1VnoH3nX4nr1/YZd.Wgl0Y49f87W7W",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1625176344055"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "apps": [
+    "autologin"
+  ],
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1641248168558"
+    }
+  },
+  "isSpecialFunctions": true,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "entrydate": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ]
+  },
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/0000002/COORDINADOR-3.jpg",
+  "SSID": "33dd9745-4839-aabf-3be4-e7e66f06b80c",
+  "statusMantenienceRoom": "pending",
+  "validSession": false,
+  "currentApp": ""
+},{
+  "_id": {
+    "$oid": "60de396bec3263b71f031b6a"
+  },
+  "office": "BOG",
+  "room": "",
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1648766253521"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "5",
+  "roles": [
+    "monitor"
+  ],
+  "branch": "bogota",
+  "name": "Monitor",
+  "lastname": "Medellin",
+  "documentType": "idcard",
+  "documentId": "0000006",
+  "phone": "3134020296",
+  "email": "monitorMedellin@models1a.com",
+  "city": "Bogotá",
+  "user": "MonitorMedellin",
+  "password": "$2b$10$CH99q1yU3fSOWVe3G.66beAn9uSCZsbFASSTDAvvMTsbSFcqT1PuO",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1625176427602"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1648768826534"
+    }
+  },
+  "isTop": null,
+  "apps": [
+    "autologin",
+    "statistics"
+  ],
+  "isSpecialFunctions": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "entrydate": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ],
+    "statistics": [
+      "monitor"
+    ]
+  },
+  "statusRoom": "pending",
+  "SSID": "c04d4e48-d702-5272-a10f-6705fdbd823e",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/0000006/25_TrajeNovioHombres_GloriaPelaez-f4412f45.jpg",
+  "isReports": false,
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": false,
+  "dateIsEnable": null,
+  "area": {
+    "$oid": "626aa80887b4a30ccbd18746"
+  },
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "60de39c2ec3263b71f0322f2"
+  },
+  "office": "L1",
+  "room": "",
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1649347351053"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "0",
+  "roles": [
+    "monitor"
+  ],
+  "branch": "medellin",
+  "name": "Monitor",
+  "lastname": "Pereira",
+  "documentType": "idcard",
+  "documentId": "0000004",
+  "phone": "3134020296",
+  "email": "monitorPereira@models1a.com",
+  "city": "Medellín",
+  "user": "monitorPereira",
+  "password": "$2b$10$HDSfx0WBXicbH5U7XAEXoeNRK0Wrt7qwWj216OoCUCNbtPR9zKYvC",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1625176514867"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1649369328405"
+    }
+  },
+  "isTop": null,
+  "apps": [
+    "autologin"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/0000004/730813_w464h700cx236cy142.jpg",
+  "isReports": false,
+  "SSID": "b80fccc7-9212-3364-a092-a6191bfa02d8",
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": false,
+  "currentApp": "",
+  "area": {
+    "$oid": "626aa80887b4a30ccbd18746"
+  },
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "60de3a44ec3263b71f032ad3"
+  },
+  "office": "L1",
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1645730321513"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "0",
+  "roles": [
+    "monitor"
+  ],
+  "branch": "cucuta",
+  "name": "Monitor",
+  "lastname": "Cucuta",
+  "documentType": "CC",
+  "documentId": "0000005",
+  "phone": "3134020296",
+  "email": "monitorCucuta@models1a.com",
+  "city": "Medellín",
+  "user": "monitorCucuta",
+  "password": "$2b$10$loYVTCLZsuopUmgHiYgzDumTURI6e7hrlQgWezwT.JVXRyBDQS6Hi",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1625176644539"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1645733633854"
+    }
+  },
+  "isTop": null,
+  "apps": [
+    "autologin"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/0000005/731202_w621h613cx311cy306.jpg",
+  "SSID": "8c9e3578-6598-6e34-5cfe-065db5559f1b",
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": false,
+  "currentApp": ""
+},{
+  "_id": {
+    "$oid": "60de3a75ec3263b71f032df0"
+  },
+  "office": "L1",
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1646228851671"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "0",
+  "roles": [
+    "monitor"
+  ],
+  "branch": "medellin",
+  "name": "Monitor",
+  "lastname": "Bogota",
+  "documentType": "CC",
+  "documentId": "0000007",
+  "phone": "3134020296",
+  "email": "monitorBogota@models1a.com",
+  "city": "Medellín",
+  "user": "monitorBogota",
+  "password": "$2b$10$preWduldwsaawuZEhrpfKub9mDaQFnf41Noa6s2UUazeDWuNelTZe",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1625176693981"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "isTop": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1646229118492"
+    }
+  },
+  "apps": [
+    "autologin"
+  ],
+  "SSID": "51e5af32-c33d-0735-e7b4-e18c6806779e",
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/0000007/Elegantes-dise-os-2019-Casual-negocios-hombres-trajes-2-piezas-vestido-Formal-hombres-traje-conjunto-hombres_1200x1200.webp",
+  "isReports": false,
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": true,
+  "currentApp": ""
+},{
+  "_id": {
+    "$oid": "60de3acdec3263b71f0332e3"
+  },
+  "office": "L1",
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651701631597"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "0",
+  "roles": [
+    "monitor"
+  ],
+  "branch": "medellin",
+  "name": "MonitorDos",
+  "lastname": "Medellin",
+  "documentType": "CC",
+  "documentId": "0000008",
+  "phone": "3134020296",
+  "email": "monitor2Medellin@models1a.com",
+  "city": "Medellín",
+  "user": "monitorDosMedellin",
+  "password": "$2b$10$UV7vuSfHk7nTbaHv1AT9LO76NlGXYuJ1Mx/lAE0t4r4gfErsgHQWy",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1625176781710"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651701933012"
+    }
+  },
+  "isTop": null,
+  "apps": [
+    "autologin"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/0000008/hombres_que_mejor_visten_traje_931914062.webp",
+  "SSID": "10526939-5cb7-f8ec-de86-06b85d72d654",
+  "currentApp": "",
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "office": "L1",
+  "room": "MED05",
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651672921711"
+    }
+  },
+  "monitorId": "60de396bec3263b71f031b6a",
+  "monitorIdTemp": "",
+  "artisticName": "Zoe Do Santos",
+  "qualification": "4",
+  "roles": [
+    "model"
+  ],
+  "branch": "medellin",
+  "name": "Zoe Do Santos",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "0000009",
+  "phone": "3134020296",
+  "email": "zoedosantos@models1a.com",
+  "city": "Medellín",
+  "isTop": null,
+  "user": "zoedosantos",
+  "password": "$2b$10$BCMYGLcJF8FWEJNxC7/1JedJu88rn7Sx35Ho3hZ0UDon7czBhx63m",
+  "streamateUser": "ZoeDoSantos@models1a.com",
+  "streamatePassword": "Duque2f5df6",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1625177442587"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651672923980"
+    }
+  },
+  "apps": [
+    "autologin"
+  ],
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1631577600000"
+    }
+  },
+  "isSpecialFunctions": null,
+  "jasminPassword": "Duque2f5df6",
+  "jasminUser": "ZoeDoSantos@models1a.com",
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/0000009/desktop02.jpg",
+  "statusMantenienceRoom": "pending",
+  "SSID": "e76b9658-b5ee-8eda-2b38-0cd6c79aa4b6",
+  "isBreak": false,
+  "isStreaming": false,
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "currentApp": "",
+  "passwordFree": "MTIzNA==",
+  "mentor": "",
+  "isEnableToReservation": false,
+  "validSession": true,
+  "mentorComisionPercent": 5,
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "60de3e0fec3263b71f036b09"
+  },
+  "office": "L1",
+  "room": "MED02",
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1646672508833"
+    }
+  },
+  "monitorId": "60de396bec3263b71f031b6a",
+  "monitorIdTemp": "",
+  "artisticName": "Emma Cox",
+  "qualification": "3",
+  "roles": [
+    "model"
+  ],
+  "branch": "medellin",
+  "name": "Emma",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "00000010",
+  "phone": "3134020296",
+  "email": "mari@correo.com",
+  "city": "Medellín",
+  "isTop": null,
+  "user": "Emma Cox",
+  "password": "$2b$10$dpn3szK.aW1KDhLXsRdfoOuyp90QR5Dv/kpnj5fVitIWZ0PrsHS.2",
+  "jasminUser": "ZoeDoSantos@models1a.com",
+  "jasminPassword": "Duque2f5df6",
+  "streamateUser": "ZoeDoSantos@models1a.com",
+  "streamatePassword": "Duque2f5df6",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1625177615523"
+    }
+  },
+  "__v": 0,
+  "isEnable": false,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1646672511806"
+    }
+  },
+  "monitorIdSuper": "60f1f067f2f2fb76b081d06c",
+  "apps": [
+    "autologin"
+  ],
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1592697600000"
+    }
+  },
+  "isSpecialFunctions": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "statusRoom": "pending",
+  "SSID": "3fe30b8f-10a5-27fa-2c2f-4662f64fa55b",
+  "isBreak": false,
+  "isStreaming": false,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/60de3e0fec3263b71f036b09/EmmaCrox_profile.jpg",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "currentApp": "",
+  "passwordFree": "MTIzNA==",
+  "mentor": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "isEnableToReservation": true,
+  "mentorComisionPercent": 5,
+  "validSession": true,
+  "dateIsEnable": {
+    "$date": {
+      "$numberLong": "1650493498155"
+    }
+  },
+  "reasonDisable": "retiro"
+},{
+  "_id": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "office": "P2",
+  "room": "",
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1649458581869"
+    }
+  },
+  "monitorId": "60de396bec3263b71f031b6a",
+  "monitorIdTemp": "",
+  "artisticName": "OrianaSabatinni",
+  "qualification": "5",
+  "roles": [
+    "model"
+  ],
+  "branch": "pereira",
+  "name": "Maribel Torrez",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "00000011",
+  "phone": "3134020296",
+  "email": "marit@correo.com",
+  "city": "Pereira",
+  "isTop": null,
+  "user": "Ruddy",
+  "password": "$2b$10$rDKzugCkm6PThKYnz2seK.OBZKZXBe5mS2eLrYf/jSd3oWcarQTDK",
+  "jasminUser": "ZoeDoSantos@models1a.com",
+  "jasminPassword": "Duque2f5df6",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1625177716398"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1649459626729"
+    }
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1637884800000"
+    }
+  },
+  "isSpecialFunctions": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "monitorIdSuper": "60de3918ec3263b71f03121c",
+  "SSID": "a413e749-186a-48f5-f8a4-f3fce155d3f1",
+  "isBreak": false,
+  "isStreaming": false,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/00000011/RuddyRodriguez_n.png",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": "",
+    "schedule": ""
+  },
+  "currentApp": "",
+  "passwordFree": "MTIzNA==",
+  "validSession": false,
+  "mentor": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "isEnableToReservation": true,
+  "dateIsEnable": null,
+  "mentorComisionPercent": 5,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "office": null,
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651765750612"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": null,
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "name": "NuevoNombre",
+  "lastname": "Prueba",
+  "documentType": "CC",
+  "documentId": "00000012",
+  "phone": "3134020296",
+  "email": "superadmin@models1a.com",
+  "city": "",
+  "user": "superadmin",
+  "password": "$2b$10$5l4FOgB..j.BVbgUVa0Aieidbi13KbmMEa6/43JUZ7jn769ibgzFe",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1625177846901"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651765752288"
+    }
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/dev/autologin/users/60de3ef6ec3263b71f037685/images.png",
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ]
+  },
+  "SSID": "3c9a6c03-8cb1-0e2f-afb5-8a35d75dfd0f",
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": null,
+  "statusRoom": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "validSession": false
+},{
+  "_id": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "office": null,
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651705444498"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": null,
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1110583037001/download.jpg",
+  "name": "Super",
+  "lastname": "Pruebas",
+  "documentType": "CC",
+  "documentId": "1110583037001",
+  "phone": "3134020296",
+  "email": "superPruebas@models1a.com",
+  "city": "Medellín",
+  "user": "super",
+  "password": "$2b$10$Pe.cAXaj.oFGf38heVwhDexYyj1vx99MygTv8ukVNqmW4voRxwrN.",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1625242265988"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "statistics": [
+      "model"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "SSID": "093fc6be-c4f4-c3f4-b3fc-f62fa318e275",
+  "validSession": true,
+  "currentApp": "",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651705464809"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60df3bdaec3263b71f073a4b"
+  },
+  "office": null,
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1639427380890"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "5",
+  "roles": [
+    "coord"
+  ],
+  "branch": "medellin",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1110583037002/COORDINADOR-1.png",
+  "name": "Coordinador",
+  "lastname": "Pruebas Pruebas",
+  "documentType": "idcard",
+  "documentId": "1110583037002",
+  "phone": "3134020296",
+  "email": "coorPruebas@models1a.com",
+  "city": "Medellín",
+  "user": "CoorPruebas",
+  "password": "$2b$10$QIqkJwdOhh8qNIRQ/c7tlu.oGL3yjCIqT1uBbg67r0g5VRUucnqX6",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1625242586966"
+    }
+  },
+  "__v": 0,
+  "isEnable": false,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1639427401831"
+    }
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": true,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "administration": [
+      "coord"
+    ],
+    "reservations": [
+      "coord"
+    ],
+    "statistics": [
+      "coord"
+    ],
+    "website": [
+      "coord"
+    ],
+    "pays": [
+      "coord"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "SSID": "0a630d56-ff67-413a-0d7e-6ce927d21e3f",
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "validSession": false,
+  "dateIsEnable": {
+    "$date": {
+      "$numberLong": "1648670038144"
+    }
+  },
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "60df3c17ec3263b71f073a9f"
+  },
+  "office": "L1",
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651699344336"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": "",
+  "artisticName": null,
+  "qualification": "0",
+  "roles": [
+    "monitor"
+  ],
+  "branch": "medellin",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1110583037003/COORDINADOR-1.png",
+  "name": "Monitor",
+  "lastname": "Pruebas",
+  "documentType": "CC",
+  "documentId": "1110583037003",
+  "phone": null,
+  "email": "monitor@models1a.com",
+  "city": "Medellín",
+  "user": "monitor",
+  "password": "$2b$10$VFNNsrbxC8BmES8vmxy1sOnXRL9DUCaK.SLgtmenFSR.qI8J3y0D6",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1625242647040"
+    }
+  },
+  "__v": 0,
+  "isEnable": true,
+  "isTop": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651699349181"
+    }
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ],
+    "administration": [
+      "monitor"
+    ],
+    "reservations": [
+      "monitor"
+    ],
+    "statistics": [
+      "monitor"
+    ],
+    "website": [
+      "monitor"
+    ],
+    "pays": [
+      "monitor"
+    ]
+  },
+  "streamatePassword": null,
+  "streamateUser": null,
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "SSID": "fa23b351-d531-625a-17a5-8056b0d3dfc9",
+  "isReports": false,
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "statusMantenienceRoom": "pending",
+  "currentApp": "",
+  "isBreak": false,
+  "isStreaming": false,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "60df3dd1ec3263b71f073b98"
+  },
+  "office": "CUC",
+  "room": "",
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647358628553"
+    }
+  },
+  "monitorId": "60de396bec3263b71f031b6a",
+  "monitorIdTemp": "",
+  "artisticName": "ErikaHoffman",
+  "qualification": "3",
+  "roles": [
+    "model"
+  ],
+  "branch": "cucuta",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/11105830378/ErikaHoffman.jpg",
+  "name": "ErikaHoffman",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "11105830378",
+  "phone": "3134020296",
+  "email": "ErikaHoffman@models1a.com",
+  "city": "Cúcuta",
+  "isTop": null,
+  "user": "ErikaHoffman",
+  "password": "$2b$10$/j5Ip4neipwXOGlAsZUGau0ToSppya4R7uOq2Wd2EL99ABe8sNaD2",
+  "jasminUser": "ErikaHoffman@models1a.com",
+  "jasminPassword": "1234",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1625243089350"
+    }
+  },
+  "__v": 0,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "isEnable": true,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647360261470"
+    }
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1637884800000"
+    }
+  },
+  "isSpecialFunctions": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "mentor": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "statusRoom": "pending",
+  "monitorIdSuper": "",
+  "SSID": "e3d9252a-f304-58c4-2b93-c2046811265f",
+  "isBreak": false,
+  "isStreaming": false,
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": "",
+    "schedule": ""
+  },
+  "passwordFree": "MTIzNA==",
+  "isEnableToReservation": true,
+  "mentorComisionPercent": 5,
+  "dateIsEnable": null,
+  "validSession": true,
+  "currentApp": "",
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "60ef3e390de54c5a466afbb9"
+  },
+  "office": null,
+  "room": null,
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1634757195313"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1634772963690"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "0",
+  "roles": [
+    "coord"
+  ],
+  "branch": "medellin",
+  "name": "Diego León",
+  "lastname": "Gil",
+  "documentType": "CC",
+  "documentId": "200000001",
+  "phone": "3108290193",
+  "email": "soporte2@omgworldwidegroup.com",
+  "city": "Medellín",
+  "user": "Diego",
+  "password": "$2b$10$qYqUD98HJ.pHVgCjSEtww.YaGq30XU08Y7.h3IwHmN5EKfT3slaoe",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1626291769352"
+    }
+  },
+  "__v": 0,
+  "apps": [
+    "autologin"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/200000001/ProductManager-scaled.jpg",
+  "statusMantenienceRoom": "pending",
+  "SSID": "198878e1-0a69-cf78-ecdc-fa0aec232ccf",
+  "currentApp": "autologin"
+},{
+  "_id": {
+    "$oid": "60ef53f0a6c9c75d5e0c84f0"
+  },
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "city": "Medellín",
+  "origin": "webSite",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1626297107199"
+    }
+  },
+  "lastLogin": null,
+  "isActive": false,
+  "isOnline": false,
+  "documentType": "CC",
+  "documentId": "878256233",
+  "phone": "3024103423",
+  "user": "director de proyectos",
+  "name": "Alexander ",
+  "lastname": "Henao M",
+  "email": "alexander.henao@models1a.com",
+  "password": "$2b$10$61Y78BVQ1D5DftMg.H3GJu2EPpZKIxfVD.vf4C1lugLcHFm36JyuO",
+  "__v": 0,
+  "isEnable": true,
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": null,
+  "qualification": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ]
+  },
+  "room": null,
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/878256233/download.jpg",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  }
+},{
+  "_id": {
+    "$oid": "60ef555f0de54c5a466b0379"
+  },
+  "office": "L1",
+  "room": "MED04",
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647035072676"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647035125469"
+    }
+  },
+  "monitorId": "60de39c2ec3263b71f0322f2",
+  "monitorIdTemp": "",
+  "artisticName": "DanielaAlvarado",
+  "qualification": "3",
+  "roles": [
+    "model"
+  ],
+  "branch": "medellin",
+  "name": "Camila Andrea Ochoa Isaza",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "1020480945",
+  "phone": "3012759554",
+  "email": "diego.gil@models1a.com",
+  "city": "Medellín",
+  "user": "DanielaAlvarado",
+  "password": "$2b$10$sjW8Z8Q79iMoQo57A/y5eu4ZyKiw39j.KUqNr7dIDN4ZExyBdt79i",
+  "jasminUser": "DanielaAlvarado@Models1A.com",
+  "jasminPassword": "kljdsl541d5/*",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1626297695482"
+    }
+  },
+  "__v": 0,
+  "monitorIdSuper": "613279a40807a80bd74c2057",
+  "apps": [
+    "autologin"
+  ],
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1637884800000"
+    }
+  },
+  "isSpecialFunctions": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1020480945/Emma.jpg",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "isEnableToReservation": true,
+  "mentorComisionPercent": 5,
+  "dateIsEnable": null,
+  "SSID": "04670dbb-63d9-ce39-50a1-4ebba5f68c42",
+  "validSession": false,
+  "currentApp": "",
+  "isBreak": false,
+  "isStreaming": false
+},{
+  "_id": {
+    "$oid": "60ef56cb0de54c5a466b06b4"
+  },
+  "office": "L2",
+  "room": "MED12",
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1631927328258"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1631927838063"
+    }
+  },
+  "monitorId": "60de3918ec3263b71f03121c",
+  "monitorIdTemp": "",
+  "artisticName": "NataliaFoster",
+  "qualification": "4",
+  "roles": [
+    "model"
+  ],
+  "branch": "medellin",
+  "name": "Dahysbelimg Jimenez Parra",
+  "lastname": null,
+  "documentType": "CC",
+  "documentId": "1092343964",
+  "phone": "3012759554",
+  "email": "diego.leon@models1a.com",
+  "city": "Medellín",
+  "user": "NataliaFoster",
+  "password": "$2b$10$OMh2ifEHUvrdKg/2EksQWeWSf3pX9oEyMz2erLSV8b9Vs3PPltYS2",
+  "streamateUser": "NataliaFoster@Models1a.com",
+  "streamatePassword": "*654lkashduDJjhsha5*",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1626298059747"
+    }
+  },
+  "__v": 0,
+  "jasminPassword": "ASDJASdjk9*jsd",
+  "jasminUser": "NataliaFoster@Models1a.com",
+  "monitorIdSuper": "613a761ba2a34aeafe99a375",
+  "apps": [
+    "autologin"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1092343964/RuddyRodriguez.png",
+  "statusMantenienceRoom": "pending",
+  "SSID": "39bbd772-38d1-d248-83a8-eddcb09257fa",
+  "isBreak": false,
+  "isStreaming": false,
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "isEnableToReservation": true,
+  "mentorComisionPercent": 5
+},{
+  "_id": {
+    "$oid": "60f0bc13c688b969765416ea"
+  },
+  "office": "L1",
+  "room": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1646930601721"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1646931441061"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": "5",
+  "roles": [
+    "monitor"
+  ],
+  "branch": "medellin",
+  "name": "David",
+  "lastname": "Arboleda",
+  "documentType": "CC",
+  "documentId": "764746",
+  "phone": "3134020296",
+  "email": "David@models1a.com",
+  "city": "Medellín",
+  "user": "David",
+  "password": "$2b$10$7V/dVxmc8aWnRBitbJcJbuFwBrEbbjxKg0LB4S2C3v90hJdFNxFC2",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1626389523835"
+    }
+  },
+  "__v": 0,
+  "apps": [
+    "autologin"
+  ],
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "entrydate": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/764746/25_TrajeNovioHombres_GloriaPelaez-f4412f45.jpg",
+  "SSID": "53282b54-3c9c-f0de-e3d4-2ac68ce6ac66",
+  "isReports": true,
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "office": "P2",
+  "room": "PER02",
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651768669359"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651705152666"
+    }
+  },
+  "monitorId": "60de3acdec3263b71f0332e3",
+  "monitorIdTemp": "",
+  "artisticName": "OrianaSabatinni",
+  "qualification": "4",
+  "roles": [
+    "model"
+  ],
+  "branch": "pereira",
+  "name": "Modelo de ejemplo",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "1000442245",
+  "phone": "3133332322",
+  "email": "modelo@models1a.com",
+  "city": "Pereira",
+  "user": "modelo",
+  "password": "$2b$10$oNADxq9Hei1w8ILsY8B7seQn5AeAp9ekfC8GR4MQ33dn1Jq3PBQTO",
+  "jasminUser": "correo@test.com",
+  "jasminPassword": "1234",
+  "streamateUser": "correo@test.com",
+  "streamatePassword": "1234",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1626445108736"
+    }
+  },
+  "__v": 0,
+  "apps": [
+    "website",
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "rolesApp": {
+    "website": [
+      "model"
+    ],
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "reviewRoom": "pending",
+  "statusRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1000442245/Alejandra.jpg",
+  "monitorIdSuper": "60de396bec3263b71f031b6a",
+  "statusMantenienceRoom": "pending",
+  "SSID": "ea93a71f-62cf-e451-80d3-25759846200e",
+  "isBreak": false,
+  "isStreaming": false,
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "currentApp": "",
+  "passwordFree": "MTIzNA==",
+  "validSession": true,
+  "mentor": {
+    "$oid": "613280000807a80bd74c2cd7"
+  },
+  "mentorComisionPercent": 5,
+  "isEnableToReservation": false,
+  "dateIsEnable": null,
+  "isEnable": true,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "60f1b62fc688b96976543e2f"
+  },
+  "office": null,
+  "room": null,
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1633367120000"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1633387958031"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "artisticName": null,
+  "qualification": null,
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "name": "Luis",
+  "lastname": "Carlos",
+  "documentType": "CC",
+  "documentId": "336778",
+  "phone": "26672222",
+  "email": "Luis@models1a.com",
+  "city": "Medellín",
+  "user": "Luis",
+  "password": "$2b$10$nFfdJ4Rnt/1pgzLwUg6wbOmxlKxuUcndRH18UT28eDiP8/6d.35Xa",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1626453551304"
+    }
+  },
+  "__v": 0,
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "entrydate": null,
+  "isSpecialFunctions": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/336778/Elegantes-dise-os-2019-Casual-negocios-hombres-trajes-2-piezas-vestido-Formal-hombres-traje-conjunto-hombres_1200x1200.webp",
+  "SSID": "751a9f21-70db-96a4-b4d3-66e7f69c4f84",
+  "currentApp": "",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "statusMantenienceRoom": "pending"
+},{
+  "_id": {
+    "$oid": "60f1f067f2f2fb76b081d06c"
+  },
+  "office": null,
+  "room": null,
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1650493268215"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1650494956988"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "monitorIdSuper": null,
+  "artisticName": null,
+  "qualification": null,
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "isSpecialFunctions": null,
+  "name": "Jaime",
+  "lastname": "Ortiz",
+  "documentType": "CC",
+  "documentId": "10278895698",
+  "phone": "3211548623",
+  "email": "jaime.ortiz@models1a.com",
+  "city": "Medellín",
+  "user": "jaalorsa",
+  "password": "$2b$10$mTqCut5UsyaUbp20t9tNheUjT9ztFUUQ9yHUAXgg0p94PbzCfFaD.",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1626468455224"
+    }
+  },
+  "__v": 0,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "pays",
+    "website"
+  ],
+  "SSID": "f6d65e9f-360b-d07a-0b37-e40777aa77ed",
+  "entrydate": null,
+  "reviewRoom": null,
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ]
+  },
+  "statusRoom": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/10278895698/perfil1.jpg",
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "validSession": false
+},{
+  "_id": {
+    "$oid": "60f1f30ff2f2fb76b081da70"
+  },
+  "office": "L1",
+  "room": null,
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1645022250691"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1645022253085"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "monitorIdSuper": null,
+  "artisticName": null,
+  "qualification": "5",
+  "roles": [
+    "coord"
+  ],
+  "branch": "medellin",
+  "isSpecialFunctions": true,
+  "name": "Coordinador",
+  "lastname": "Especial",
+  "documentType": "CC",
+  "documentId": "2762672",
+  "phone": "3134020296",
+  "email": "CoordinadorEspecial@models1a.com",
+  "city": "Medellín",
+  "user": "CoordinadorEspecial",
+  "password": "$2b$10$/u2P48Vaww8Oh4oQEOU2B.N44YJIJv6jbWMXTsgOWc7TUXNYxGf7G",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1626469135391"
+    }
+  },
+  "__v": 0,
+  "apps": [
+    "autologin"
+  ],
+  "entrydate": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/2762672/coordinador-de-ventas.webp",
+  "SSID": "662b67d7-45e1-acfb-00a2-f39de9b6215b",
+  "statusMantenienceRoom": "pending",
+  "validSession": false,
+  "currentApp": ""
+},{
+  "_id": {
+    "$oid": "60f9e51cdda5c107c497a4db"
+  },
+  "office": null,
+  "room": null,
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1626990027513"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1626990662175"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "monitorIdSuper": null,
+  "artisticName": null,
+  "qualification": "5",
+  "roles": [
+    "coord"
+  ],
+  "branch": "medellin",
+  "isSpecialFunctions": true,
+  "apps": [
+    "autologin"
+  ],
+  "name": "Diego",
+  "lastname": "León",
+  "documentType": "CC",
+  "documentId": "102345667899",
+  "phone": "3000214110",
+  "email": "diego@models1a.com",
+  "city": "Medellín",
+  "user": "diego",
+  "password": "$2b$10$1NEg0n6v3urwjjSqpRcLNe6SOS8HSQy3sqsTTDs5VoyhY8PetQWxy",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1626989852109"
+    }
+  },
+  "__v": 0,
+  "entrydate": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/102345667899/ProductManager-scaled.jpg",
+  "statusMantenienceRoom": "pending"
+},{
+  "_id": {
+    "$oid": "60f9ea44dda5c107c497a9a2"
+  },
+  "office": "L1",
+  "room": null,
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1644612401056"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1644979957659"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "monitorIdSuper": null,
+  "artisticName": null,
+  "qualification": "5",
+  "roles": [
+    "coord"
+  ],
+  "branch": "medellin",
+  "isSpecialFunctions": true,
+  "apps": [
+    "autologin",
+    "website"
+  ],
+  "name": "Juan",
+  "lastname": "Cardona",
+  "documentType": "CC",
+  "documentId": "71277889",
+  "phone": "3146122363",
+  "email": "juan.cardona@models1a.com",
+  "city": "Medellín",
+  "user": "juancardona",
+  "password": "$2b$10$j13OnnwzAd2cm./.b8lU6eq6Vwb/ifNTUSWB/xSx5sf4Ih3NC9eJ.",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1626991172015"
+    }
+  },
+  "__v": 0,
+  "entrydate": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "website": [
+      "super"
+    ]
+  },
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/71277889/como_llegar_a_ser_jefe_9221.webp",
+  "SSID": "1469cd36-1931-6ea3-a316-3475b27e4bdb",
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "validSession": false,
+  "workShift": {
+    "name": null,
+    "schedule": null
+  }
+},{
+  "_id": {
+    "$oid": "60f9f49fdda5c107c497b203"
+  },
+  "office": null,
+  "room": null,
+  "isTop": null,
+  "isActive": false,
+  "isOnline": false,
+  "isEnable": true,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1637987194797"
+    }
+  },
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1637987202762"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "monitorIdSuper": null,
+  "artisticName": null,
+  "qualification": "5",
+  "roles": [
+    "coord"
+  ],
+  "branch": "medellin",
+  "isSpecialFunctions": true,
+  "apps": [
+    "autologin"
+  ],
+  "name": "Felipe",
+  "lastname": "Torres",
+  "documentType": "idcard",
+  "documentId": "115219457534",
+  "phone": "3219219396",
+  "email": "felipe.torres@models1a.com",
+  "city": "Medellín",
+  "user": "felipetorres",
+  "password": "$2b$10$Zkks0pwCYu1BLf8cXZYYN.ETU0uQ93HMC1wArU7oC98p2oeJdLpPy",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1626993823767"
+    }
+  },
+  "__v": 0,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1152194575/33444d14f577e1cfde15ef822f3015fb.jpg",
+  "entrydate": null,
+  "reviewRoom": "pending",
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ]
+  },
+  "statusRoom": "pending",
+  "SSID": "ad3e9e41-21c5-023a-1aca-424d59954fd3",
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "dateIsEnable": null,
+  "workShift": {
+    "name": null,
+    "schedule": null
+  }
+},{
+  "_id": {
+    "$oid": "610d7d74928beb386422861e"
+  },
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "date": {
+    "$date": {
+      "$numberLong": "1628256036000"
+    }
+  },
+  "email": "luishurtado@modela1a.com",
+  "user": "luiscarlosak47",
+  "name": "luiscarlosak47",
+  "password": "$2b$10$SllJr18jzBm3wjdGeNNsC.bPKqEfF.O4my0SOge2MgrIhfYEJ6Eo2",
+  "__v": 0,
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "city": "Medellín",
+  "documentId": "33523265",
+  "documentType": "CC",
+  "entrydate": null,
+  "isActive": false,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastname": "",
+  "office": null,
+  "phone": "",
+  "qualification": null,
+  "role": null,
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ]
+  },
+  "room": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "reviewRoom": "pending",
+  "statusMantenienceRoom": "pending",
+  "statusRoom": "pending"
+},{
+  "_id": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "roles": [
+    "super"
+  ],
+  "branch": "medellin",
+  "date": {
+    "$date": {
+      "$numberLong": "1628510620000"
+    }
+  },
+  "email": "luiscarloshurtado@live.com",
+  "user": "luiscarlos",
+  "name": "Luis Carlos",
+  "password": "$2b$10$nZCUvRAGSOog2iG46LwGPu3lO3uyVLeF9W1EN9ERkDhD0kuac8PTS",
+  "provider": "facebook",
+  "__v": 0,
+  "authCode": "929708",
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "city": "Medellín",
+  "documentId": "",
+  "documentType": "idcard",
+  "entrydate": null,
+  "isActive": false,
+  "isOnline": true,
+  "isSpecialFunctions": null,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastname": "Hurtado",
+  "office": null,
+  "phone": "3117559761",
+  "qualification": null,
+  "role": "superadmin",
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ]
+  },
+  "room": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "birthday": {
+    "$date": {
+      "$numberLong": "1632441600000"
+    }
+  },
+  "calling_code": "57",
+  "calling_code_flag": "https://myfans1a.s3.amazonaws.com/api/country/flags/CO.svg",
+  "country": "Colombia",
+  "country_flag": "https://myfans1a.s3.amazonaws.com/api/country/flags/CO.svg",
+  "describe": "",
+  "website": "https://alpha.omgworldwidegroup.com/luiscarlos",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/dev/autologin/users/61115fec912ac409d4a65310/Luis%20Carlos.jpg",
+  "cover": "https://myfans1a.s3.amazonaws.com/users/61115fec912ac409d4a65310/cover.jpeg?id=b49ceac4-800e-2a82-8e39-094f75bf8b15",
+  "reviewRoom": "pending",
+  "statusMantenienceRoom": "pending",
+  "statusRoom": "pending",
+  "SSID": "4f07e023-0b0b-4f3a-3cd1-ee9b661ad184",
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651762467456"
+    }
+  },
+  "verifyCode": "",
+  "validSession": true,
+  "currentApp": "autologin",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651767034554"
+    }
+  },
+  "dateIsEnable": null,
+  "isEnable": true,
+  "workShift": {
+    "name": null,
+    "schedule": null
+  }
+},{
+  "_id": {
+    "$oid": "61157d8a5b9fde1ffc82cfb4"
+  },
+  "roles": [
+    "user"
+  ],
+  "branch": "nobranch",
+  "date": {
+    "$date": {
+      "$numberLong": "1628780346000"
+    }
+  },
+  "email": "test@test.com",
+  "user": "tester",
+  "name": "tester",
+  "password": "$2b$10$C8ziakOWorP5ZgNx6HNuy.Zg76YEX0w4tKNjcvT3WNrbc.4zHhvVG",
+  "__v": 0,
+  "isActive": false,
+  "isOnline": false,
+  "reviewRoom": "pending",
+  "statusMantenienceRoom": "pending",
+  "statusRoom": "pending"
+},{
+  "_id": {
+    "$oid": "61293d52f4f83a5860f67cb0"
+  },
+  "roles": [
+    "user"
+  ],
+  "branch": "nobranch",
+  "date": {
+    "$date": {
+      "$numberLong": "1630074626000"
+    }
+  },
+  "email": "usuario@email.com",
+  "user": "Prueba usuario",
+  "name": "usuario",
+  "password": "$2b$10$t06YpE6qAhnFaypgvAgGGOzo8XIQoUj7TvZTT8X1JHUOPFgOUzXBS",
+  "__v": 0,
+  "birthday": null,
+  "country": "Argentina",
+  "country_flag": "https://restcountries.eu/data/arg.svg",
+  "describe": "Test RC",
+  "phone": "",
+  "website": "https://alpha.omgworldwidegroup.com/undefined",
+  "isActive": false,
+  "isOnline": false,
+  "reviewRoom": "pending",
+  "statusMantenienceRoom": "pending",
+  "statusRoom": "pending"
+},{
+  "_id": {
+    "$oid": "6130f9414e6ca9ca903098ad"
+  },
+  "apps": [
+    "autologin",
+    "website",
+    "administration",
+    "reservations",
+    "statistics"
+  ],
+  "branch": "medellin",
+  "city": "Medellín",
+  "date": {
+    "$date": {
+      "$numberLong": "1630595804297"
+    }
+  },
+  "isActive": false,
+  "isEnable": true,
+  "isOnline": false,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647043748139"
+    }
+  },
+  "origin": "webSite",
+  "role": "coordinator",
+  "roles": [
+    "coord"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "website": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "reservations": [
+      "coord"
+    ],
+    "statistics": [
+      "coord"
+    ]
+  },
+  "documentType": "CC",
+  "documentId": "214230882",
+  "phone": "123451324",
+  "user": "miguelPrueba",
+  "name": "Miguel",
+  "lastname": "Pruebas",
+  "email": "jaime.ortiz@onegroupitservices.com",
+  "password": "$2b$10$MFT7biKaV3BFHTy1T42yuen1VhwwG7z27in9V.44C2wEWFCmc.MeW",
+  "__v": 0,
+  "SSID": "ee16444f-340a-a44e-4ef6-e8ecf9c2e379",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647043802487"
+    }
+  },
+  "artisticName": null,
+  "entrydate": null,
+  "isSpecialFunctions": true,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "office": "L1",
+  "qualification": "5",
+  "reviewRoom": null,
+  "room": null,
+  "statusRoom": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/214230882/COORDINADOR-3.jpg",
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "6130f9f484ddbbca9826399a"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647043791647"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647043680083"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": "L2",
+  "qualification": "4",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ],
+    "reservations": [
+      "monitor"
+    ],
+    "statistics": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "be94de0c-8466-1c77-32f6-6671b2a6b533",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "name": "Samantha",
+  "lastname": "Pruebas",
+  "documentType": "CC",
+  "documentId": "7298374812",
+  "phone": "2341234",
+  "email": "samanthaPrueba@models1a.com",
+  "city": "Medellín",
+  "user": "samanthaPrueba",
+  "password": "$2b$10$lxC1ZEzp6kj4xsamBpOJkOCBvIS7tnrt5lQERLhZC4xTRqnxLqxv.",
+  "statusRoom": null,
+  "reviewRoom": null,
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1630599668812"
+    }
+  },
+  "__v": 0,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/7298374812/730813_w464h700cx236cy142.jpg",
+  "isReports": true,
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "all"
+  ],
+  "validSession": false
+},{
+  "_id": {
+    "$oid": "613279a40807a80bd74c2057"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1637348743614"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1637091462010"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": "L4",
+  "qualification": "5",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "e4cb75e7-09f9-d383-87cd-c0058615dc19",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "name": "Alejandro",
+  "lastname": "Santos Blair",
+  "documentType": "CC",
+  "documentId": "1152439541",
+  "phone": "3007402688",
+  "email": "alejo@models.com",
+  "city": "Medellín",
+  "user": "AlejandroSantos",
+  "password": "$2b$10$b3ubp.5ad3.xa3hGp4q8quWwbB8TaaphQtQY0xBGnzzZ.Mce6uqZy",
+  "statusRoom": null,
+  "reviewRoom": null,
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1630697892769"
+    }
+  },
+  "__v": 0,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1152439541/IMG_8908.jpg",
+  "isReports": false,
+  "currentApp": "",
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "61327bed0807a80bd74c2512"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1637868632661"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1637868630692"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "5",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "f26a8ceb-97a1-3c33-80c9-780bd4a6f92c",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "name": "Luis",
+  "lastname": "Ramirez",
+  "documentType": "CC",
+  "documentId": "1152204353",
+  "phone": "3023311959",
+  "email": "luisr@models.com",
+  "city": "Medellín",
+  "user": "LuisRamirez",
+  "password": "$2b$10$tPcpe6DxO.bA0w/RxTQdtuBr6q.pwv4gzzxFpeDIJDAYXrciwI56K",
+  "statusRoom": "pending",
+  "reviewRoom": "pending",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1630698477992"
+    }
+  },
+  "__v": 0,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1152204353/hombres_que_mejor_visten_traje_931914062.webp",
+  "currentApp": "",
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "61327d560807a80bd74c2738"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "AlexaNovoa",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1617408000000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647385685418"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647385655401"
+    }
+  },
+  "monitorId": "60de396bec3263b71f031b6a",
+  "monitorIdSuper": null,
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "3",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "room": "MED30",
+  "SSID": "d646b7f6-baa8-40f3-521c-12d90ce643bb",
+  "streamatePassword": "654*96Jkajsd*95",
+  "streamateUser": "alexanovoa@models1a.com",
+  "name": "AlexaNovoa Nombre",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "11111111",
+  "phone": "1322132132",
+  "email": "alexanovoa@models1a.com",
+  "city": "Medellín",
+  "user": "AlexaNovoa",
+  "password": "$2b$10$wG/Djl9Pb/HVxZMNcnb8sebsBIjBhb00e.YN/6X0ZuUMz9SvD3dfq",
+  "statusRoom": "pending",
+  "reviewRoom": "pending",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1630698838302"
+    }
+  },
+  "__v": 0,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/11111111/Emma.jpg",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "currentApp": "",
+  "isEnableToReservation": true,
+  "dateIsEnable": null,
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "613280000807a80bd74c2cd7"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "AdrianaAkerman",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1594598400000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "V4ljh5dhg-",
+  "jasminUser": "AdrianaAkerman@Models1A.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1644521911901"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1644521908334"
+    }
+  },
+  "monitorId": "613279a40807a80bd74c2057",
+  "monitorIdSuper": "613279a40807a80bd74c2057",
+  "monitorIdTemp": "",
+  "office": "L2",
+  "qualification": "NaN",
+  "roles": [
+    "model",
+    "mentor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "mentor": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "role": "model",
+  "room": "MED12",
+  "SSID": "bc73bfde-0809-0d08-0394-fb3ce13f1c75",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "name": "AdrianaAkerman",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "1156445",
+  "phone": "121648135154",
+  "email": "AdrianaAkerman@models1a.com",
+  "city": "Medellín",
+  "user": "AdrianaAkerman",
+  "password": "$2b$10$sqlJJDSxmfZrP8KCLLAmlegi6ILjRWKOZta0D7XqoSfwWbOrOxP5y",
+  "statusRoom": "pending",
+  "reviewRoom": "pending",
+  "date": {
+    "$date": {
+      "$numberLong": "1630699520312"
+    }
+  },
+  "__v": 0,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/613280000807a80bd74c2cd7/AdrianaAkerman_profile.jpg",
+  "statusMantenienceRoom": "pending",
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "currentApp": "",
+  "validSession": true,
+  "isEnableToReservation": true,
+  "dateIsEnable": null,
+  "mentorComisionPercent": 5,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "6138fff6293007c1eb8b7d19"
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647963593542"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647959174591"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": null,
+  "qualification": null,
+  "roles": [
+    "super"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ]
+  },
+  "room": null,
+  "SSID": "ff91e795-4ffa-e8e2-3472-702a1d15308d",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "name": "Jose Anibal",
+  "lastname": "Garcia Giraldo",
+  "documentType": "CC",
+  "documentId": "1231232331",
+  "phone": "312931923913",
+  "email": "jagarcia@test.com",
+  "city": "Medellín",
+  "user": "JaGarcia",
+  "password": "$2b$10$nALUZs0VnQ.nbPL3xJCA..YudgHKeSYchvIWRQW3..LYYFN2VnF5y",
+  "statusRoom": "pending",
+  "reviewRoom": "pending",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1631125494011"
+    }
+  },
+  "__v": 0,
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "currentApp": "",
+  "statusMantenienceRoom": "pending",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/6138fff6293007c1eb8b7d19/screen-post-lYQvb5qgDnY-unsplash.jpg",
+  "validSession": false
+},{
+  "_id": {
+    "$oid": "613a761ba2a34aeafe99a375"
+  },
+  "apps": [
+    "autologin",
+    "reservations"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1639146206689"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1639146205100"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "5",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ],
+    "reservations": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "19e9a1ef-e2dc-fa61-185f-b8ebb578a15c",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "name": "Jose Anibal",
+  "lastname": "Garcia Giraldo",
+  "documentType": "CC",
+  "documentId": "12312323311233",
+  "phone": "3196150410123",
+  "email": "asd123@trest.com",
+  "city": "Medellín",
+  "user": "JaGarciaM",
+  "password": "$2b$10$ODjGJg1XO06jOaDK5Ooxj.sqsg1muF.rBIH8rgAtKQhnhLzubo3nG",
+  "statusRoom": "pending",
+  "reviewRoom": "pending",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1631221275640"
+    }
+  },
+  "__v": 0,
+  "isReports": true,
+  "currentApp": "",
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "statusMantenienceRoom": "pending",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": false
+},{
+  "_id": {
+    "$oid": "61450d70a76cca32e6ee2968"
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": "Megan Fox",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1555200000000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "jasminUser": "MeganFox@models1a.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1649784104319"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1650476303527"
+    }
+  },
+  "monitorId": "60de396bec3263b71f031b6a",
+  "monitorIdSuper": null,
+  "monitorIdTemp": "",
+  "office": "L1",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "administration": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ],
+    "website": [
+      "model"
+    ],
+    "pays": [
+      "model"
+    ]
+  },
+  "room": "MED03",
+  "SSID": "2494d7b6-3ed3-4fd9-ab73-bcffdffbd86e",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "name": "Megan Flores",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "1231232331111",
+  "phone": "1241241212",
+  "email": "megan@test.com",
+  "city": "Medellín",
+  "user": "MeganFox",
+  "password": "$2b$10$wv8LWDs8/6IdPETPXNRjJeED/ACG8yzdI5o74IFASK4yQ4SDKozqK",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1631915376081"
+    }
+  },
+  "__v": 0,
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "currentApp": "",
+  "passwordFree": "MTIzNA==",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/61450d70a76cca32e6ee2968/2021-11-09_17h20_54.png",
+  "validSession": true,
+  "isEnableToReservation": false,
+  "mentorComisionPercent": 5,
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "6148cb79a8ee3459cb4231d9"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "estefita",
+  "branch": "bogota",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1634169600000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234523241*estefita*la*mas*cool_desdeacapruebolacontraseñalarga",
+  "jasminUser": "estefita@test22.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651705166117"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651705163623"
+    }
+  },
+  "monitorId": "6130f9f484ddbbca9826399a",
+  "monitorIdSuper": null,
+  "monitorIdTemp": "",
+  "office": "BOG",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "BOG05",
+  "SSID": "c2197d6b-3b9f-4aea-288f-db9c44e1f1d5",
+  "statusRoom": "pending",
+  "streamatePassword": "1234523241*estefita*la*mas*cool_desdeacapruebolacontraseñalarga",
+  "streamateUser": "estefita@test22.com",
+  "statusMantenienceRoom": "pending",
+  "name": "Estefania Peranto",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "231354133413",
+  "phone": "24123413",
+  "email": "estefa@test22.com",
+  "city": "Bogotá",
+  "user": "estefita",
+  "password": "$2b$10$SH6L2jlN73.zcIeTzLRiSON9PbuSOfY0X1AJS3BOQ5kcVkyd.jH.S",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1632160633657"
+    }
+  },
+  "__v": 0,
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "passwordFree": "MTIzNA==",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/6148cb79a8ee3459cb4231d9/2021-11-09_17h19_56.png",
+  "currentApp": "",
+  "validSession": true,
+  "isEnableToReservation": false,
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "paulis",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1635811200000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "12345678",
+  "jasminUser": "paulis@test22.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1648268490112"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1648236608788"
+    }
+  },
+  "monitorId": "6130f9f484ddbbca9826399a",
+  "monitorIdSuper": null,
+  "monitorIdTemp": "",
+  "office": "L1",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED01",
+  "SSID": "9a6eef1e-bdfa-b54a-ecd2-6247a871af8f",
+  "statusRoom": "pending",
+  "streamatePassword": "123445678",
+  "streamateUser": "paulis@test22.com",
+  "statusMantenienceRoom": "pending",
+  "name": "Paula Maria Gutierrez",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "45363452",
+  "phone": "24154564325",
+  "email": "paulis@test22.com",
+  "city": "Medellín",
+  "user": "paulis",
+  "password": "$2b$10$0kkQER9Rn0qbV42hkUET6uWtFLBKmtzw2m688hM1Axnwl62V8Epqm",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1632161168458"
+    }
+  },
+  "__v": 0,
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/45363452/pexels-juan-vargas-6059384.jpg",
+  "currentApp": "",
+  "passwordFree": "MTIzNA==",
+  "validSession": false,
+  "isEnableToReservation": false,
+  "dateIsEnable": null
+},{
+  "_id": {
+    "$oid": "6148eb2b1b2ddf5c737cae5f"
+  },
+  "roles": [
+    "user"
+  ],
+  "branch": "nobranch",
+  "date": {
+    "$date": {
+      "$numberLong": "1632150747000"
+    }
+  },
+  "email": "crespomajadero@gmail.com",
+  "user": "Pruebadiseñador",
+  "name": "Pruebadiseñador",
+  "password": "$2b$10$XcBrtni0S/8mpGj4IKHjhOiIQU3cs9pcneE.41Fs5VIqKBMlrL4eK",
+  "__v": 0,
+  "birthday": {
+    "$date": {
+      "$numberLong": "697766400000"
+    }
+  },
+  "calling_code": "57",
+  "calling_code_flag": "https://restcountries.eu/data/col.svg",
+  "country": "Colombia",
+  "country_flag": "https://restcountries.eu/data/col.svg",
+  "describe": "Texto de prueba para descripción del perfil",
+  "phone": "",
+  "website": "https://alpha.omgworldwidegroup.com/Pruebadiseñador",
+  "picture": "https://myfans1a.s3.amazonaws.com/users/6148eb2b1b2ddf5c737cae5f/avatar.jpeg?id=f9de8a1b-b8c3-fbe7-d0e7-481ef3b156e1",
+  "cover": "https://myfans1a.s3.amazonaws.com/users/6148eb2b1b2ddf5c737cae5f/cover.jpeg?id=96773d55-0852-71ed-bddf-e7e27ab22e8a",
+  "isActive": false,
+  "isOnline": false,
+  "reviewRoom": "pending",
+  "statusMantenienceRoom": "pending",
+  "statusRoom": "pending"
+},{
+  "_id": {
+    "$oid": "614baa846a0b9e82f29e753b"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1634786525117"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1634786484359"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": "L4",
+  "qualification": "5",
+  "reviewRoom": null,
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "a29787ba-9115-6673-fb58-60f585776e35",
+  "statusRoom": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "name": "Cristian",
+  "lastname": "Rubiano",
+  "documentType": "CC",
+  "documentId": "1014205253",
+  "phone": "3142556572",
+  "email": "crissala89@gmail.com",
+  "city": "Medellín",
+  "user": "CristianRubiano",
+  "password": "$2b$10$cuMiK3xDZCIt0g11vt8jWeyCgdDliO4dyMV6mrnVf/ANrDXVsTEJ.",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1632348804012"
+    }
+  },
+  "__v": 0,
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1014205253/IMG_8909.jpg",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "614bac0f6a0b9e82f29e75d8"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1637522409360"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1649190694812"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": "L4",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "1cf226dd-aaa6-0d55-98d7-e858c068b0b9",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "name": "Mauricio",
+  "lastname": "Ocampo",
+  "documentType": "CC",
+  "documentId": "1045113529",
+  "phone": "3193211662",
+  "email": "ocampotob@hotmail.com",
+  "city": "Medellín",
+  "user": "MauricioOcampo",
+  "password": "$2b$10$GwkMFymRL/S6CuZO39lcvuTooGuJYIJ5nFltfcdBStYGIR5drERie",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1632349199865"
+    }
+  },
+  "__v": 0,
+  "currentApp": "",
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "614e3c66b22be8c3a3db314b"
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "clementina",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1630195200000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "clementina",
+  "jasminUser": "clementina@test22.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651699784802"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651699755120"
+    }
+  },
+  "monitorId": "6130f9f484ddbbca9826399a",
+  "monitorIdSuper": null,
+  "monitorIdTemp": "",
+  "office": "L1",
+  "qualification": "3",
+  "reviewRoom": "pending",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED01",
+  "SSID": "45e7aa08-d328-581b-ad05-3bfc21fc304f",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "name": "Alicia Sanchez",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "1029331",
+  "phone": "93872211",
+  "email": "clementina@test22.com",
+  "city": "Medellín",
+  "user": "clementina",
+  "password": "$2b$10$LjrurYn/I5Xw7TqQLv4Tg.4NPwV4fDdm6hH4X5UCp2YFjfVomPf8m",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1632517222053"
+    }
+  },
+  "passwordFree": "MTIzNA==",
+  "__v": 0,
+  "currentApp": "",
+  "validSession": true,
+  "isEnableToReservation": false
+},{
+  "_id": {
+    "$oid": "614e3cb0b22be8c3a3db3164"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1639695486870"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1639695481242"
+    }
+  },
+  "monitorId": null,
+  "monitorIdSuper": null,
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "83c76838-2586-bd93-b653-2a4e899f7438",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "name": "Perano",
+  "lastname": "Gonzales",
+  "documentType": "CC",
+  "documentId": "28198331",
+  "phone": "2381234",
+  "email": "peranito@test22.com",
+  "city": "Medellín",
+  "user": "peranito",
+  "password": "$2b$10$oepfZm62WUkKEc0qtFx7U.jtuH0wGM1gEk0TDuWaoSkE4JXXKZOue",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1632517296972"
+    }
+  },
+  "__v": 0,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/614e3cb0b22be8c3a3db3164/screen-post-lYQvb5qgDnY-unsplash.jpg",
+  "hasPermitionStatistics": [
+    "all"
+  ],
+  "validSession": true,
+  "currentApp": ""
+},{
+  "_id": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "roles": [
+    "user"
+  ],
+  "branch": "nobranch",
+  "date": {
+    "$date": {
+      "$numberLong": "1632502036000"
+    }
+  },
+  "email": "usuario@models1a.com",
+  "user": "usuario",
+  "name": "usuario",
+  "password": "$2b$10$7Gi3pZkVvq4k3bETNO4YWO4M9MTYuiuld/DBm57qSCpE.TigDcdAy",
+  "__v": 0,
+  "birthday": null,
+  "calling_code": "57",
+  "calling_code_flag": "https://myfans1a.s3.amazonaws.com/api/country/flags/CO.svg",
+  "country": "United States of America",
+  "country_flag": "https://myfans1a.s3.amazonaws.com/api/country/flags/US.svg",
+  "describe": "Esta es una prueba.&nbsp;",
+  "phone": "",
+  "website": "https://alpha.omgworldwidegroup.com/usuario",
+  "cover": "https://myfans1a.s3.amazonaws.com/users/614e4764665a12c3930b33d9/cover.jpeg?id=e60f44a8-4b6f-e0b6-832a-81674e964468",
+  "picture": "https://myfans1a.s3.amazonaws.com/users/614e4764665a12c3930b33d9/avatar.jpeg?id=e60f44a8-4b6f-e0b6-832a-81674e964468",
+  "isActive": false,
+  "isOnline": false,
+  "reviewRoom": "pending",
+  "statusMantenienceRoom": "pending",
+  "statusRoom": "pending",
+  "SSID": "4cacf0db-bcf6-0373-f346-b0a302fc025d",
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1646084998458"
+    }
+  },
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "615bafce1fbc21d134b62602"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1637701376153"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1649191013525"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "L4",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": "",
+  "SSID": "8b650933-ef28-0b64-db6e-eb51f6c238d7",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "currentApp": "",
+  "name": "Juan Pablo",
+  "lastname": "Arango",
+  "documentType": "idcard",
+  "documentId": "1036656655",
+  "phone": "3194189891",
+  "email": "Juanpablo@models.com",
+  "city": "Medellín",
+  "user": "JuanPablo",
+  "password": "$2b$10$uggf6tCBFfrNhNQkhLZF8O9/A3iUHml2SkWCu1YgTDwYCLI3FbMpu",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1633398734182"
+    }
+  },
+  "__v": 0,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "validSession": true,
+  "area": {
+    "$oid": "626aa80887b4a30ccbd18746"
+  },
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "615bb3261fbc21d134b6266e"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": null,
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "currentApp": null,
+  "name": "Cristian",
+  "lastname": "Rivera",
+  "documentType": "idcard",
+  "documentId": "1152213084",
+  "phone": "3012093669",
+  "email": "Cristianrivera@models.com",
+  "city": "Medellín",
+  "user": "Rivera",
+  "password": "$2b$10$y2h98WAJ969HCPQ2s6lrVONa9NedrHHPvUbR8QHWUvnIGZmGiovSS",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1633399590357"
+    }
+  },
+  "__v": 0,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "dateIsEnable": null
+},{
+  "_id": {
+    "$oid": "615bb3641fbc21d134b62678"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "bogota",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "BOG",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": null,
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "currentApp": null,
+  "name": "Luis",
+  "lastname": "Echenique",
+  "documentType": "CC",
+  "documentId": "1129521560",
+  "phone": "3187129843",
+  "email": "Luisechenique@models.com",
+  "city": "Bogotá",
+  "user": "LuisEchenique",
+  "password": "$2b$10$FGMX6M4eVgHoGCNXlDyATeyDBzraBZSfCZmIhUXRiod0o5v1JUngC",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1633399652556"
+    }
+  },
+  "__v": 0,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "615bb4c51fbc21d134b6268a"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "cucuta",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "CUC",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": null,
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "currentApp": null,
+  "name": "Sebastián",
+  "lastname": "Bautista",
+  "documentType": "CC",
+  "documentId": "1005039198",
+  "phone": "3003676896",
+  "email": "Sebastianbautista@models.com",
+  "city": "Cúcuta",
+  "user": "Bautista",
+  "password": "$2b$10$oMeIPwGToevwarDrd/M0yem.ZRms34dNJfV.RZt2Glswqrejyk64i",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1633400005889"
+    }
+  },
+  "__v": 0,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "615bb6601fbc21d134b626b1"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "L3",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": null,
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "currentApp": null,
+  "name": "Daniel",
+  "lastname": "Alvarez",
+  "documentType": "CC",
+  "documentId": "1017196670",
+  "phone": "3104988030",
+  "email": "Danielalvarez@models.com",
+  "city": "Medellín",
+  "user": "DanielAlvarez",
+  "password": "$2b$10$zl/7.8nSIx1n9Ly8Wsri2OlZEWWvPzy00bGbd5cNGRUrGmHHOcd3.",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1633400416423"
+    }
+  },
+  "__v": 0,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "roles": [
+    "user",
+    "creator"
+  ],
+  "branch": "nobranch",
+  "date": {
+    "$date": {
+      "$numberLong": "1633447566000"
+    }
+  },
+  "email": "MarisaDaSouza@models1a.com",
+  "user": "MarisaDaSouza",
+  "name": "Marisa Da Souza",
+  "password": "$2b$10$t3Z5gPu28v7c7lE0l/LbBexM.HaqwvLMcDjVpVOueGXuVVOY40Cve",
+  "__v": 0,
+  "birthday": null,
+  "calling_code": "",
+  "calling_code_flag": "",
+  "country": "",
+  "country_flag": "",
+  "describe": "",
+  "phone": "",
+  "website": "https://alpha.omgworldwidegroup.com/MarisaDaSouza",
+  "cover": "https://myfans1a.s3.amazonaws.com/users/615cb4de5cd32426ec0f8dbd/cover.png?id=91c1ea8b-9e41-4397-974b-61a1ba882dc9",
+  "picture": "https://myfans1a.s3.amazonaws.com/users/615cb4de5cd32426ec0f8dbd/avatar.png?id=91c1ea8b-9e41-4397-974b-61a1ba882dc9",
+  "reviewRoom": "pending",
+  "statusMantenienceRoom": "pending",
+  "statusRoom": "pending"
+},{
+  "_id": {
+    "$oid": "615efebd5362a43b1060be6e"
+  },
+  "roles": [
+    "user",
+    "creator"
+  ],
+  "branch": "nobranch",
+  "date": {
+    "$date": {
+      "$numberLong": "1633597549000"
+    }
+  },
+  "email": "ruddyrodriguez@models1a.com",
+  "user": "RuddyRodriguez",
+  "name": "Ruddy Rodriguez",
+  "password": "$2b$10$Ik8SShc.jBcZt8NTAm3tG.TT8aT3YHiY53PI.on2F2eDLX4phaRJ.",
+  "__v": 0,
+  "birthday": null,
+  "calling_code": "57",
+  "calling_code_flag": "https://myfans1a.s3.amazonaws.com/api/country/flags/CO.svg",
+  "country": "Colombia",
+  "country_flag": "https://myfans1a.s3.amazonaws.com/api/country/flags/CO.svg",
+  "describe": "",
+  "phone": "",
+  "website": "https://alpha.omgworldwidegroup.com/RuddyRodriguez",
+  "cover": "https://myfans1a.s3.amazonaws.com/users/615efebd5362a43b1060be6e/cover.png?id=1839e792-f5f4-888f-2135-ebc124758fb9",
+  "picture": "https://myfans1a.s3.amazonaws.com/users/615efebd5362a43b1060be6e/avatar.png?id=1839e792-f5f4-888f-2135-ebc124758fb9",
+  "reviewRoom": "pending",
+  "statusMantenienceRoom": "pending",
+  "statusRoom": "pending"
+},{
+  "_id": {
+    "$oid": "6168872f6a1cce6ddc90a903"
+  },
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1635524985972"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1635524844221"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": null,
+  "qualification": null,
+  "reviewRoom": "pending",
+  "roles": [
+    "super"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "administration": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ],
+    "pays": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ]
+  },
+  "room": null,
+  "SSID": "6a6b1249-032a-183c-613e-457b89d540fd",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1152700875/descarga.png",
+  "name": "DesarrolladorOMG",
+  "lastname": "OMG",
+  "documentType": "CE",
+  "documentId": "1152700875",
+  "phone": "3197658790",
+  "email": "david.arboleda@models1a.com",
+  "city": "Medellín",
+  "user": "Desarrollador",
+  "password": "$2b$10$PRBzg.MH4mLgvLUH7FRIOuKr/AiwLuylSJhX6T1mNVcJ8ujggIoIC",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1634240303295"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61688ed76a1cce6ddc90ae39"
+  },
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "apps": [
+    "autologin",
+    "administration",
+    "reservations",
+    "statistics",
+    "website",
+    "pays"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": true,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1635259774555"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1635191108464"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "coord"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "administration": [
+      "coord"
+    ],
+    "statistics": [
+      "coord"
+    ],
+    "website": [
+      "coord"
+    ],
+    "pays": [
+      "coord"
+    ],
+    "reservations": [
+      "coord"
+    ]
+  },
+  "room": null,
+  "SSID": "f3b4424b-7157-3c83-d9d2-d059f15aa577",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "currentApp": "",
+  "name": "OMG",
+  "lastname": "GROUP",
+  "documentType": "CC",
+  "documentId": "6456978456",
+  "phone": "3197658790",
+  "email": "correo@models1a.com",
+  "city": "Medellín",
+  "user": "DesarrolladorCoord",
+  "password": "$2b$10$H7MhziUjPK.pX6D7hJFPpO33JafcgkTAhLo2Lv28rpLibSOjow52q",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1634242263106"
+    }
+  },
+  "__v": 0,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/6456978456/logo.jpg"
+},{
+  "_id": {
+    "$oid": "617044019430c4caf3c631d9"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "AngieFox",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1626134400000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "Duque2f5df6",
+  "jasminUser": "ZoeDoSantos@Models1A.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1634839351181"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1634839221887"
+    }
+  },
+  "monitorId": "613279a40807a80bd74c2057",
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "5",
+  "reviewRoom": "success",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "room": "MED22",
+  "SSID": "da2386da-a9ad-9603-7c4b-a5bc1158b8a8",
+  "statusRoom": "notSuccess",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "notRequired",
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/10987654/carolinaandujar.png",
+  "name": "AngieFox",
+  "lastname": null,
+  "documentType": "CC",
+  "documentId": "10987654",
+  "phone": "321456234",
+  "email": "MAguirre@models1a.com",
+  "city": "Medellín",
+  "user": "AngieFox",
+  "password": "$2b$10$qTlTRfXSM9iUCESZ64AAjeltd88WnCNCWgheDTGrlhxfec7QTeh1y",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1634747393742"
+    }
+  },
+  "passwordFree": "MDk4Nw==",
+  "__v": 0,
+  "isEnableToReservation": true
+},{
+  "_id": {
+    "$oid": "61736181aeba4614774f23ca"
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "GabrielaParisi",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1615248000000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "66SDF8*6lijas",
+  "jasminUser": "GabrielaParisi@Models1A.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1634951680124"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1634951677795"
+    }
+  },
+  "monitorId": "614baa846a0b9e82f29e753b",
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "4",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "mentor": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "role": "model",
+  "room": "MED22",
+  "SSID": "af362c26-b3ab-077f-4e57-887dea4d749f",
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/10101101/GabrielaParisi.png",
+  "name": "GabrielaParisi",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "10101101",
+  "phone": "3042568978",
+  "email": "GabrielaParisi@Models1A.com",
+  "city": "Medellín",
+  "user": "GabrielaParisi",
+  "password": "$2b$10$AetonYaFn8GcMog3ibWTC.5lGezwpr6Qbwiap6K3IqEbI3k4VE2XG",
+  "date": {
+    "$date": {
+      "$numberLong": "1634951553117"
+    }
+  },
+  "passwordFree": "Q2FzMTIz",
+  "__v": 0,
+  "isEnableToReservation": true,
+  "dateIsEnable": null
+},{
+  "_id": {
+    "$oid": "6173642baeba4614774f243d"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "GabrielaCapone",
+  "branch": "pereira",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1583884800000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "sdg4t*SDdg",
+  "jasminUser": "GabrielaCapone@Models1A.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647358008861"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647358007255"
+    }
+  },
+  "monitorId": "614baa846a0b9e82f29e753b",
+  "monitorIdTemp": "",
+  "office": "P2",
+  "qualification": "3",
+  "reviewRoom": "pending",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "mentor": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "role": "model",
+  "room": "PER02",
+  "SSID": "db42d791-90d7-ed5a-37ee-54c610e90142",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/10945612/GabrielaCapone.png",
+  "name": "GabrielaCapone",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "10945612",
+  "phone": "314456789",
+  "email": "GabrielaCapone@Models1A.com",
+  "city": "Pereira",
+  "user": "GabrielaCapone",
+  "password": "$2b$10$AwQjY9tMKiDSyP.ro0Yaq.cVjzHFjTvRm8kZPqPUKl8OGeKrracAS",
+  "date": {
+    "$date": {
+      "$numberLong": "1634952235477"
+    }
+  },
+  "passwordFree": "UnVhMTIz",
+  "__v": 0,
+  "isEnableToReservation": false,
+  "dateIsEnable": null,
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "617366d4aeba4614774f2534"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "statistics",
+    "reservations"
+  ],
+  "artisticName": "AlisonSantana",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1622419200000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "56*ASjdklei*sd",
+  "jasminUser": "AlisonSantana@Models1A.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1637093798759"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1637091650647"
+    }
+  },
+  "monitorId": "614bac0f6a0b9e82f29e75d8",
+  "monitorIdTemp": "614bac0f6a0b9e82f29e75d8",
+  "office": "L3",
+  "qualification": "3",
+  "reviewRoom": "pending",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ]
+  },
+  "room": "MED24",
+  "SSID": "7fffc94f-2a29-783b-d61a-9545ebcf1297",
+  "statusRoom": "pending",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": "pending",
+  "currentApp": "autologin",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/10487596/AlisonSantana.png",
+  "name": "AlisonSantana",
+  "lastname": null,
+  "documentType": "CC",
+  "documentId": "10487596",
+  "phone": "321753951",
+  "email": "AlisonSantana@Models1A.com",
+  "city": "Medellín",
+  "user": "AlisonSantana",
+  "password": "$2b$10$ksmV1VH1yMmIcuH1WJqIaeqJTiFDmeWHcPoe5Kc8xYljGQtTd4KJe",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1634952916332"
+    }
+  },
+  "passwordFree": "R2FyMTIz",
+  "__v": 0,
+  "isEnableToReservation": true,
+  "mentorComisionPercent": 5
+},{
+  "_id": {
+    "$oid": "61737f41aeba4614774f27ad"
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1636022774651"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1635995415316"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "L4",
+  "qualification": "4",
+  "reviewRoom": "true",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "80685959-666e-0c2c-8192-74fb076918dc",
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/1017201301/Ocampo.png",
+  "name": "Alejandro",
+  "lastname": "Ocampo",
+  "documentType": "CC",
+  "documentId": "1017201301",
+  "phone": "304123658",
+  "email": "Alejandro.ocampo@models1a.com",
+  "city": "Medellín",
+  "user": "AlejandroOcampo",
+  "password": "$2b$10$1Om9Ga1EB1IogP.xQMs5yenNupxyHL0903So6VNw4x/QjrKaVug/W",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1634959169861"
+    }
+  },
+  "__v": 0,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "6173808caeba4614774f27ea"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "ValeryMilano",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1624233600000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "63as*65aASJhk6",
+  "jasminUser": "ValeryMilano@Models1a.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1636022745191"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1635997428979"
+    }
+  },
+  "monitorId": "61737f41aeba4614774f27ad",
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "3",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED25",
+  "SSID": "bf5c2d1f-96cf-f526-60aa-420220322f6d",
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/10741258/ValeryMilano.png",
+  "name": "ValeryMilano",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "10741258",
+  "phone": "302156879",
+  "email": "ValeryMilano@Models1a.com",
+  "city": "Medellín",
+  "user": "ValeryMilano",
+  "password": "$2b$10$M.EB7hSard0crAQJjKjGj.AvuRkP6o7MdIoNVMYUSjv1tSs6rk35G",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1634959500217"
+    }
+  },
+  "passwordFree": "TWFyMTIz",
+  "__v": 0,
+  "isEnableToReservation": true,
+  "mentorComisionPercent": 5,
+  "dateIsEnable": null
+},{
+  "_id": {
+    "$oid": "61783105be233a48854a86b3"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "andreita",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1634860800000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "jasminUser": "shgsbhsgbs@models1a.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647443898619"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647443894230"
+    }
+  },
+  "monitorId": "60df3c17ec3263b71f073a9f",
+  "monitorIdTemp": "",
+  "office": "L1",
+  "qualification": "3",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED01",
+  "SSID": "47f7274b-8d33-e615-ab8e-a541997ed913",
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "name": "Andrea Munera",
+  "lastname": null,
+  "documentType": null,
+  "documentId": "2222122222",
+  "phone": "3112000212311",
+  "email": "andrea@gmail.com",
+  "city": "Medellín",
+  "user": "andreita",
+  "password": "$2b$10$Fj7bXPy4pWy4Z/OtzH8fd.KHMSc8T1oQ9hkQK1FDohkOxS6SMUl4G",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1635266821929"
+    }
+  },
+  "passwordFree": "MTIzNA==",
+  "__v": 0,
+  "isEnableToReservation": true,
+  "validSession": true,
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "6178b804a329674e1e08ad61"
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "IvannaBellinni",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1574035200000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "Nuev4568*-",
+  "jasminUser": "IvannaBellinni@Models1A.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1638303112254"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1638302563225"
+    }
+  },
+  "monitorId": "613279a40807a80bd74c2057",
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "5",
+  "reviewRoom": null,
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED26",
+  "SSID": "ed9d1e91-9ecf-bc44-f7a5-e49748a48f15",
+  "statusRoom": null,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/10123432/IvannaBellinni.PNG",
+  "name": "IvannaBellinni",
+  "lastname": null,
+  "documentType": "CC",
+  "documentId": "10123432",
+  "phone": "3141233121",
+  "email": "IvannaBellinni@Models1A.com",
+  "city": "Medellín",
+  "user": "IvannaBellinni",
+  "password": "$2b$10$Tt3I/KTnxsisweT1jW0U7uYKLtUqR3slx/0hx/VhvfVH0A3JrMZdS",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1635301380204"
+    }
+  },
+  "passwordFree": "VmFzcXVlejMxNA==",
+  "__v": 0,
+  "isEnableToReservation": true
+},{
+  "_id": {
+    "$oid": "617db67aefdbda88bcdc152d"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "NiaDamac",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1612224000000"
+    }
+  },
+  "goals": [],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1638834675419"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1638387464928"
+    }
+  },
+  "monitorId": "61327bed0807a80bd74c2512",
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "3",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED27",
+  "SSID": "aaaae30a-dca3-761a-df27-21f371352e03",
+  "statusRoom": "true",
+  "streamatePassword": "jkh5*ASjhk3dkS",
+  "streamateUser": "NiaDamac@Models1A.com",
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/10582693/%5DNiaDamac.PNG",
+  "name": "NiaDamac",
+  "lastname": null,
+  "documentType": "CC",
+  "documentId": "10582693",
+  "phone": "314258741",
+  "email": "NiaDamac@Models1A.com",
+  "city": "Medellín",
+  "user": "NiaDamac",
+  "password": "$2b$10$x7vGRNv20JmLV9lmk4tc2uG6Y5QRK3lTvKLpFPBtyzjAdjhp6pef2",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1635628666863"
+    }
+  },
+  "passwordFree": "VmFyMTIz",
+  "__v": 0,
+  "isEnableToReservation": true,
+  "mentor": {
+    "$oid": "613280000807a80bd74c2cd7"
+  }
+},{
+  "_id": {
+    "$oid": "618ffc5b30ccfebbbb14d96b"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1637320636626"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1637320365885"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "L4",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "45d95aa6-df5c-20a4-c676-610becdf4be6",
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Mariana",
+  "lastname": "Munera",
+  "documentType": "CC",
+  "documentId": "1035439422",
+  "phone": "3013799684",
+  "email": "marianamunera97@gmail.com",
+  "city": "Medellín",
+  "user": "MarianaMunera",
+  "password": "$2b$10$8dTeMItZIjq7clEi7koWFuPeUuEFokNsFuDyPH6E8XNcB/pSeOtAy",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1636826203351"
+    }
+  },
+  "__v": 0,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "618ffe5930ccfebbbb14d988"
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "JulianaCarter",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1581465600000"
+    }
+  },
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "Ramirezdsvcv3ad*",
+  "jasminUser": "JulianaCarter@Models1a.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1636829869025"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1636827150408"
+    }
+  },
+  "monitorId": "618ffc5b30ccfebbbb14d96b",
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED27",
+  "SSID": "898309d5-805f-f5e7-f267-301821fa4ac2",
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Juliana Carter",
+  "lastname": null,
+  "documentType": "CC",
+  "documentId": "12313213213213",
+  "phone": "5411318518541318",
+  "email": "julianacarter@models1a.com",
+  "city": "Medellín",
+  "user": "JulianaCarter",
+  "password": "$2b$10$WjvFrZQh26Q0rjZeDIBe4OF3jc27b1A3VE1mlmdIDD7BP../oN4UW",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1636826713051"
+    }
+  },
+  "__v": 0,
+  "isEnableToReservation": true
+},{
+  "_id": {
+    "$oid": "6195873f00b0daf6b49a714c"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "MartinaSchudels",
+  "branch": "bogota",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1529280000000"
+    }
+  },
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": false,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "jasminUser": "asasa@asasa.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647641175058"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647640202911"
+    }
+  },
+  "monitorId": "60de396bec3263b71f031b6a",
+  "monitorIdTemp": "",
+  "office": "BOG",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "BOG14",
+  "SSID": "266567af-4567-3f31-0b54-3b3451a13e1c",
+  "statusRoom": "true",
+  "streamatePassword": "1234",
+  "streamateUser": "asasa@asasa.com",
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Andrea Jimenez",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "987321654",
+  "phone": "",
+  "email": "testmodelo@test.com",
+  "city": "Bogotá",
+  "user": "modeloTest",
+  "password": "$2b$10$.U5ypcLbI95n05M0w/uTa.8LSaswA9D9LFCpuNgyrubXDk8c8Fuq6",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1637189439337"
+    }
+  },
+  "__v": 0,
+  "isEnableToReservation": true,
+  "dateIsEnable": {
+    "$date": {
+      "$numberLong": "1650376346005"
+    }
+  },
+  "validSession": false,
+  "reasonDisable": "retiro"
+},{
+  "_id": {
+    "$oid": "6197c686432c7a8175f5a006"
+  },
+  "name": "Jeimy Daniela Osorio Parra",
+  "email": "MichelleNovoa@Models1a.com",
+  "artisticName": "MichelleNovoa",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1625011200000"
+    }
+  },
+  "user": "MichelleNovoa",
+  "password": "$2b$10$nDxyvvBfI5Ehp4B9IN2b7OD2qffU9SpsMXS6kFNajddMKbFkff3ui",
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "city": "Medellín",
+  "office": "L3",
+  "room": "MED28",
+  "monitorId": "60de39c2ec3263b71f0322f2",
+  "branch": "medellin",
+  "role": "model",
+  "isEnable": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1636710960000"
+    }
+  },
+  "SSID": "0501ca12-a4ab-0deb-471a-f89207b7c3dc",
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "currentApp": "",
+  "documentId": "",
+  "documentType": null,
+  "isActive": false,
+  "isBreak": false,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "",
+  "jasminUser": "",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1638288496590"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1638288489603"
+    }
+  },
+  "lastname": null,
+  "monitorIdTemp": "",
+  "phone": "",
+  "picture": "",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "statusMantenienceRoom": null,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "isEnableToReservation": true
+},{
+  "_id": {
+    "$oid": "6197c723432c7a8175f5a00c"
+  },
+  "name": "Juliana Gayon Porras",
+  "email": "AntonellaBrooks@Models1a.com",
+  "artisticName": "AntonellaBrooks",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1596585600000"
+    }
+  },
+  "user": "AntonellaBrooks",
+  "password": "$2b$10$nDxyvvBfI5Ehp4B9IN2b7OD2qffU9SpsMXS6kFNajddMKbFkff3ui",
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "city": "Medellín",
+  "office": "L1",
+  "room": "MED03",
+  "monitorId": "60de396bec3263b71f031b6a",
+  "branch": "medellin",
+  "role": "model",
+  "isEnable": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1636710900000"
+    }
+  },
+  "SSID": "1f168103-c35e-a2d5-1cf8-d4a83c29be7d",
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "currentApp": "",
+  "documentId": "",
+  "documentType": null,
+  "isActive": false,
+  "isBreak": false,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "",
+  "jasminUser": "",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647362904236"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647358709313"
+    }
+  },
+  "lastname": null,
+  "monitorIdTemp": "",
+  "phone": "",
+  "picture": "",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "statusMantenienceRoom": null,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "isEnableToReservation": true,
+  "validSession": false
+},{
+  "_id": {
+    "$oid": "6197c754432c7a8175f5a00d"
+  },
+  "name": "July Stephania Bustos Correa",
+  "email": "MarianaDalessio@Models1a.com",
+  "artisticName": "MarianaDalessio",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1570579200000"
+    }
+  },
+  "user": "MarianaDalessio",
+  "password": "$2b$10$nDxyvvBfI5Ehp4B9IN2b7OD2qffU9SpsMXS6kFNajddMKbFkff3ui",
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "city": "Medellín",
+  "office": "L3",
+  "room": "MED29",
+  "monitorId": "6130f9f484ddbbca9826399a",
+  "branch": "medellin",
+  "role": "model",
+  "isEnable": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1636710840000"
+    }
+  },
+  "SSID": null,
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "currentApp": null,
+  "documentId": "",
+  "documentType": null,
+  "isActive": false,
+  "isBreak": false,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "",
+  "jasminUser": "",
+  "lastActivity": null,
+  "lastLogin": null,
+  "lastname": null,
+  "monitorIdTemp": null,
+  "phone": "",
+  "picture": "",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "statusMantenienceRoom": null,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "isEnableToReservation": true
+},{
+  "_id": {
+    "$oid": "6197c89b432c7a8175f5a012"
+  },
+  "documentType": "idcard",
+  "documentId": "1152194575",
+  "name": "Luis Felipe",
+  "lastname": "Torres Uribe",
+  "email": "felipe.torres@models1a.com ",
+  "phone": "3228398261",
+  "user": "felipetorre",
+  "password": "$2b$10$LeyRQhBalv/msLqNmkU6l.02oTs27fpOzWlViM7i/J1qKlZxM.1nO",
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "city": "Medellín",
+  "office": "L1",
+  "branch": "medellin",
+  "role": "monitor",
+  "isEnable": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1636711020000"
+    }
+  },
+  "SSID": "b6caf8fe-7e91-d0aa-9c26-8acc2256143b",
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "currentApp": "",
+  "entrydate": null,
+  "isActive": false,
+  "isBreak": false,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1646410160025"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1646410001395"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "picture": "",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "statusMantenienceRoom": null,
+  "statusRoom": true,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "dateIsEnable": null,
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "6197c8aa432c7a8175f5a013"
+  },
+  "documentType": "CC",
+  "documentId": "38895399",
+  "name": "Yesmi Lorena",
+  "lastname": "Fernandez Mayorga",
+  "email": "lorena24mayorga@gmail.com",
+  "phone": "3194070327",
+  "user": "lorenafernandez",
+  "password": "$2b$10$r33.E06qgByUOf3ZLz/nAOgCtiahp52baJNvo4bFBOn0OsPluIBx.",
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "city": "Medellín",
+  "office": "L3",
+  "branch": "medellin",
+  "role": "monitor",
+  "isEnable": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1636710960000"
+    }
+  },
+  "SSID": null,
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "currentApp": null,
+  "entrydate": null,
+  "isActive": false,
+  "isBreak": false,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "picture": "",
+  "qualification": "",
+  "reviewRoom": "true",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "statusMantenienceRoom": null,
+  "statusRoom": true,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "6197c8b9432c7a8175f5a014"
+  },
+  "documentType": "CC",
+  "documentId": "1152439541",
+  "name": "Alejandro",
+  "lastname": "Santos Blair",
+  "email": "asantosblair@gmail.com",
+  "phone": "3007402688",
+  "user": "alejandrosantos",
+  "password": "$2b$10$FPzFzncnMJbZZXgMEUilCumQ02DvJgpXdLhhTlhG6e.CZbE/yONDu",
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "city": "Medellín",
+  "office": "L4",
+  "branch": "medellin",
+  "role": "monitor",
+  "isEnable": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1636710900000"
+    }
+  },
+  "SSID": null,
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "currentApp": null,
+  "entrydate": null,
+  "isActive": false,
+  "isBreak": false,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "picture": "",
+  "qualification": "",
+  "reviewRoom": "true",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "statusMantenienceRoom": null,
+  "statusRoom": true,
+  "streamatePassword": null,
+  "streamateUser": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ]
+},{
+  "_id": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "Alejandra Roa",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1515369600000"
+    }
+  },
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "Duque2f5df6",
+  "jasminUser": "ZoeDoSantos@models1a.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651705392915"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651705179097"
+    }
+  },
+  "monitorId": "614baa846a0b9e82f29e753b",
+  "monitorIdTemp": "",
+  "office": "L1",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED08",
+  "SSID": "df1b56a9-4a1b-4dfd-edce-823eaae6d445",
+  "statusRoom": "pending",
+  "streamatePassword": "165a1",
+  "streamateUser": "asdads@gmail.com",
+  "statusMantenienceRoom": "pending",
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/619ec1aa2b41462eb4be333f/Foto-Perfil-Roa.jpg",
+  "name": "Manuela Bermudez Rios",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "1012526548",
+  "phone": "",
+  "email": "alejandraroa@Models1a.com",
+  "city": "Medellín",
+  "user": "AlejandraRoa",
+  "password": "$2b$10$WaMoz8RCN0rk9G3UjhytHOTLnEL7HJiFi513kWOyL7.AUbXawQd9u",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1637794218203"
+    }
+  },
+  "__v": 0,
+  "validSession": true,
+  "isEnableToReservation": false,
+  "mentorComisionPercent": 5,
+  "dateIsEnable": null
+},{
+  "_id": {
+    "$oid": "619ec2cd2b41462eb4be335e"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "GabyPastori",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1539820800000"
+    }
+  },
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "jasminUser": "prueba@prueba.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1637794865091"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1645197928236"
+    }
+  },
+  "monitorId": "60de396bec3263b71f031b6a",
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "5",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "role": "model",
+  "room": "MED30",
+  "SSID": "054ba3f2-eecd-23ff-810b-cd61726148d3",
+  "statusRoom": "true",
+  "streamatePassword": "1234",
+  "streamateUser": "prueba@prueba.com",
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/619ec2cd2b41462eb4be335e/GabyPastori_profile.jpg",
+  "name": "Deicy Heliana Patiño Echeverri",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "2125487894",
+  "phone": "3165489778",
+  "email": "gabypastori@Models1a.com",
+  "city": "Medellín",
+  "user": "GabyPastori",
+  "password": "$2b$10$SAAvAW33J.gxeTrJfnZqKOCzriWMFz0kcK6ljlZpIpHw5jLX21zM6",
+  "date": {
+    "$date": {
+      "$numberLong": "1637794509498"
+    }
+  },
+  "__v": 0,
+  "mentor": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "isEnableToReservation": true,
+  "validSession": true,
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "EmmaCrox",
+  "branch": "bogota",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1531872000000"
+    }
+  },
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "jasminUser": "prueba@prueba.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1650668632458"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1650924633634"
+    }
+  },
+  "monitorId": "6197c8b9432c7a8175f5a014",
+  "monitorIdTemp": "",
+  "office": "BOG",
+  "qualification": "5",
+  "reviewRoom": "pending",
+  "roles": [
+    "model",
+    "mentor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "mentor": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "role": "model",
+  "room": "BOG14",
+  "SSID": "d40a66a6-10dc-8593-ef9f-a406f691bff6",
+  "statusRoom": "pending",
+  "streamatePassword": "1234",
+  "streamateUser": "prueba@prueba.com",
+  "statusMantenienceRoom": "pending",
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/autologin/users/619ec36c2b41462eb4be3371/EmmaCrox_profile.jpg",
+  "name": "Camila Ossa Duque",
+  "lastname": null,
+  "documentType": "CC",
+  "documentId": "2136458794",
+  "phone": "5478366589",
+  "email": "emmacrox1035@gmail.com",
+  "city": "Bogotá",
+  "user": "EmmaCrox",
+  "password": "$2b$10$zpCt8uxqbaXed2xNb43Ie.N3kGdyGDSywNIKLs7LASAM/X7ZRwn96",
+  "date": {
+    "$date": {
+      "$numberLong": "1637794668218"
+    }
+  },
+  "__v": 0,
+  "validSession": false,
+  "isEnableToReservation": false,
+  "mentorComisionPercent": 5
+},{
+  "_id": {
+    "$oid": "619ec5272b41462eb4be3487"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "FernandaGlam",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1593993600000"
+    }
+  },
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "jasminUser": "prueba@prueba.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1638288627047"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1638288593163"
+    }
+  },
+  "monitorId": "60f9e51cdda5c107c497a4db",
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "5",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED31",
+  "SSID": "45f45ac3-a787-2969-edbe-3c19292c45db",
+  "statusRoom": "true",
+  "streamatePassword": "1234",
+  "streamateUser": "prueba@prueba.com",
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Laura Vanesa Amaya Sucequia",
+  "lastname": null,
+  "documentType": "CC",
+  "documentId": "1012526545",
+  "phone": "1232131234",
+  "email": "FernandaGlam@Models1A.com",
+  "city": "Medellín",
+  "user": "FernandaGlam",
+  "password": "$2b$10$AwkqMjIi4EOIf28loFkKyOR/zgKn8hI/qGNERWsCnsTUlnPLamxga",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1637795111421"
+    }
+  },
+  "__v": 0,
+  "isEnableToReservation": false
+},{
+  "_id": {
+    "$oid": "61a92822c1c041dcd6eac933"
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "CarlinaRenteria",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1638316800000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "123",
+  "jasminUser": "ZoeDoSantos@Models1A.com",
+  "lastActivity": null,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651676740682"
+    }
+  },
+  "monitorId": "618ffc5b30ccfebbbb14d96b",
+  "monitorIdTemp": "",
+  "office": "L3",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED31",
+  "SSID": "73a9cee1-d3f1-86bf-291a-c38635a12ee6",
+  "statusRoom": "true",
+  "streamatePassword": "123",
+  "streamateUser": "ZoeDoSantos@Models1A.com",
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Carlina Rentería",
+  "lastname": null,
+  "documentType": "CC",
+  "documentId": "",
+  "phone": "",
+  "email": "carlina@test22.com",
+  "city": "Medellín",
+  "user": "CarlinaRenteria",
+  "password": "$2b$10$/01dNIQTFzD05xo29XlTOedtjI2my7E4KhXIpW.7rwIDZ49pQsHEm",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1638475810044"
+    }
+  },
+  "__v": 0,
+  "isEnableToReservation": false,
+  "mentor": {
+    "$oid": "613280000807a80bd74c2cd7"
+  },
+  "validSession": true
+},{
+  "_id": {
+    "$oid": "61a928abc1c041dcd6eac955"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "ninel",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1635984000000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647385423584"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1649093328318"
+    }
+  },
+  "monitorId": "61688ed76a1cce6ddc90ae39",
+  "monitorIdTemp": "",
+  "office": "L4",
+  "qualification": "NaN",
+  "reviewRoom": "pending",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "MED42",
+  "SSID": "ce0295a1-ab39-2565-2988-d10602e26161",
+  "statusRoom": "pending",
+  "streamatePassword": "1235",
+  "streamateUser": "ZoeDoSantos@Models1A.com",
+  "statusMantenienceRoom": "pending",
+  "currentApp": "",
+  "picture": "",
+  "name": "Ninel Maria",
+  "lastname": null,
+  "documentType": "passport",
+  "documentId": "100254lgpfe",
+  "phone": "",
+  "email": "ninel@ninel.com",
+  "city": "Medellín",
+  "user": "ninel",
+  "password": "$2b$10$/MexJ1eIcqlfapeUzWL6YeSYwYygSlTzG3MpdSlFEYoO3WiCqjEce",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1638475947726"
+    }
+  },
+  "__v": 0,
+  "isEnableToReservation": false,
+  "validSession": true,
+  "dateIsEnable": null
+},{
+  "_id": {
+    "$oid": "61b28560999ddc9e549a233c"
+  },
+  "workShift": {
+    "name": "",
+    "schedule": ""
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651700771623"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651699848479"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": null,
+  "qualification": "0",
+  "reviewRoom": "true",
+  "roles": [
+    "coord"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ]
+  },
+  "room": null,
+  "SSID": "46ba5f1f-10b7-e809-5282-61e748588aeb",
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Coordinador",
+  "lastname": "Hurtado",
+  "documentType": "CC",
+  "documentId": "1234578666",
+  "phone": "12345641561",
+  "email": "coordinador@models1a.com",
+  "city": "Medellín",
+  "user": "coordinador",
+  "password": "$2b$10$iyIIexf1r59084u6S3ycTerJFDXtWv7Agoqf4WLbcdbAuYMzLFDn6",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1639089504492"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f80fbf5e5170e24adc0f83"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": null,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1644355408661"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "3",
+  "reviewRoom": "true",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "e9a24a11-60d1-1a56-9533-bd5328c27941",
+  "validSession": true,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Miguel",
+  "lastname": "Calderon",
+  "documentType": "idcard",
+  "documentId": "6465462413123",
+  "phone": "16541511234",
+  "email": "jaime.ortiz@onegroupitservice.com",
+  "city": "Medellín",
+  "user": "gustavo",
+  "password": "$2b$10$12.HsXpsQOhA8fL1.FGUgutxvpDAUKSTRhs3XlErAd7K4Cy54OZx.",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1643646911369"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202df7f483caede2e501792"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": null,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1644355464818"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "3",
+  "reviewRoom": "true",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": "129479de-93fc-759e-8896-71deb4c397bd",
+  "validSession": true,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": null,
+  "picture": "",
+  "name": "Cristian",
+  "lastname": "Guzman",
+  "documentType": "idcard",
+  "documentId": "241234",
+  "phone": "214234123",
+  "email": "cristian@test22.com",
+  "city": "Medellín",
+  "user": "cristian",
+  "password": "$2b$10$DnNU0gzwJRlQZtqlf/wEyu60BOa5WD4RZ796Rhm2Zv.8dT1TJqhae",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1644355455131"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202e132483caede2e5017a1"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "vanessa",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1643760000000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": "vanesa1234",
+  "jasminUser": "vanessa",
+  "lastActivity": null,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1644357487717"
+    }
+  },
+  "monitorId": "6130f9f484ddbbca9826399a",
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "4",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "room": "MED08",
+  "SSID": "999496b5-0514-db6d-fcbc-e89f367b89fa",
+  "validSession": true,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": null,
+  "picture": "",
+  "name": "Vanessa",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "",
+  "phone": "123412341",
+  "email": "vanessa@test22.com",
+  "city": "Medellín",
+  "user": "vanesa",
+  "password": "$2b$10$OdW.1ZNDHabIo8S.1nZ.fOvaA7H7VP2MoWVTQWMVXq6s2fh988OYC",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1644355890717"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202e7176fd6c3e29657a985"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "patricia",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1644192000000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "",
+  "jasminUser": "",
+  "lastActivity": null,
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1644357446193"
+    }
+  },
+  "monitorId": "60f9e51cdda5c107c497a4db",
+  "monitorIdTemp": "",
+  "office": "L1",
+  "qualification": "3",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "room": "MED07",
+  "SSID": "222d9cd5-0785-f2cc-a355-768cdaeae79a",
+  "validSession": true,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Patrica",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "",
+  "phone": "243123412",
+  "email": "patricia@test22.com",
+  "city": "Medellín",
+  "user": "patricia",
+  "password": "$2b$10$jMYjCfgxIX.T4ddgL7Uv7unRPGHcs75SYtmk3XAnoFfmQ5S1h/jXe",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1644357399909"
+    }
+  },
+  "__v": 0,
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "6203f8390bdbdbe74e53d321"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "Rosario",
+  "branch": "bogota",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1643760000000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "jasminUser": "rosario@rosario.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647357839283"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1650295482119"
+    }
+  },
+  "monitorId": "60de396bec3263b71f031b6a",
+  "monitorIdTemp": "",
+  "office": "BOG",
+  "qualification": "5",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "BOG11",
+  "SSID": "ae9c157d-e07e-ae38-dde4-c45bf505ca9a",
+  "validSession": true,
+  "statusRoom": "true",
+  "streamatePassword": "1234",
+  "streamateUser": "rosario@rosario.com",
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Rosario",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "99999999",
+  "phone": "999999999",
+  "email": "rosario@rosario.com",
+  "city": "Bogotá",
+  "user": "Rosario",
+  "password": "$2b$10$qEvTxrtkJWs/1Tu604Y7Tua0.LmAaIxrSXIt6ff1L/PzvAoKuoOp6",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1644427321334"
+    }
+  },
+  "__v": 0,
+  "isEnableToReservation": false,
+  "dateIsEnable": null,
+  "mentorComisionPercent": 5,
+  "mentor": {
+    "$oid": "613280000807a80bd74c2cd7"
+  },
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "6203f9070bdbdbe74e53d41f"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": "tamara",
+  "branch": "bogota",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1644278400000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "jasminUser": "tamara@tamara.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647357782281"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647357780791"
+    }
+  },
+  "monitorId": "60db9de3e59ed8795f6b8fb3",
+  "monitorIdTemp": "",
+  "office": "BOG",
+  "qualification": "4",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ],
+    "reservations": [
+      "model"
+    ],
+    "statistics": [
+      "model"
+    ]
+  },
+  "room": "BOG18",
+  "SSID": "ccd24eec-8f7a-f896-948a-3b43c85bf6eb",
+  "validSession": true,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Tamara",
+  "lastname": null,
+  "documentType": "idforeign",
+  "documentId": "12345678",
+  "phone": "999999999",
+  "email": "tamara@tamara.com",
+  "city": "Bogotá",
+  "user": "tamara",
+  "password": "$2b$10$OpY/fKpCoAAKB0xUHTaAYOv/gb/vfoSlhjLDHJlR1AUeRahUw0RYi",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1644427527128"
+    }
+  },
+  "__v": 0,
+  "isEnableToReservation": false,
+  "dateIsEnable": null,
+  "reasonDisable": ""
+},{
+  "_id": {
+    "$oid": "62043e880bdbdbe74e53d5e8"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "ninelModel",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1635984000000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "isEnable": false,
+  "jasminUser": "nienel.jasmin.com",
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": "61737f41aeba4614774f27ad",
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "5",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "room": "MED08",
+  "SSID": null,
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": null,
+  "picture": "",
+  "name": "Ninel Maria",
+  "lastname": null,
+  "documentType": "idforeign",
+  "documentId": "115151151515",
+  "phone": "31313131311",
+  "email": "diego.sepulveda@ninel.com",
+  "city": "Medellín",
+  "user": "ninelModel",
+  "password": "$2b$10$us3vPpSutESikK1D8xQe3eg.zHe8bwGRYYKe2Qc6747o3.6ZTsUYi",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1644445320358"
+    }
+  },
+  "__v": 0,
+  "dateIsEnable": {
+    "$date": {
+      "$numberLong": "1650376197463"
+    }
+  },
+  "reasonDisable": "retiro"
+},{
+  "_id": {
+    "$oid": "62059710016ea20113945116"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "Roxy",
+  "branch": "bogota",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1644451200000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": "1234",
+  "jasminUser": "a@a.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647357850962"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647465594680"
+    }
+  },
+  "monitorId": "61688ed76a1cce6ddc90ae39",
+  "monitorIdTemp": "",
+  "office": "BOG",
+  "qualification": "4",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "room": "BOG15",
+  "SSID": "beaa84c6-bbbc-ed46-b7a7-1fabeb338a3d",
+  "validSession": true,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Roxy",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "123456",
+  "phone": "123456",
+  "email": "a@a.com",
+  "city": "Bogotá",
+  "user": "Roxy",
+  "password": "$2b$10$HxEI62dNyk7.DaqTWNazwOiKxhf6Twu9HyHd7UgDvHCkji.rBgL.W",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1644533520461"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620fab1854158e9e1192b213"
+  },
+  "workShift": {
+    "name": "",
+    "schedule": ""
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "L2",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "monitor"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "monitor"
+    ]
+  },
+  "room": null,
+  "SSID": null,
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": null,
+  "picture": "",
+  "name": "Alfonso",
+  "lastname": "PruebaRC",
+  "documentType": "idcard",
+  "documentId": "2891212999",
+  "phone": "31313131311",
+  "email": "diego.seasdasdasdpulveda@ninel.com",
+  "city": "Medellín",
+  "user": "asd",
+  "password": "$2b$10$g1lxchgbVhZlTX0kQ3Xw6eVlBy0ei8MoHnyQ8oEk7D8LSaoYfy8GC",
+  "role": "monitor",
+  "date": {
+    "$date": {
+      "$numberLong": "1645194008403"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62223548127168154488450a"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "RosaFox",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1638316800000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": "1234",
+  "jasminUser": "carlinaR@test22.com",
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1646410692383"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1646410172262"
+    }
+  },
+  "monitorId": "618ffc5b30ccfebbbb14d96b",
+  "monitorIdTemp": "",
+  "office": "L1",
+  "qualification": "4",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "room": "MED06",
+  "SSID": "8599a16d-6925-ffd8-fdde-ae788e25f3dd",
+  "validSession": true,
+  "statusRoom": "true",
+  "streamatePassword": "1234",
+  "streamateUser": "carlinaR@test22.com",
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "Carlina Rentería",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "",
+  "phone": "12341235321",
+  "email": "carlinaR@test22.com",
+  "city": "Medellín",
+  "user": "carlinaR",
+  "password": "$2b$10$r2tAoJwXVNh/xkMPCGVzGeJ6uXncwXqI8exftZ6/lpkXYbZQ9p3zi",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1646409032566"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6228be6443ffc673454f6bf1"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "LilianaMarquez",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1646611200000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": "123456",
+  "jasminUser": "ZoeDoSantos@Models1A.com",
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": "60f9ea44dda5c107c497a9a2",
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "NaN",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "room": "MED06",
+  "SSID": null,
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": null,
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/dev/autologin/users/6228be6443ffc673454f6bf1/MarianaBallack_creator2.jpg",
+  "name": "Liliana Marquez",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "",
+  "phone": "",
+  "email": "lilianamarquez@test.com",
+  "city": "Medellín",
+  "user": "LilianaMarquez",
+  "password": "$2b$10$aCSssKh/pHC2/I19P97OTeVdad1uIIBnIcpowUiaR6gH1ss6hb70u",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1646837348479"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6229295943ffc673454f74b7"
+  },
+  "workShift": {
+    "name": "",
+    "schedule": ""
+  },
+  "apps": [
+    "autologin",
+    "reservations",
+    "statistics",
+    "website"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647962862385"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647962757297"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": null,
+  "qualification": "0",
+  "reviewRoom": "true",
+  "roles": [
+    "super"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "super"
+    ],
+    "reservations": [
+      "super"
+    ],
+    "statistics": [
+      "super"
+    ],
+    "website": [
+      "super"
+    ]
+  },
+  "room": null,
+  "SSID": "35af6b96-6bc9-98aa-122d-100810062f57",
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/dev/autologin/users/6229295943ffc673454f74b7/Alejandra_Grcia.jpg",
+  "name": "Alejan",
+  "lastname": "Ga",
+  "documentType": "idcard",
+  "documentId": "10376413055",
+  "phone": "3136402571",
+  "email": "alejandra.garcia@omgwgroup.com",
+  "city": "Medellín",
+  "user": "AlejandraGarcia",
+  "password": "$2b$10$FKSjYowklaqF8iQ5VB3dqOfbl7pYRQopGGIRMW1LlMAf298hHv7Q2",
+  "role": "superadmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1646864729135"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62292a0143ffc673454f74fc"
+  },
+  "workShift": {
+    "name": "",
+    "schedule": ""
+  },
+  "apps": [
+    "autologin",
+    "website",
+    "reservations",
+    "statistics"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1646865065893"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1646865060557"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": null,
+  "qualification": "0",
+  "reviewRoom": "true",
+  "roles": [
+    "coord"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ],
+    "website": [
+      "coord"
+    ],
+    "reservations": [
+      "coord"
+    ],
+    "statistics": [
+      "coord"
+    ]
+  },
+  "room": null,
+  "SSID": "8a994cf3-6e1f-5467-ed46-2324e827740f",
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "https://new-web-site-bucket.s3.amazonaws.com/dev/autologin/users/62292a0143ffc673454f74fc/15%20Jenifer%20Martinez.jpg",
+  "name": "Jenifer",
+  "lastname": "Mar",
+  "documentType": "idcard",
+  "documentId": "11431328622",
+  "phone": "3015094992",
+  "email": "jenifer.martinez@omgwgroup.com",
+  "city": "Medellín",
+  "user": "jenifermartinez",
+  "password": "$2b$10$fkPtRSemZLce6iou8ywgiePlqPf7Zn4hWA3MyBGAJOoPJzXjHNn7.",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1646864897114"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231fa3284047e45d340e7a6"
+  },
+  "workShift": {
+    "name": "",
+    "schedule": ""
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1647455664465"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1647442502514"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": null,
+  "qualification": "0",
+  "reviewRoom": "true",
+  "roles": [
+    "coord"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "coord"
+    ]
+  },
+  "room": null,
+  "SSID": "c23922a2-acaa-642f-1672-6ae66df2db11",
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "currentApp": "",
+  "picture": "",
+  "name": "ARYOK DANIEL",
+  "lastname": "MATEUS VANEGAS",
+  "documentType": "idcard",
+  "documentId": "101010101010",
+  "phone": "3050000000",
+  "email": "aryok.mateus@omgwgroup.com",
+  "city": "Medellín",
+  "user": "AryokMateus",
+  "password": "$2b$10$GdEuYlvJhdrajzDwXfAyEuvARPSKx7khHxqMg2SHlQ4y564.K518q",
+  "role": "coordinator",
+  "date": {
+    "$date": {
+      "$numberLong": "1647442482879"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62422cbadb6d36f5260c39d3"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": "modells",
+  "branch": "medellin",
+  "entrydate": {
+    "$date": {
+      "$numberLong": "1648166400000"
+    }
+  },
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": false,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": "1234",
+  "jasminUser": "isonasdas@jasmin.com",
+  "lastActivity": null,
+  "lastLogin": null,
+  "monitorId": "60f0bc13c688b969765416ea",
+  "monitorIdTemp": null,
+  "office": "L1",
+  "qualification": "4",
+  "reviewRoom": "true",
+  "roles": [
+    "model"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "model"
+    ]
+  },
+  "room": "MED08",
+  "SSID": null,
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "reasonDisable": "retiro",
+  "currentApp": null,
+  "picture": "",
+  "name": "modelo",
+  "lastname": null,
+  "documentType": "idcard",
+  "documentId": "10014646899",
+  "phone": "123132123",
+  "email": "sadas@gmail.com",
+  "city": "Medellín",
+  "user": " vbncvnvn",
+  "password": "$2b$10$6E3OKbvLcVEfeZuUekkziOlXef4uAEYorstBJzpwxcUZ6MLaB/iKm",
+  "role": "model",
+  "date": {
+    "$date": {
+      "$numberLong": "1648503995006"
+    }
+  },
+  "__v": 0,
+  "dateIsEnable": {
+    "$date": {
+      "$numberLong": "1650463471402"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "627295a7e598584cc65df1a5"
+  },
+  "workShift": {
+    "name": null,
+    "schedule": null
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": null,
+  "isStreaming": false,
+  "isTop": null,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651704286816"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651699041415"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "null",
+  "qualification": null,
+  "reviewRoom": "true",
+  "roles": [
+    "employee"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "employee"
+    ]
+  },
+  "room": "",
+  "SSID": "76f83c4f-b558-7d5f-fbff-9ebadd4cfb67",
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "reasonDisable": "",
+  "currentApp": "",
+  "picture": "",
+  "name": "Jaime",
+  "lastname": "Ortiz",
+  "documentType": "idcard",
+  "documentId": "1341234",
+  "phone": "65465465",
+  "email": "Jaimeasd@asd.com",
+  "city": "Medellín",
+  "user": "jaimito",
+  "password": "$2b$10$Io8VOWhxlBZpsyMmP3XtpeK/0mXtIds6tJwfWUE8VzCMbiFOcGujm",
+  "role": "employee",
+  "date": {
+    "$date": {
+      "$numberLong": "1651676583499"
+    }
+  },
+  "__v": 0,
+  "area": {
+    "$oid": "626aa7d087b4a30ccbd18745"
+  },
+  "dateIsEnable": null
+},{
+  "_id": {
+    "$oid": "6272eb609d5ec0af7907f6c7"
+  },
+  "workShift": {
+    "name": "",
+    "schedule": ""
+  },
+  "apps": [
+    "autologin"
+  ],
+  "artisticName": null,
+  "branch": "medellin",
+  "entrydate": null,
+  "hasPermitionStatistics": [
+    "owner",
+    "temp"
+  ],
+  "isActive": false,
+  "isBreak": false,
+  "isEnable": true,
+  "isOnline": false,
+  "isReports": false,
+  "isSpecialFunctions": false,
+  "isStreaming": false,
+  "isTop": false,
+  "jasminPassword": null,
+  "jasminUser": null,
+  "lastActivity": {
+    "$date": {
+      "$numberLong": "1651702306204"
+    }
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1651701943440"
+    }
+  },
+  "monitorId": null,
+  "monitorIdTemp": null,
+  "office": "null",
+  "qualification": "0",
+  "reviewRoom": "true",
+  "roles": [
+    "employee"
+  ],
+  "rolesApp": {
+    "autologin": [
+      "employee"
+    ]
+  },
+  "room": null,
+  "SSID": "627dc66c-a3a1-0533-b09e-50cc4d193454",
+  "validSession": false,
+  "statusRoom": "true",
+  "streamatePassword": null,
+  "streamateUser": null,
+  "statusMantenienceRoom": null,
+  "reasonDisable": "",
+  "currentApp": "",
+  "picture": "",
+  "name": "Empleado",
+  "lastname": "Empleado",
+  "documentType": "idcard",
+  "documentId": "15151551998",
+  "phone": "12346546548",
+  "email": "empleado@empleado.com",
+  "city": "Medellín",
+  "user": "empleado",
+  "password": "$2b$10$d1HBY7zvYoFV2o4IM4DUFeJwBE5kVYaEzkUhA14mY8.jQZeS99Nr6",
+  "area": {
+    "$oid": "626aa86287b4a30ccbd18749"
+  },
+  "role": "employee",
+  "date": {
+    "$date": {
+      "$numberLong": "1651698528283"
+    }
+  },
+  "__v": 0
+}]

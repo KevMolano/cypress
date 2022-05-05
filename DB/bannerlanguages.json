@@ -1,0 +1,299 @@
+[{
+  "_id": {
+    "$oid": "606b7e3229270709968df900"
+  },
+  "describes": [
+    "CREAMOS Y DESARROLLAMOS",
+    "TOP MODELS",
+    "mira el vídeo"
+  ],
+  "bannerId": {
+    "$oid": "606b7e3229270709968df8ff"
+  },
+  "language": "es",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b7e3229270709968df901"
+  },
+  "describes": [
+    "WE CREATE AND DEVELOP",
+    "TOP MODELS",
+    "watch video"
+  ],
+  "bannerId": {
+    "$oid": "606b7e3229270709968df8ff"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b7f1b29270709968df903"
+  },
+  "describes": [
+    "GALARDONADOS",
+    "COMO EL MEJOR STUDIO LATINO 2018/2019",
+    "conoce porqué"
+  ],
+  "bannerId": {
+    "$oid": "606b7f1b29270709968df902"
+  },
+  "language": "es",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b7f1b29270709968df904"
+  },
+  "describes": [
+    "AWARDED",
+    "AS THE BEST LATIN AMERICAN STUDIO 2018/2019",
+    "Know why"
+  ],
+  "bannerId": {
+    "$oid": "606b7f1b29270709968df902"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b7ff329270709968df906"
+  },
+  "describes": [
+    "UN TRATO VIP",
+    "TE OFRECEMOS",
+    "Regístrate ahora"
+  ],
+  "bannerId": {
+    "$oid": "606b7ff329270709968df905"
+  },
+  "language": "es",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b7ff329270709968df907"
+  },
+  "describes": [
+    "A VIP DEAL",
+    "WE OFFER YOU",
+    "Sign up Now"
+  ],
+  "bannerId": {
+    "$oid": "606b7ff329270709968df905"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b811529270709968df909"
+  },
+  "describes": [
+    "CUMPLE TUS SUEÑOS",
+    "SÉ PARTE DEL MEJOR EQUIPO",
+    "conoce porqué"
+  ],
+  "bannerId": {
+    "$oid": "606b811529270709968df908"
+  },
+  "language": "es",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b811529270709968df90a"
+  },
+  "describes": [
+    "REACH YOUR DREAMS",
+    "BE PART OF THE BEST TEAM",
+    "know why"
+  ],
+  "bannerId": {
+    "$oid": "606b811529270709968df908"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b829b29270709968df90c"
+  },
+  "describes": [
+    "ALCANZA TODO TU POTENCIAL",
+    "EN MODELS1A",
+    "mira el video"
+  ],
+  "bannerId": {
+    "$oid": "606b829b29270709968df90b"
+  },
+  "language": "es",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b829b29270709968df90d"
+  },
+  "describes": [
+    "REACH YOUR FULL POTENTIAL",
+    "IN MODELS1A",
+    "watch video"
+  ],
+  "bannerId": {
+    "$oid": "606b829b29270709968df90b"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b847b29270709968df90f"
+  },
+  "describes": [
+    "BIENVENIDA A MODELS 1A",
+    "LA AGENCIA ESPECIALIZADA.",
+    "LA EMPRESA ESPECIALIZADA.",
+    "EN CREAR, FORMAR",
+    "Y DESARROLLAR LAS N. 1"
+  ],
+  "bannerId": {
+    "$oid": "606b847b29270709968df90e"
+  },
+  "language": "es",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b847b29270709968df910"
+  },
+  "describes": [
+    "WELCOME TO MODELS 1A",
+    "THE SPECIALIZED AGENCY.",
+    "THE SPECIALIZED COMPANY.",
+    "IN CREATE, FORMING",
+    "AND DEVELOP THE N. 1"
+  ],
+  "bannerId": {
+    "$oid": "606b847b29270709968df90e"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b93489698280a81815672"
+  },
+  "describes": [
+    "BIENVENIDA A MODELS 1A",
+    "LA AGENCIA ESPECIALIZADA.",
+    "LA EMPRESA ESPECIALIZADA.",
+    "EN CREAR, FORMAR",
+    "Y DESARROLLAR LAS N. 1",
+    "Regístrate"
+  ],
+  "bannerId": {
+    "$oid": "606b93489698280a81815671"
+  },
+  "language": "es",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b93489698280a81815673"
+  },
+  "describes": [
+    "WELCOME TO MODELS 1A",
+    "THE SPECIALIZED AGENCY.",
+    "THE SPECIALIZED COMPANY.",
+    "IN CREATE, FORMING",
+    "AND DEVELOP THE N. 1",
+    "Sign Up"
+  ],
+  "bannerId": {
+    "$oid": "606b93489698280a81815671"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f4656360e1d2938942cea"
+  },
+  "describes": [
+    "BIENVENIDA A MODELS 1A",
+    "LA AGENCIA ESPECIALIZADA.",
+    "LA EMPRESA ESPECIALIZADA.",
+    "EN CREAR, FORMAR",
+    "Y DESARROLLAR LAS N. 1",
+    "Regístrate",
+    "Ver video"
+  ],
+  "bannerId": {
+    "$oid": "606f4656360e1d2938942ce9"
+  },
+  "language": "es",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f4656360e1d2938942ceb"
+  },
+  "describes": [
+    "WELCOME TO MODELS 1A",
+    "THE SPECIALIZED AGENCY.",
+    "THE SPECIALIZED COMPANY.",
+    "IN CREATE, FORMING",
+    "AND DEVELOP THE N. 1",
+    "Sign Up",
+    "Watch video"
+  ],
+  "bannerId": {
+    "$oid": "606f4656360e1d2938942ce9"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611d7feb0d3437103dd1a7ba"
+  },
+  "describes": [
+    "REACH YOUR FULL POTENTIAL",
+    "IN MODELS1A",
+    "watch video"
+  ],
+  "bannerId": {
+    "$oid": "611d7f0f7228985caf52e962"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611d7ff70d3437103dd1a7bb"
+  },
+  "describes": [
+    "ALCANZA TODO TU POTENCIAL",
+    "EN MODELS1A",
+    "mira el video"
+  ],
+  "bannerId": {
+    "$oid": "611d7f0f7228985caf52e962"
+  },
+  "language": "es",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611d80090d3437103dd1a7bc"
+  },
+  "describes": [
+    "REACH YOUR FULL POTENTIAL",
+    "IN MODELS1A",
+    "watch video"
+  ],
+  "bannerId": {
+    "$oid": "611d7f207228985caf52e963"
+  },
+  "language": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611d800f0d3437103dd1a7bd"
+  },
+  "describes": [
+    "ALCANZA TODO TU POTENCIAL",
+    "EN MODELS1A",
+    "mira el video"
+  ],
+  "bannerId": {
+    "$oid": "611d7f207228985caf52e963"
+  },
+  "language": "es",
+  "__v": 0
+}]

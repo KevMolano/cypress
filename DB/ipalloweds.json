@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6b1"
+  },
+  "officeName": "LAURELES01",
+  "description": "UNE",
+  "ip": "181.143.12.50"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6b2"
+  },
+  "officeName": "LAURELES01",
+  "description": "CLARO",
+  "ip": "190.145.3.114"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6b3"
+  },
+  "officeName": "LAURELES02",
+  "description": "UNE",
+  "ip": "181.129.79.26"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6b4"
+  },
+  "officeName": "LAURELES02",
+  "description": "CLARO",
+  "ip": "190.144.25.162"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6b5"
+  },
+  "officeName": "BULERIAS",
+  "description": "UNE",
+  "ip": "181.129.44.122"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6b6"
+  },
+  "officeName": "BULERIAS",
+  "description": "CLARO",
+  "ip": "181.48.164.166"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6b7"
+  },
+  "officeName": "LAURELES04",
+  "description": "UNE",
+  "ip": "181.129.112.178"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6b8"
+  },
+  "officeName": "LAURELES04",
+  "description": "CLARO",
+  "ip": "181.57.142.58"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6b9"
+  },
+  "officeName": "BOGOTA",
+  "description": "UNE",
+  "ip": "201.184.121.138"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6ba"
+  },
+  "officeName": "BOGOTA",
+  "description": "CLARO",
+  "ip": "190.144.111.150"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6bb"
+  },
+  "officeName": "PEREIRA",
+  "description": "UNE",
+  "ip": "181.129.214.218"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6bc"
+  },
+  "officeName": "PEREIRA",
+  "description": "CLARO",
+  "ip": "181.48.17.38"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6bd"
+  },
+  "officeName": "CÚCUTA",
+  "description": "UNE",
+  "ip": "200.6.160.146"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6be"
+  },
+  "officeName": "CÚCUTA",
+  "description": "CLARO",
+  "ip": "190.85.210.134"
+},{
+  "_id": {
+    "$oid": "60f9b5dac3b06a3ad072c6bf"
+  },
+  "officeName": "STANFORDII",
+  "description": "CLARO",
+  "ip": "181.129.45.34"
+},{
+  "_id": {
+    "$oid": "61683aa2ae39c161c61325c6"
+  },
+  "officeName": "STANFORDII",
+  "description": "CLARO",
+  "ip": "192.168.0.12"
+},{
+  "_id": {
+    "$oid": "61aad61083002166c80ed53d"
+  },
+  "officeName": "STANFORDII",
+  "description": "CLARO",
+  "ip": "181.129.12.243"
+},{
+  "_id": {
+    "$oid": "62348a312f912754e263cf9d"
+  },
+  "officeName": "STANFORDII",
+  "description": "CLARO",
+  "ip": "192.168.0.6"
+},{
+  "_id": {
+    "$oid": "6272ba5faf7f3dd93e086072"
+  },
+  "officeName": "STANFORDII",
+  "description": "CLARO",
+  "ip": "10.172.199.161"
+},{
+  "_id": {
+    "$oid": "6272bb42af7f3dd93e086073"
+  },
+  "officeName": "STANFORDII",
+  "description": "CLARO",
+  "ip": "191.156.43.94"
+},{
+  "_id": {
+    "$oid": "6272bb57af7f3dd93e086074"
+  },
+  "officeName": "STANFORDII",
+  "description": "CLARO",
+  "ip": "190.157.8.86"
+},{
+  "_id": {
+    "$oid": "6272ee6017ba899f052e8fdc"
+  },
+  "officeName": "LAURELES02",
+  "description": "CLARO",
+  "ip": "10.1.53.2.54"
+}]

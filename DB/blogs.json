@@ -1,0 +1,7 @@
+[{
+  "_id": {
+    "$oid": "608045384e0580166c2c3a8d"
+  },
+  "bannerLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/blog/bannerBlog.jpeg",
+  "__v": 0
+}]

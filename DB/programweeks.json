@@ -1,0 +1,5874 @@
+[{
+  "_id": {
+    "$oid": "61f3023f3a35a0c2845f3c36"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c37"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643000400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c38"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643086800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c39"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643173200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c3a"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643259600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c3b"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643346000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c3c"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643432400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c3d"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643518800000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c3e"
+      },
+      "artisticName": "ErikaHoffman",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c3f"
+      },
+      "artisticName": "ErikaHoffman",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c40"
+      },
+      "artisticName": "ErikaHoffman",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c41"
+      },
+      "artisticName": "ErikaHoffman",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c42"
+      },
+      "artisticName": "ErikaHoffman",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c43"
+      },
+      "artisticName": "ErikaHoffman",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c44"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c45"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c46"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c47"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c48"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c49"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c4a"
+      },
+      "artisticName": "Megan Fox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564309c9243e8401cb099a"
+      },
+      "roomName": "MED14"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c4b"
+      },
+      "artisticName": "Megan Fox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564309c9243e8401cb099a"
+      },
+      "roomName": "MED14"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c4c"
+      },
+      "artisticName": "Megan Fox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564309c9243e8401cb099a"
+      },
+      "roomName": "MED14"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c4d"
+      },
+      "artisticName": "Megan Fox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564309c9243e8401cb099a"
+      },
+      "roomName": "MED14"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c4e"
+      },
+      "artisticName": "Megan Fox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564309c9243e8401cb099a"
+      },
+      "roomName": "MED14"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c4f"
+      },
+      "artisticName": "Megan Fox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564309c9243e8401cb099a"
+      },
+      "roomName": "MED14"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c50"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642f3c9243e8401cb0988"
+      },
+      "roomName": "MED11"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c51"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642f3c9243e8401cb0988"
+      },
+      "roomName": "MED11"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c52"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642f3c9243e8401cb0988"
+      },
+      "roomName": "MED11"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c53"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642f3c9243e8401cb0988"
+      },
+      "roomName": "MED11"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c54"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642f3c9243e8401cb0988"
+      },
+      "roomName": "MED11"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c55"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642f3c9243e8401cb0988"
+      },
+      "roomName": "MED11"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c56"
+      },
+      "artisticName": "paulis",
+      "date": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c57"
+      },
+      "artisticName": "paulis",
+      "date": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c58"
+      },
+      "artisticName": "paulis",
+      "date": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c59"
+      },
+      "artisticName": "paulis",
+      "date": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c5a"
+      },
+      "artisticName": "paulis",
+      "date": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c5b"
+      },
+      "artisticName": "paulis",
+      "date": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c5c"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643e4c9243e8401cb0a1b"
+      },
+      "roomName": "MED21"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c5d"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643e4c9243e8401cb0a1b"
+      },
+      "roomName": "MED21"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c5e"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643e4c9243e8401cb0a1b"
+      },
+      "roomName": "MED21"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c5f"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643e4c9243e8401cb0a1b"
+      },
+      "roomName": "MED21"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c60"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643e4c9243e8401cb0a1b"
+      },
+      "roomName": "MED21"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c61"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643540400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643e4c9243e8401cb0a1b"
+      },
+      "roomName": "MED21"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c62"
+      },
+      "artisticName": "GabrielaCapone",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c63"
+      },
+      "artisticName": "GabrielaCapone",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c64"
+      },
+      "artisticName": "GabrielaCapone",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c65"
+      },
+      "artisticName": "GabrielaCapone",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c66"
+      },
+      "artisticName": "GabrielaCapone",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c67"
+      },
+      "artisticName": "GabrielaCapone",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c68"
+      },
+      "artisticName": "AlisonSantana",
+      "date": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c69"
+      },
+      "artisticName": "AlisonSantana",
+      "date": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c6a"
+      },
+      "artisticName": "AlisonSantana",
+      "date": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c6b"
+      },
+      "artisticName": "AlisonSantana",
+      "date": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c6c"
+      },
+      "artisticName": "AlisonSantana",
+      "date": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c6d"
+      },
+      "artisticName": "AlisonSantana",
+      "date": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643f8c9243e8401cb0a2d"
+      },
+      "roomName": "MED24"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c6e"
+      },
+      "artisticName": "ValeryMilano",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643fec9243e8401cb0a33"
+      },
+      "roomName": "MED25"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c6f"
+      },
+      "artisticName": "ValeryMilano",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643fec9243e8401cb0a33"
+      },
+      "roomName": "MED25"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c70"
+      },
+      "artisticName": "ValeryMilano",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643fec9243e8401cb0a33"
+      },
+      "roomName": "MED25"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c71"
+      },
+      "artisticName": "ValeryMilano",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643fec9243e8401cb0a33"
+      },
+      "roomName": "MED25"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c72"
+      },
+      "artisticName": "ValeryMilano",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643fec9243e8401cb0a33"
+      },
+      "roomName": "MED25"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c73"
+      },
+      "artisticName": "ValeryMilano",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615643fec9243e8401cb0a33"
+      },
+      "roomName": "MED25"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c74"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c75"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c76"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c77"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c78"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c79"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c7a"
+      },
+      "artisticName": "IvannaBellinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c7b"
+      },
+      "artisticName": "IvannaBellinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c7c"
+      },
+      "artisticName": "IvannaBellinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c7d"
+      },
+      "artisticName": "IvannaBellinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c7e"
+      },
+      "artisticName": "IvannaBellinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c7f"
+      },
+      "artisticName": "IvannaBellinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643540400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564405c9243e8401cb0a39"
+      },
+      "roomName": "MED26"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c80"
+      },
+      "artisticName": "NiaDamac",
+      "date": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c81"
+      },
+      "artisticName": "NiaDamac",
+      "date": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c82"
+      },
+      "artisticName": "NiaDamac",
+      "date": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c83"
+      },
+      "artisticName": "NiaDamac",
+      "date": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c84"
+      },
+      "artisticName": "NiaDamac",
+      "date": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c85"
+      },
+      "artisticName": "NiaDamac",
+      "date": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c86"
+      },
+      "artisticName": "JulianaCarter",
+      "date": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c87"
+      },
+      "artisticName": "JulianaCarter",
+      "date": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c88"
+      },
+      "artisticName": "JulianaCarter",
+      "date": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c89"
+      },
+      "artisticName": "JulianaCarter",
+      "date": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c8a"
+      },
+      "artisticName": "JulianaCarter",
+      "date": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c8b"
+      },
+      "artisticName": "JulianaCarter",
+      "date": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643540400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156440dc9243e8401cb0a3f"
+      },
+      "roomName": "MED27"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c8c"
+      },
+      "artisticName": "MartinaSchudels",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c8d"
+      },
+      "artisticName": "MartinaSchudels",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c8e"
+      },
+      "artisticName": "MartinaSchudels",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c8f"
+      },
+      "artisticName": "MartinaSchudels",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c90"
+      },
+      "artisticName": "MartinaSchudels",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c91"
+      },
+      "artisticName": "MartinaSchudels",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c92"
+      },
+      "artisticName": "MichelleNovoa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c93"
+      },
+      "artisticName": "MichelleNovoa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c94"
+      },
+      "artisticName": "MichelleNovoa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c95"
+      },
+      "artisticName": "MichelleNovoa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c96"
+      },
+      "artisticName": "MichelleNovoa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c97"
+      },
+      "artisticName": "MichelleNovoa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564413c9243e8401cb0a45"
+      },
+      "roomName": "MED28"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c98"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c99"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c9a"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c9b"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c9c"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c9d"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c9e"
+      },
+      "artisticName": "MarianaDalessio",
+      "date": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3c9f"
+      },
+      "artisticName": "MarianaDalessio",
+      "date": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca0"
+      },
+      "artisticName": "MarianaDalessio",
+      "date": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca1"
+      },
+      "artisticName": "MarianaDalessio",
+      "date": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca2"
+      },
+      "artisticName": "MarianaDalessio",
+      "date": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca3"
+      },
+      "artisticName": "MarianaDalessio",
+      "date": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156441ac9243e8401cb0a4b"
+      },
+      "roomName": "MED29"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca4"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca5"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca6"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca7"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca8"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3ca9"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3caa"
+      },
+      "artisticName": "GabyPastori",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cab"
+      },
+      "artisticName": "GabyPastori",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cac"
+      },
+      "artisticName": "GabyPastori",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cad"
+      },
+      "artisticName": "GabyPastori",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cae"
+      },
+      "artisticName": "GabyPastori",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3caf"
+      },
+      "artisticName": "GabyPastori",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb0"
+      },
+      "artisticName": "EmmaCrox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb1"
+      },
+      "artisticName": "EmmaCrox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb2"
+      },
+      "artisticName": "EmmaCrox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb3"
+      },
+      "artisticName": "EmmaCrox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb4"
+      },
+      "artisticName": "EmmaCrox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb5"
+      },
+      "artisticName": "EmmaCrox",
+      "date": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643540400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564422c9243e8401cb0a51"
+      },
+      "roomName": "MED30"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb6"
+      },
+      "artisticName": "FernandaGlam",
+      "date": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb7"
+      },
+      "artisticName": "FernandaGlam",
+      "date": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb8"
+      },
+      "artisticName": "FernandaGlam",
+      "date": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cb9"
+      },
+      "artisticName": "FernandaGlam",
+      "date": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cba"
+      },
+      "artisticName": "FernandaGlam",
+      "date": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cbb"
+      },
+      "artisticName": "FernandaGlam",
+      "date": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cbc"
+      },
+      "artisticName": "CarlinaRenteria",
+      "date": {
+        "$date": {
+          "$numberLong": "1643079600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cbd"
+      },
+      "artisticName": "CarlinaRenteria",
+      "date": {
+        "$date": {
+          "$numberLong": "1643166000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cbe"
+      },
+      "artisticName": "CarlinaRenteria",
+      "date": {
+        "$date": {
+          "$numberLong": "1643252400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cbf"
+      },
+      "artisticName": "CarlinaRenteria",
+      "date": {
+        "$date": {
+          "$numberLong": "1643338800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cc0"
+      },
+      "artisticName": "CarlinaRenteria",
+      "date": {
+        "$date": {
+          "$numberLong": "1643425200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cc1"
+      },
+      "artisticName": "CarlinaRenteria",
+      "date": {
+        "$date": {
+          "$numberLong": "1643511600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643540400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156442ec9243e8401cb0a57"
+      },
+      "roomName": "MED31"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cc2"
+      },
+      "artisticName": "ninel",
+      "date": {
+        "$date": {
+          "$numberLong": "1643022000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643050800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564366c9243e8401cb09ca"
+      },
+      "roomName": "MED33"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cc3"
+      },
+      "artisticName": "ninel",
+      "date": {
+        "$date": {
+          "$numberLong": "1643108400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643137200000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564366c9243e8401cb09ca"
+      },
+      "roomName": "MED33"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cc4"
+      },
+      "artisticName": "ninel",
+      "date": {
+        "$date": {
+          "$numberLong": "1643194800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643223600000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564366c9243e8401cb09ca"
+      },
+      "roomName": "MED33"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cc5"
+      },
+      "artisticName": "ninel",
+      "date": {
+        "$date": {
+          "$numberLong": "1643281200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643310000000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564366c9243e8401cb09ca"
+      },
+      "roomName": "MED33"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cc6"
+      },
+      "artisticName": "ninel",
+      "date": {
+        "$date": {
+          "$numberLong": "1643367600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643396400000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564366c9243e8401cb09ca"
+      },
+      "roomName": "MED33"
+    },
+    {
+      "_id": {
+        "$oid": "61f3023f3a35a0c2845f3cc7"
+      },
+      "artisticName": "ninel",
+      "date": {
+        "$date": {
+          "$numberLong": "1643454000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643482800000"
+        }
+      },
+      "roomId": {
+        "$oid": "61564366c9243e8401cb09ca"
+      },
+      "roomName": "MED33"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f97ed86bb8040eb8eccb40"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb41"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643605200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb42"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643691600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb43"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643778000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb44"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643864400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb45"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1643950800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb46"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644037200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb47"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644123600000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb48"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643655600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643684400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb49"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643742000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643770800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb4a"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643828400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643857200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb4b"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1643914800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1643943600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb4c"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1644001200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644030000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61f97ed86bb8040eb8eccb4d"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1644087600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644116400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fbf316dc411937fc246a3a"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a3b"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644210000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a3c"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644296400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a3d"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644382800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a3e"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644469200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a3f"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644555600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a40"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644642000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a41"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644728400000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a42"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1644231600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644260400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a43"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1644318000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644346800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a44"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1644404400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644433200000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a45"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1644490800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644519600000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a46"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1644577200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644606000000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a47"
+      },
+      "artisticName": "OrianaSabatinni",
+      "date": {
+        "$date": {
+          "$numberLong": "1644663600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644692400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a48"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1644260400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644289200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a49"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1644346800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644375600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a4a"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1644433200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644462000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a4b"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1644519600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644548400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a4c"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1644606000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644634800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "61fbf316dc411937fc246a4d"
+      },
+      "artisticName": "Alejandra Roa",
+      "date": {
+        "$date": {
+          "$numberLong": "1644692400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1644721200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620bb248d98a353af13e7139"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "620bb248d98a353af13e713a"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644814800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "620bb248d98a353af13e713b"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644901200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "620bb248d98a353af13e713c"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1644987600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "620bb248d98a353af13e713d"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645074000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "620bb248d98a353af13e713e"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645160400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "620bb248d98a353af13e713f"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645246800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "620bb248d98a353af13e7140"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645333200000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62139979d802c3d12823fd17"
+  },
+  "cities": [
+    "Medellín",
+    "Cúcuta",
+    "Bogotá",
+    "Pereira"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd18"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645419600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd19"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645506000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd1a"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645592400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd1b"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645678800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd1c"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645765200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd1d"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645851600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd1e"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1645938000000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd1f"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1645441200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1645470000000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd20"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1645527600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1645556400000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd21"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1645614000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1645642800000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd22"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1645700400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1645729200000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd23"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1645786800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1645815600000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    },
+    {
+      "_id": {
+        "$oid": "62139979d802c3d12823fd24"
+      },
+      "artisticName": "estefita",
+      "date": {
+        "$date": {
+          "$numberLong": "1645873200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1645902000000"
+        }
+      },
+      "roomId": {
+        "$oid": "615642fac9243e8401cb098e"
+      },
+      "roomName": "MED12"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621e3b89ba8516847c8f341e"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "621e3b89ba8516847c8f341f"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646024400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621e3b89ba8516847c8f3420"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646110800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621e3b89ba8516847c8f3421"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646197200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621e3b89ba8516847c8f3422"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646283600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621e3b89ba8516847c8f3423"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646370000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621e3b89ba8516847c8f3424"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646456400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621e3b89ba8516847c8f3425"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646542800000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621f78dab3b43aa597a7d37d"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "621f78dab3b43aa597a7d37e"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646629200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621f78dab3b43aa597a7d37f"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646715600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621f78dab3b43aa597a7d380"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646802000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621f78dab3b43aa597a7d381"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646888400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621f78dab3b43aa597a7d382"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1646974800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621f78dab3b43aa597a7d383"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647061200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "621f78dab3b43aa597a7d384"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647147600000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622637c776d2b938bf3e6761"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "622637c776d2b938bf3e6762"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647234000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "622637c776d2b938bf3e6763"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647320400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "622637c776d2b938bf3e6764"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647406800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "622637c776d2b938bf3e6765"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647493200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "622637c776d2b938bf3e6766"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647579600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "622637c776d2b938bf3e6767"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647666000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "622637c776d2b938bf3e6768"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647752400000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6239fd0a0e65b2d7b56864d7"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864d8"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647838800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864d9"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1647925200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864da"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648011600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864db"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648098000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864dc"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648184400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864dd"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648270800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864de"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648357200000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864df"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1647918000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1647946800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864e0"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648004400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648033200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864e1"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648090800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648119600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864e2"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648177200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648206000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864e3"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648263600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648292400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd0a0e65b2d7b56864e4"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648350000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648378800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6239fd1e0e65b2d7b568670b"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b568670c"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648443600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b568670d"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648530000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b568670e"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648616400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b568670f"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648702800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b5686710"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648789200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b5686711"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648875600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b5686712"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1648962000000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b5686713"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648522800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648551600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b5686714"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648609200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648638000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b5686715"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648695600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648724400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b5686716"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648782000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648810800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b5686717"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648868400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648897200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6239fd1e0e65b2d7b5686718"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1648954800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1648983600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b4838791f9231f5fa5eef"
+  },
+  "cities": [
+    "Cúcuta",
+    "Medellín",
+    "Bogotá",
+    "Pereira"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "623b4838791f9231f5fa5ef0"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649048400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "623b4838791f9231f5fa5ef1"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649134800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "623b4838791f9231f5fa5ef2"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649221200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "623b4838791f9231f5fa5ef3"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649307600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "623b4838791f9231f5fa5ef4"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649394000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "623b4838791f9231f5fa5ef5"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649480400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "623b4838791f9231f5fa5ef6"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649566800000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624f0be4aa19ace1c10f8d97"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8d98"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649653200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8d99"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649739600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8d9a"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649826000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8d9b"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649912400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8d9c"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1649998800000"
+        }
+      },
+      "isHoliday": true
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8d9d"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650085200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8d9e"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650171600000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8d9f"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1649732400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649761200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da0"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1649818800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649847600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da1"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1649905200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649934000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da2"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1649991600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650020400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da3"
+      },
+      "artisticName": "clementina",
+      "date": {
+        "$date": {
+          "$numberLong": "1650164400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650193200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da4"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1649703600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649732400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da5"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1649790000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649818800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da6"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1649876400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649905200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da7"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1649962800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649991600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da8"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1650135600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650164400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8da9"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1649674800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649703600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8daa"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1649761200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649790000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8dab"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1649847600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649876400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8dac"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1649934000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1649962800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "624f0be4aa19ace1c10f8dad"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1650106800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650135600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6255e718d288fae50577fbf4"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbf5"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650258000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbf6"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650344400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbf7"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650430800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbf8"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650517200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbf9"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650603600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbfa"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650690000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbfb"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650776400000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbfc"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1650308400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650337200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbfd"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1650394800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650423600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbfe"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1650481200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650510000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fbff"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1650567600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650596400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fc00"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1650654000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650682800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fc01"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1650740400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650769200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fc02"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1650279600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650308400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fc03"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1650366000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650394800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fc04"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1650452400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650481200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fc05"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1650538800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650567600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fc06"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1650625200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650654000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "6255e718d288fae50577fc07"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1650711600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650740400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ab7ae9bb01c8cf5d90133"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90134"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650862800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90135"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1650949200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90136"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651035600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90137"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651122000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90138"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651208400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90139"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651294800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d9013a"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651381200000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d9013b"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1650913200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650942000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d9013c"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1650999600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651028400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d9013d"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651086000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651114800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d9013e"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651172400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651201200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d9013f"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651258800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651287600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90140"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651345200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651374000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90141"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1650884400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650913200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90142"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1650970800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1650999600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90143"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651057200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651086000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90144"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651143600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651172400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90145"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651230000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651258800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626ab7ae9bb01c8cf5d90146"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651316400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651345200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626eba9796917c6835ee18b0"
+  },
+  "cities": [
+    "Medellín",
+    "Bogotá",
+    "Pereira",
+    "Cúcuta"
+  ],
+  "week": [
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18b1"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651467600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18b2"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651554000000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18b3"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651640400000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18b4"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651726800000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18b5"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651813200000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18b6"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651899600000"
+        }
+      },
+      "isHoliday": false
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18b7"
+      },
+      "date": {
+        "$date": {
+          "$numberLong": "1651986000000"
+        }
+      },
+      "isHoliday": false
+    }
+  ],
+  "log": [
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18b8"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651518000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651546800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18b9"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651604400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651633200000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18ba"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651690800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651719600000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18bb"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651777200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651806000000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18bc"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651863600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651892400000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18bd"
+      },
+      "artisticName": "andreita",
+      "date": {
+        "$date": {
+          "$numberLong": "1651950000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651978800000"
+        }
+      },
+      "roomId": {
+        "$oid": "5fba7301583b3d9d827e8098"
+      },
+      "roomName": "MED01"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18be"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651489200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651518000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18bf"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651575600000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651604400000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18c0"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651662000000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651690800000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18c1"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651748400000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651777200000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18c2"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651834800000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651863600000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    },
+    {
+      "_id": {
+        "$oid": "626eba9796917c6835ee18c3"
+      },
+      "artisticName": "AntonellaBrooks",
+      "date": {
+        "$date": {
+          "$numberLong": "1651921200000"
+        }
+      },
+      "dateTo": {
+        "$date": {
+          "$numberLong": "1651950000000"
+        }
+      },
+      "roomId": {
+        "$oid": "6156429fc9243e8401cb0958"
+      },
+      "roomName": "MED03"
+    }
+  ],
+  "__v": 0
+}]

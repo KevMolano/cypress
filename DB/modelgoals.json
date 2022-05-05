@@ -1,0 +1,1347 @@
+[{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a853"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a857"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 837
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a856"
+      },
+      "name": "loyalty_fee",
+      "value": 1,
+      "finished": null
+    }
+  ],
+  "badges": [
+    {
+      "name": "",
+      "_id": {
+        "$oid": "61a10fd5274bd345b228a94c"
+      },
+      "year": 2019,
+      "img": "https://new-web-site-bucket.s3.amazonaws.com/autologin/goals/60de3d62ec3263b71f035c43/badges/AntonelaBosch%201.jpg"
+    },
+    {
+      "name": "",
+      "_id": {
+        "$oid": "61a10fe1274bd345b228a94f"
+      },
+      "year": 2018,
+      "img": "https://new-web-site-bucket.s3.amazonaws.com/autologin/goals/60de3d62ec3263b71f035c43/badges/AntonelaBosch2.png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a855"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "60de3e0fec3263b71f036b09"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a85d"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 667
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a85c"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [
+    {
+      "name": "",
+      "_id": {
+        "$oid": "61a10ffa274bd345b228a956"
+      },
+      "year": 2016,
+      "img": "https://new-web-site-bucket.s3.amazonaws.com/autologin/goals/60de3e0fec3263b71f036b09/badges/Best%20Colombian%20Model.png"
+    },
+    {
+      "name": "",
+      "_id": {
+        "$oid": "61a10ff1274bd345b228a953"
+      },
+      "year": 2015,
+      "img": "https://new-web-site-bucket.s3.amazonaws.com/autologin/goals/60de3e0fec3263b71f036b09/badges/004%20Latin%20american%20live%20cam%20studio%20-%20Mejor%20estudio%20webcam%20de%20america.png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a85b"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a864"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 128
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a863"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a862"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "60df3dd1ec3263b71f073b98"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a86b"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 159
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a86a"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a869"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "60ef555f0de54c5a466b0379"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a872"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 159
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a871"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a870"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "60ef56cb0de54c5a466b06b4"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a879"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 0
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a878"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a877"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a880"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 0
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a87f"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a87e"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "61327d560807a80bd74c2738"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a887"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 396
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a886"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a885"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "613280000807a80bd74c2cd7"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a88e"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 623
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a88d"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a88c"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "61450d70a76cca32e6ee2968"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a896"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 144
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a895"
+      },
+      "name": "loyalty_fee",
+      "value": 2,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a894"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6148cb79a8ee3459cb4231d9"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a89c"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 191
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a89b"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a89a"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8a3"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 183
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8a2"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8a1"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "614e3c66b22be8c3a3db314b"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8ab"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 248
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8aa"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8a9"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "617044019430c4caf3c631d9"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8b2"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 295
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8b1"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8b0"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "61736181aeba4614774f23ca"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8b9"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 421
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8b8"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8b7"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6173642baeba4614774f243d"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8c0"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 54
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8bf"
+      },
+      "name": "loyalty_fee",
+      "value": 1,
+      "finished": null
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8be"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "617366d4aeba4614774f2534"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8c7"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 338
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8c6"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8c5"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6173808caeba4614774f27ea"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8ce"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 317
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8cd"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8cc"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "61783105be233a48854a86b3"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8d5"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 183
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8d4"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8d3"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6178b804a329674e1e08ad61"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8dc"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 168
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8db"
+      },
+      "name": "loyalty_fee",
+      "value": 1,
+      "finished": null
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8da"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "617db67aefdbda88bcdc152d"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8e2"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 456
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8e1"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8e0"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "618ffe5930ccfebbbb14d988"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8ea"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 82
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8e9"
+      },
+      "name": "loyalty_fee",
+      "value": 1,
+      "finished": null
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8e8"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6195873f00b0daf6b49a714c"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8ef"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 478
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8ee"
+      },
+      "name": "loyalty_fee",
+      "value": 1,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8ed"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6197c686432c7a8175f5a006"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8f7"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 308
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8f6"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8f5"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6197c723432c7a8175f5a00c"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8fc"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 637
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a8fb"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a8fa"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6197c754432c7a8175f5a00d"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a907"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 208
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a906"
+      },
+      "name": "loyalty_fee",
+      "value": 1,
+      "finished": null
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a905"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a90e"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 664
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a90d"
+      },
+      "name": "loyalty_fee",
+      "value": 1,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a90c"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "619ec2cd2b41462eb4be335e"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a915"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 372
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a914"
+      },
+      "name": "loyalty_fee",
+      "value": 1,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a913"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a91b"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 473
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a91a"
+      },
+      "name": "loyalty_fee",
+      "value": 1,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a10f32274bd345b228a919"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "619ec5272b41462eb4be3487"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a920"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 667
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a10f32274bd345b228a91f"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a92822c1c041dcd6eac935"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "61a92822c1c041dcd6eac933"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a92822c1c041dcd6eac939"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 154
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a92822c1c041dcd6eac938"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a928abc1c041dcd6eac957"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "61a928abc1c041dcd6eac955"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "61a928abc1c041dcd6eac95b"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 181
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "61a928abc1c041dcd6eac95a"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202e132483caede2e5017a3"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6202e132483caede2e5017a1"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "6202e132483caede2e5017a7"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 91
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "6202e132483caede2e5017a6"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202e7176fd6c3e29657a987"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6202e7176fd6c3e29657a985"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "6202e7176fd6c3e29657a98b"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 74
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "6202e7176fd6c3e29657a98a"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203f8390bdbdbe74e53d323"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6203f8390bdbdbe74e53d321"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "6203f8390bdbdbe74e53d327"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 80
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "6203f8390bdbdbe74e53d326"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6203f9070bdbdbe74e53d421"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6203f9070bdbdbe74e53d41f"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "6203f9070bdbdbe74e53d425"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 85
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "6203f9070bdbdbe74e53d424"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62043e880bdbdbe74e53d5ea"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "62043e880bdbdbe74e53d5e8"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "62043e880bdbdbe74e53d5ee"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 165
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "62043e880bdbdbe74e53d5ed"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62059710016ea20113945118"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "62059710016ea20113945116"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "62059710016ea2011394511c"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 83
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "62059710016ea2011394511b"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62223548127168154488450c"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "62223548127168154488450a"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "622235481271681544884510"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 154
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "62223548127168154488450f"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6228be6443ffc673454f6bf3"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "6228be6443ffc673454f6bf1"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "6228be6443ffc673454f6bf7"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 58
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "6228be6443ffc673454f6bf6"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62422cbbdb6d36f5260c39d5"
+  },
+  "accumulatedDollars": 0,
+  "accumulatedTime": 0,
+  "modelData": {
+    "$oid": "62422cbadb6d36f5260c39d3"
+  },
+  "goals": [
+    {
+      "_id": {
+        "$oid": "62422cbbdb6d36f5260c39d9"
+      },
+      "goalId": {
+        "$oid": "61a10f31274bd345b228a850"
+      },
+      "progress": 26
+    }
+  ],
+  "awards": [
+    {
+      "_id": {
+        "$oid": "62422cbbdb6d36f5260c39d8"
+      },
+      "name": "loyalty_fee",
+      "value": 0,
+      "finished": false
+    }
+  ],
+  "badges": [],
+  "__v": 0
+}]

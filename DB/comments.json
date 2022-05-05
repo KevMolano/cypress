@@ -1,0 +1,517 @@
+[{
+  "_id": {
+    "$oid": "6145036b0ca67832eddadd13"
+  },
+  "name": "Jose Anibal",
+  "user": {
+    "$oid": "6145030b0ca67832eddadd0b"
+  },
+  "message": "Curriculum válido",
+  "state": "Nuevo",
+  "date": "Fri Sep 17 2021 11:06:51 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6145038d0ca67832eddadd19"
+  },
+  "name": "Jose Anibal",
+  "user": {
+    "$oid": "6145030b0ca67832eddadd0b"
+  },
+  "message": "Aspirante Pasará a contratados",
+  "state": "Aprobado",
+  "date": "Fri Sep 17 2021 11:07:25 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6169ee9ee725698401bd3d87"
+  },
+  "name": "Jaime",
+  "user": {
+    "$oid": "61683f9612f89c5b01074b1c"
+  },
+  "message": "No está conforme a lo solicitado&nbsp;",
+  "state": "Aprobado",
+  "date": "Fri Oct 15 2021 11:11:58 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703e9392dc78caff5951d7"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "1",
+  "state": "Nuevo",
+  "date": "Wed Oct 20 2021 06:06:43 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703e9a92dc78caff5951db"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "2",
+  "state": "Nuevo",
+  "date": "Wed Oct 20 2021 06:06:50 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703ea492dc78caff5951e2"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "3",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:07:00 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703ea992dc78caff5951e7"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "4",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:07:05 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703eb492dc78caff5951ec"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "5",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:07:16 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703ebd92dc78caff5951f0"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "6",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:07:25 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703ec392dc78caff5951f8"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "7",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:07:31 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703f1992dc78caff5951fc"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "8",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:08:57 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703f2892dc78caff595200"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "9",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:09:12 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703f3092dc78caff595208"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "10",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:09:20 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703f3792dc78caff59520d"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "61702df3059cc8ca394a74f4"
+  },
+  "message": "11",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:09:27 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703fe792dc78caff59522b"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "616f222303141eb581c6b72b"
+  },
+  "message": "1",
+  "state": "Nuevo",
+  "date": "Wed Oct 20 2021 06:12:23 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61703ff692dc78caff595232"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "616f222303141eb581c6b72b"
+  },
+  "message": "2",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:12:38 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170400092dc78caff595239"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "616f222303141eb581c6b72b"
+  },
+  "message": "3",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:12:48 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170400792dc78caff59523f"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "616f222303141eb581c6b72b"
+  },
+  "message": "4",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:12:55 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170401092dc78caff595246"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "616f222303141eb581c6b72b"
+  },
+  "message": "5",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:13:04 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170402692dc78caff59524c"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "616f222303141eb581c6b72b"
+  },
+  "message": "6",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:13:26 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170402b92dc78caff595252"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "616f222303141eb581c6b72b"
+  },
+  "message": "7",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:13:31 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617040aa92dc78caff595267"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "613ba5bed8490c1e94f80327"
+  },
+  "message": "1",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:15:38 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049b44297becd7f846c44"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "1",
+  "state": "Nuevo",
+  "date": "Wed Oct 20 2021 06:54:12 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049c34297becd7f846c48"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "2",
+  "state": "Nuevo",
+  "date": "Wed Oct 20 2021 06:54:27 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049ca4297becd7f846c4c"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "3",
+  "state": "Nuevo",
+  "date": "Wed Oct 20 2021 06:54:34 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049d04297becd7f846c52"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "4",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:54:40 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049da4297becd7f846c56"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "5",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:54:50 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049e04297becd7f846c5d"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "6",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:54:56 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049e74297becd7f846c62"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "7",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:55:03 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049ef4297becd7f846c67"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "8",
+  "state": "No Aprobado",
+  "date": "Wed Oct 20 2021 06:55:11 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049f44297becd7f846c6c"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "9",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:55:16 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617049fc4297becd7f846c71"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "10",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:55:24 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61704a094297becd7f846c82"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "11",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:55:37 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61704a0d4297becd7f846c87"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "12",
+  "state": "Aprobado",
+  "date": "Wed Oct 20 2021 06:55:41 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61704a1c4297becd7f846c92"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "13",
+  "state": "Contratados",
+  "date": "Wed Oct 20 2021 06:55:56 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61704a214297becd7f846c99"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049854297becd7f846c2a"
+  },
+  "message": "14",
+  "state": "Contratados",
+  "date": "Wed Oct 20 2021 06:56:01 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61707ca5a9994bd0caf4a322"
+  },
+  "name": "Superadmin",
+  "user": {
+    "$oid": "617049a14297becd7f846c37"
+  },
+  "message": "Test",
+  "state": "Nuevo",
+  "date": "Wed Oct 20 2021 10:31:33 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61716f7b800602d35c2360c4"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049a14297becd7f846c37"
+  },
+  "message": "jj",
+  "state": "Aprobado",
+  "date": "Thu Oct 21 2021 03:47:39 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61716faa800602d35c2360e0"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049a14297becd7f846c37"
+  },
+  "message": "d",
+  "state": "Aprobado",
+  "date": "Thu Oct 21 2021 03:48:26 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61716ffc800602d35c2360f6"
+  },
+  "name": "DesarrolladorOMG",
+  "user": {
+    "$oid": "617049a14297becd7f846c37"
+  },
+  "message": "n,m",
+  "state": "Contratados",
+  "date": "Thu Oct 21 2021 03:49:48 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddf99f05f2754238c64e25"
+  },
+  "name": "Jaime",
+  "user": {
+    "$oid": "61ddf8e205f2754238c64e10"
+  },
+  "message": "quién sabe",
+  "state": "Nuevo",
+  "date": "Tue Jan 11 2022 11:41:51 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddf9ab05f2754238c64e29"
+  },
+  "name": "Jaime",
+  "user": {
+    "$oid": "61ddf8e205f2754238c64e10"
+  },
+  "message": "Para ver",
+  "state": "Nuevo",
+  "date": "Tue Jan 11 2022 11:42:03 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddf9ba05f2754238c64e2d"
+  },
+  "name": "Jaime",
+  "user": {
+    "$oid": "61ddf96705f2754238c64e1a"
+  },
+  "message": "este border está malo",
+  "state": "Nuevo",
+  "date": "Tue Jan 11 2022 11:42:18 GMT-0500 (Colombia Standard Time)",
+  "__v": 0
+}]

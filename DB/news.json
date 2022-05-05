@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "606df4b4360e1d2938942cd5"
+  },
+  "name": "news1",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/pictureNews1.jpg",
+  "mediaLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/videoNews1.mp4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df5f9360e1d2938942cd8"
+  },
+  "name": "news2",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/pictureNews2.jpg",
+  "mediaLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/videoNews2.mp4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df6b5360e1d2938942cdb"
+  },
+  "name": "news3",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/pictureNews3.jpg",
+  "mediaLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/videoNews3.mp4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df85f360e1d2938942cde"
+  },
+  "name": "news4",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/pictureNews4.jpg",
+  "mediaLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/videoNews4.mp4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df91c360e1d2938942ce1"
+  },
+  "name": "news5",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/pictureNews5.jpg",
+  "mediaLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/videoNews5.mp4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606dfbc9360e1d2938942ce4"
+  },
+  "name": "news6",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/pictureNews6.jpg",
+  "mediaLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/news/videoNews6.mp4",
+  "__v": 0
+}]

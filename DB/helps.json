@@ -1,0 +1,159 @@
+[{
+  "_id": {
+    "$oid": "608089700d90e7196431e085"
+  },
+  "lang": "en",
+  "title": "Frequent questions",
+  "subtitle": "We solve your doubts",
+  "helpLabel": "Help center",
+  "faqLabel": "Frequent questions",
+  "bannerLink": "https://www.models1a.com/wp-content/uploads/2020/09/blog_.jpeg",
+  "questions": [
+    {
+      "_id": {
+        "$oid": "608089700d90e7196431e086"
+      },
+      "question": "What are the requirements?",
+      "answer": "<div>\n  Be of legal age, have original ID, good record and time availability.\n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "608089700d90e7196431e087"
+      },
+      "question": "Do you have any defined stereotype or profile?",
+      "answer": "<div>\n  No, we do not have a defined stereotype. However, we must clarify that Models1A has been characterized by managing high standards.\n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "608089700d90e7196431e088"
+      },
+      "question": "Where are they located?",
+      "answer": "<div>\n  We have new, modern, spacious and luxurious offices in Medellin, Pereira, Cucuta and Bogota.\n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "608089700d90e7196431e089"
+      },
+      "question": "What sets Models1A apart from the rest?",
+      "answer": "<div>\n  Quality, results, experience, leadership, vision, sales strategies, traffic, positioning and a great team. \n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "608089700d90e7196431e08a"
+      },
+      "question": "How much can my monthly income be starting out if I have no experience?",
+      "answer": "<div>\n  At Models1A we have been characterized by creating and training models without\n  professional and disciplined way, achieving exponential results.\n</div>\n<div>\n  For example, in your first months you can bill around 15 million per month. In addition, we have the highest incentives in \n  the country that will motivate you to reach these levels. This way you will be able to advance quickly and meet your \n  goals in the shortest time possible.\n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "608089700d90e7196431e08b"
+      },
+      "question": "Do you offer any incentive or bonus in addition to the percentage of sales?",
+      "answer": "<div>\n  Currently, at Models1A we offer the highest incentives in the country and we have multiple sources of income such as:\n</div>\n<div>\n  - More than 600,000 pesos in weekly bonuses.\n</div>\n<div>\n  - Up to 10 million Colombian pesos or the equivalent of 3mil US dollars monthly through an exclusive partner program.\n</div>\n<div>\n  - International trips such as Dubai, Europe, USA and Latin America. \n</div>"
+    },
+    {
+      "question": "How is the payment method: weekly or biweekly?",
+      "answer": "<div>\n  We pay weekly, since we have proven and know based on experience that it generates a much faster economic stability \n  than biweekly payments. This is due to the fact that the times are longer when receiving your money and that can \n  affect your performance when biweekly. \n</div>"
+    },
+    {
+      "question": "If I have worked or am working LiveJasmin in another studio, is there any block or can I work with Models1A without problems?",
+      "answer": "<div>\n  There are currently no blockages by LiveJasmin, so you could work without any problem with Models1A.\n</div>"
+    },
+    {
+      "question": "Is it necessary to speak English?",
+      "answer": "<div>\n  No, at Models1A we have a large number of talented bilingual instructors, available 24/7, 365 days a year, who will support \n  and guide you at all times in order to develop your to potential to the maximum and increase your sales. \n</div>"
+    },
+    {
+      "question": "Do you work with men, trans or couples?",
+      "answer": "<div>\n  No, for now we only specialize in the female format. \n</div>"
+    },
+    {
+      "question": "Do you handle satellite models?",
+      "answer": "<div>\n  A good model is formed from the studio, that is why we do not use the satellite format, since our specialty is to create,\n  train and develop high performance models. It is proven that from the comfort of the house the performance is very low.\n</div>"
+    },
+    {
+      "question": "Is the income higher as an independent or from the studio?",
+      "answer": "<div>\n  If we talk about getting more results in the gym, how do you think you get them? With a coach or training at home?\n</div>\n<div>\n  Yes, logically with the coach, in our case from the studio and under our disciplined format of work, advice and\n  guide, so the results will always be much better.\n</div>\n<div>\n  We recommend the satellite format to those profiles that do not have time availability, they prefer comfort\n  and they don't want to get out of their comfort zone.\n</div>\n<div>\n  At Models1A the # 1 goal is to monetize and progress in the shortest time possible.\n</div>"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6080898b0d90e7196431e090"
+  },
+  "lang": "es",
+  "title": "Preguntas frecuentes",
+  "subtitle": "Resolvemos tus dudas",
+  "helpLabel": "Contáctenos",
+  "faqLabel": "Preguntas frecuentes",
+  "bannerLink": "https://www.models1a.com/wp-content/uploads/2020/09/blog_.jpeg",
+  "questions": [
+    {
+      "_id": {
+        "$oid": "6080898b0d90e7196431e091"
+      },
+      "question": "¿Cuáles son los requisitos?",
+      "answer": "<div>\n  Ser mayor de edad, tener cédula original, buen registro y disponibilidad de tiempo.\n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "6080898b0d90e7196431e092"
+      },
+      "question": "¿Tienen algún estereotipo o perfil definido?",
+      "answer": "<div>\n  No, no tenemos un estereotipo definido. Sin embargo, debemos aclarar que Models1A se ha caracterizado por manejar altos estándares.\n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "6080898b0d90e7196431e093"
+      },
+      "question": "¿Dónde se encuentran ubicados?",
+      "answer": "<div>\n  Contamos con nuevas, modernas, espaciosas y lujosas sedes en Medellín, Pereira, Cúcuta y Bogotá.\n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "6080898b0d90e7196431e094"
+      },
+      "question": "¿Qué diferencia a Models1A del resto?",
+      "answer": "<div>\n  Calidad, resultados, experiencia, liderazgo, visión, estrategias de ventas, tráfico, posicionamiento y un gran equipo. \n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "6080898b0d90e7196431e095"
+      },
+      "question": "¿Cuánto pueden ser mis ingresos mensuales iniciando si no tengo experiencia?",
+      "answer": "<div>\n  En Models1A nos hemos caracterizado por crear y formar modelos sin experiencia de una manera muy profesional y disciplinada logrando \n  resultados exponenciales.\n</div>\n<div>\n  Ejemplo, en tus primeros meses puedes facturar alrededor de 15 millones mensuales. Además, contamos con los incentivos más altos del \n  país que te motivarán a alcanzar estos niveles. De esta manera podrás avanzar rápidamente y cumplir tus objetivos en el menor tiempo \n  posible.\n</div>"
+    },
+    {
+      "_id": {
+        "$oid": "6080898b0d90e7196431e096"
+      },
+      "question": "¿Ofrecen algún incentivo o bonificación adicional al porcentaje de ventas?",
+      "answer": "<div>\n  Actualmente, en Models1A ofrecemos los incentivos más altos de país y contamos con múltiples fuentes de ingresos como:\n</div>\n<div>\n  - Más de 600.000 pesos en bonos semanales.\n</div>\n<div>\n  - Hasta 10 millones de pesos colombianos o el equivalente a 3mil dólares americanos mensuales mediante un programa exclusivo de socios.\n</div>\n<div>\n  - Viajes internacionales como Dubai, Europa, USA y América Latina. \n</div>"
+    },
+    {
+      "question": "¿Cómo es el método de pagos: Semanal o quincenal?",
+      "answer": "<div>\n  Pagamos semanal, ya que hemos comprobado y sabemos basado en la experiencia que te genera una estabilidad económica mucho más rápida \n  que los pagos quincenales. Esto se debe a que los tiempos son más largos al recibir tu dinero y eso puedo afectar tu rendimiento al \n  ser quincenales. \n</div>"
+    },
+    {
+      "question": "Si he trabajado o estoy trabajando LiveJasmin en otro studio, ¿hay algún bloqueo o puedo trabajar con Models1A sin problemas?",
+      "answer": "<div>\n  No existen bloqueos en la actualidad por parte de LiveJasmin, por lo que podrías trabajar sin ningún problema con Models1A.\n</div>"
+    },
+    {
+      "question": "¿Es necesario hablar inglés?",
+      "answer": "<div>\n  No, en Models1A contamos con un gran número de talentosos monitores bilingües, disponibles las 24/7 los 365 días del año, los \n  cuales te apoyarán y te guiarán en todo momento con la finalidad de desarrollar al máximo tu potencial y así aumentar tus ventas. \n</div>"
+    },
+    {
+      "question": "¿Trabajan con hombres, trans o parejas?",
+      "answer": "<div>\n  No, por ahora solo nos especializamos en el formato femenino. \n</div>"
+    },
+    {
+      "question": "¿Manejan modelos satélites?",
+      "answer": "<div>\n  Una buena modelo se forma desde el studio, es por eso que no manéjanos el formato satélite, ya que nuestra especialidad es crear, \n  formar y desarrollar modelos de alto rendimiento. Está comprobado que desde la comodidad de la casa el rendimiento es muy bajo.\n</div>"
+    },
+    {
+      "question": "¿Los ingresos son mayores como independiente o desde el studio?",
+      "answer": "<div>\n  Si hablamos de obtener más resultados en el gimnasio, ¿Cómo crees que se obtienen? ¿con un entrenador o entrenando en casa? \n</div>\n<div>\n  Sí, lógicamente con el entrenador, en nuestro caso desde el studio y bajo nuestro formato disciplinado de trabajo, asesoría y \n  guía, así los resultados siempre van a ser mucho mejores.\n</div>\n<div>\n  Recomendamos el formato satélite a aquellos perfiles que no cuentan con la disponibilidad de tiempo, prefieren la comodidad \n  y no quieren salir de su zona de confort.\n</div>\n<div>\n  En Models1A el objetivo #1 es monetizar y progresar en el menor tiempo posible.\n</div>"
+    }
+  ],
+  "__v": 0
+}]

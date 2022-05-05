@@ -1,0 +1,313 @@
+[{
+  "_id": {
+    "$oid": "60870059340862575bfe7f48"
+  },
+  "languageId": "en",
+  "title": "The decision that will change your life",
+  "subtitle": "Register",
+  "formWarn": "Please fill out the required fields (*)",
+  "inputName": {
+    "label": "Full name",
+    "placeholder": "Enter name and surname"
+  },
+  "inputDate": {
+    "label": "Your date of birth",
+    "placeholder": "Your date of birth"
+  },
+  "inputEmail": {
+    "label": "Email",
+    "placeholder": "Enter your email"
+  },
+  "inputPhone": {
+    "label": "Phone",
+    "placeholder": "Enter your phone"
+  },
+  "inputHow": {
+    "label": "¿How did you find out about the agency?",
+    "placeholder": "Enter your answer"
+  },
+  "optionHasModel": {
+    "label": "¿Have you worked as a Webcam Model before?",
+    "option1": "Yes",
+    "option2": "No"
+  },
+  "optionCity": {
+    "label": "¿What city are you writing from?",
+    "option1": "Bogotá",
+    "option2": "Medellín",
+    "option3": "Pereira",
+    "option4": "Cúcuta",
+    "optionOther": "Other"
+  },
+  "optionContact": {
+    "label": "¿How do you prefer that we contact you?",
+    "option1": "Phone call",
+    "option2": "WhatsApp",
+    "option3": "E-mail",
+    "optionAll": "All of the above"
+  },
+  "optionTime": {
+    "label": "¿What is your time availability?",
+    "option1": "Morning",
+    "option2": "Late",
+    "option3": "Night",
+    "optionAll": "All of the above"
+  },
+  "inputFacebook": {
+    "label": "Your facebook account",
+    "placeholder": "/account"
+  },
+  "inputInstagram": {
+    "label": "Your instagram account",
+    "placeholder": "/account"
+  },
+  "inputPhoto1": {
+    "label": "Photo 1 (Face)",
+    "placeholder": "Select file: jpg, jpeg ó png"
+  },
+  "inputPhoto2": {
+    "label": "Photo 2 (Whole body)",
+    "placeholder": "Select file: jpg, jpeg ó png"
+  },
+  "inputPhoto3": {
+    "label": "Photo 3",
+    "placeholder": "Select file: jpg, jpeg ó png"
+  },
+  "inputPhoto4": {
+    "label": "Photo 4",
+    "placeholder": "Select file: jpg, jpeg ó png"
+  },
+  "optionAge": {
+    "label": "I certify that I am of legal age (+18)",
+    "option1": "Yes",
+    "option2": "No"
+  },
+  "inputMessage": {
+    "label": "Leave your message",
+    "placeholder": "Write your message here"
+  },
+  "validateDataError": {
+    "text": "Errors found please verify the information",
+    "confirmButtonText": "Check"
+  },
+  "dataSubmitConfirm": {
+    "title": "Are you sure ?",
+    "text": "Your data will be sent to Models1A",
+    "confirmButtonText": "Yes, send",
+    "cancelButtonText": "Cancel"
+  },
+  "dataSending": {
+    "title": "Sending data",
+    "text": "Your data is being sent to Models1A"
+  },
+  "dataSendError": {
+    "title": "Error",
+    "text": "The information could not be processed",
+    "confirmButtonText": "Check"
+  },
+  "dataSendSuccess": {
+    "title": "Completed",
+    "text": "Your information has been sent successfully",
+    "confirmButtonText": "Finish"
+  },
+  "buttonSubmit": {
+    "label": "Send",
+    "placeholder": "Send data"
+  },
+  "__v": 0,
+  "inputID": {
+    "label": "ID Number",
+    "placeholder": "Enter your ID"
+  },
+  "buttonCancel": {
+    "label": "Cancel",
+    "placeholder": "Cancel send"
+  },
+  "inputCurriculum": {
+    "label": "Curriculum Vitae",
+    "placeholder": "Select file: pdf, word"
+  },
+  "inputLastName": {
+    "label": "Last Name",
+    "placeholder": "Enter your lastname"
+  },
+  "inputOnlyName": {
+    "label": "Name",
+    "placeholder": "Enter your name"
+  },
+  "optionID": {
+    "label": "ID type",
+    "CC": "Citizenship card",
+    "FC": "Foreigner's ID card",
+    "PP": "Passport"
+  },
+  "vacanciesTitle": {
+    "model": "Model",
+    "photographer": "Photographer",
+    "monitor": "Monitor"
+  },
+  "briefcase": {
+    "label": "Annexes (briefcase or other)",
+    "placeholder": "Select file: pdf or video"
+  },
+  "briefcaseOptions": {
+    "option1": "File",
+    "option2": "Links"
+  }
+},{
+  "_id": {
+    "$oid": "60870066340862575bfe7f49"
+  },
+  "languageId": "es",
+  "title": "La decisión que cambiará tu vida",
+  "subtitle": "Regístrate",
+  "formWarn": "Por favor llenar los campos obligatorios(*)",
+  "inputName": {
+    "label": "Nombre completo",
+    "placeholder": "Ingrese nombres y apellidos"
+  },
+  "inputDate": {
+    "label": "Fecha de nacimiento",
+    "placeholder": "Su fecha de nacimiento"
+  },
+  "inputEmail": {
+    "label": "Email",
+    "placeholder": "Ingrese su email"
+  },
+  "inputPhone": {
+    "label": "Teléfono",
+    "placeholder": "Ingrese su teléfono"
+  },
+  "inputHow": {
+    "label": "¿Como te enterastes de la agencia?",
+    "placeholder": "Ingrese su respuesta"
+  },
+  "optionHasModel": {
+    "label": "¿Has trabajado como modelo webcam anteriormente?",
+    "option1": "Si",
+    "option2": "No"
+  },
+  "optionCity": {
+    "label": "¿De que ciudad nos escribes?",
+    "option1": "Bogotá",
+    "option2": "Medellín",
+    "option3": "Pereira",
+    "option4": "Cúcuta",
+    "optionOther": "Otra"
+  },
+  "optionContact": {
+    "label": "¿cómo prefieres que te contactemos?",
+    "option1": "Llamada teléfonica",
+    "option2": "WhatsApp",
+    "option3": "E-mail",
+    "optionAll": "Todas las anteriores"
+  },
+  "optionTime": {
+    "label": "¿cuál es tu disponibilidad de tiempo?",
+    "option1": "Mañana",
+    "option2": "Tarde",
+    "option3": "Noche",
+    "optionAll": "Todas las anteriores"
+  },
+  "inputFacebook": {
+    "label": "Tu cuenta de facebook",
+    "placeholder": "/tucuenta"
+  },
+  "inputInstagram": {
+    "label": "Tu cuenta de instagram",
+    "placeholder": "/tucuenta"
+  },
+  "inputPhoto1": {
+    "label": "Foto 1 (Rostro)",
+    "placeholder": "seleccionar archivo: jpg, jpeg ó png"
+  },
+  "inputPhoto2": {
+    "label": "Foto 2 (Cuerpo entero)",
+    "placeholder": "seleccionar archivo: jpg, jpeg ó png"
+  },
+  "inputPhoto3": {
+    "label": "Foto 3",
+    "placeholder": "seleccionar archivo: jpg, jpeg ó png"
+  },
+  "inputPhoto4": {
+    "label": "Foto 4",
+    "placeholder": "seleccionar archivo: jpg, jpeg ó png"
+  },
+  "optionAge": {
+    "label": "Certifico ser mayor de edad (+18)",
+    "option1": "Si",
+    "option2": "No"
+  },
+  "inputMessage": {
+    "label": "Deja tu mensaje",
+    "placeholder": "Escribe tu mensaje aquí"
+  },
+  "validateDataError": {
+    "text": "Se encontraron errores por favor verifique la información",
+    "confirmButtonText": "Revisar"
+  },
+  "dataSubmitConfirm": {
+    "title": "Estas seguro ?",
+    "text": "Sus datos serán enviados a Models1A",
+    "confirmButtonText": "Si, enviar",
+    "cancelButtonText": "Cancelar"
+  },
+  "dataSending": {
+    "title": "Enviando los datos",
+    "text": "Sus datos están siendo enviados a Models1A"
+  },
+  "dataSendError": {
+    "title": "Error",
+    "text": "No se pudo procesar la información",
+    "confirmButtonText": "Revisar"
+  },
+  "dataSendSuccess": {
+    "title": "Completado",
+    "text": "Su información ha sido enviada satisfactoriamente",
+    "confirmButtonText": "Terminar"
+  },
+  "buttonSubmit": {
+    "label": "Enviar",
+    "placeholder": "Enviar datos"
+  },
+  "__v": 0,
+  "buttonCancel": {
+    "label": "Cancelar",
+    "placeholder": "Cancelar envío"
+  },
+  "inputCurriculum": {
+    "label": "Hoja de vida",
+    "placeholder": "Seleccionar archivo: pdf, word"
+  },
+  "inputID": {
+    "label": "Número de identificación",
+    "placeholder": "Ingrese su identificación"
+  },
+  "inputLastName": {
+    "label": "Apellido",
+    "placeholder": "Ingresa tu apellido"
+  },
+  "inputOnlyName": {
+    "label": "Nombre",
+    "placeholder": "Ingresa tu nombre"
+  },
+  "optionID": {
+    "label": "Tipo de identificación",
+    "CC": "Cédula de ciudadania",
+    "FC": "Cédula de extranjería",
+    "PP": "Pasaporte"
+  },
+  "vacanciesTitle": {
+    "model": "Modelo",
+    "photographer": "Fotógrafo",
+    "monitor": "Monitor"
+  },
+  "briefcase": {
+    "label": "Anexos (portafolio u otro)",
+    "placeholder": "Seleccionar archivo: pdf o vídeo"
+  },
+  "briefcaseOptions": {
+    "option1": "Archivo",
+    "option2": "Enlaces"
+  }
+}]

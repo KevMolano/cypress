@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "6140f733e63c896a21409d25"
+  },
+  "keywords": [
+    "home",
+    "post"
+  ],
+  "lang": "es",
+  "key": "post-context",
+  "locale": {
+    "copy-link": "Copiar link del perfil",
+    "report-profile": "Denunciar perfil",
+    "save-profile": "Guardar en lista",
+    "link-copied": "Se copió el link",
+    "tip-label": "Propina",
+    "gift-label": "Regalo",
+    "flower-label": "Rosas",
+    "save-post": "Guardar publicación",
+    "unsave-post": "Remover de guardados",
+    "edit-post": "Editar publicación"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6140faa9e63c896a21409d26"
+  },
+  "keywords": [
+    "home",
+    "post"
+  ],
+  "lang": "en",
+  "key": "post-context",
+  "locale": {
+    "copy-link": "Copy profile link",
+    "report-profile": "Report profile",
+    "save-profile": "Save to list",
+    "link-copied": "The link was copied",
+    "tip-label": "Tip",
+    "gift-label": "Gift",
+    "flower-label": "Flowers",
+    "save-post": "Save post",
+    "unsave-post": "Remove from saves",
+    "edit-post": "Edit post"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6140fb97e63c896a21409d27"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "en",
+  "key": "user-profile",
+  "locale": {
+    "subscriptions-label": "Subscriptions",
+    "saved-posts-label": "Saved posts",
+    "user-edit-title": "Edit profile",
+    "user-input-describe-label": "Description",
+    "user-input-describe-placeholder": "Description text",
+    "user-input-country-label": "Location",
+    "user-input-country-placeholder": "Select your location",
+    "user-input-website-label": "Website URL:",
+    "user-input-website-placeholder": "www.nombrewebsite.com",
+    "profile-data-label": "Profile information",
+    "personal-data-label": "Personal information",
+    "input-email-label": "Email:",
+    "input-email-placeholder": "correo@correo.com",
+    "input-phone-label": "Phone:",
+    "input-phone-placeholder": "000 000 0000",
+    "input-birthday-label": "Date of birth:",
+    "input-birthday-placeholder": "dd/mm/aaaa",
+    "input-name-label": "Full name",
+    "input-name-placeholder": "Your full name",
+    "button-save-label": "Save",
+    "select-country-title": "Select country",
+    "search-country-label": "Search",
+    "reload-credits-label": "Reload credits",
+    "available-credits-label": "Available",
+    "credits-label": "Credits",
+    "select-pay-method-label": "Select payment method",
+    "next-label": "Next",
+    "add-pay-method-label": "Add new payment method",
+    "buy-credits-label": "Buy credits",
+    "section-subscriptions-title": "Subscriptions",
+    "section-social-title": "Social Networks",
+    "input-price-month": "Monthly subscription value in credits",
+    "input-price-month-placeholder": "00.0",
+    "input-price-semester": "Semi-annual subscription value in credits",
+    "input-price-semester-placeholder": "00.0",
+    "input-price-year": "Annual subscription value in credits",
+    "input-price-year-placeholder": "000.0",
+    "input-month-title": "Monthly subscription",
+    "input-semester-title": "Semi-annual subscription",
+    "input-annual-title": "Annual subscription",
+    "input-discount-title": "Limited time discount",
+    "input-discount-label": "Discount time and value for all subscriptions",
+    "input-discount-date-label": "Until",
+    "input-discount-value-label": "Percentage"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144bff91f8f07d09176107e"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "es",
+  "key": "user-profile",
+  "locale": {
+    "subscriptions-label": "Suscripciones",
+    "saved-posts-label": "Publicaciones guardadas",
+    "user-edit-title": "Editar perfil",
+    "user-input-describe-label": "Descripción",
+    "user-input-describe-placeholder": "Texto de descripción",
+    "user-input-country-label": "Ubicación",
+    "user-input-country-placeholder": "Selecciona tu ubicación",
+    "user-input-website-label": "Website URL:",
+    "user-input-website-placeholder": "www.nombrewebsite.com",
+    "profile-data-label": "Información de perfil",
+    "personal-data-label": "Información personal",
+    "input-email-label": "Correo electrónico:",
+    "input-email-placeholder": "correo@correo.com",
+    "input-phone-label": "Teléfono:",
+    "input-phone-placeholder": "000 000 0000",
+    "input-birthday-label": "Fecha de nacimiento:",
+    "input-birthday-placeholder": "dd/mm/aaaa",
+    "input-name-label": "Nombre completo",
+    "input-name-placeholder": "Su nombre completo",
+    "button-save-label": "Guardar",
+    "select-country-title": "Seleccionar país",
+    "search-country-label": "Buscar",
+    "reload-credits-label": "Recargar créditos",
+    "available-credits-label": "Disponible",
+    "credits-label": "Créditos",
+    "select-pay-method-label": "Seleccionar método de pago",
+    "next-label": "Siguiente",
+    "add-pay-method-label": "Agregar nuevo método de pago",
+    "buy-credits-label": "Comprar créditos",
+    "section-subscriptions-title": "Suscripciones",
+    "section-social-title": "Redes sociales",
+    "input-price-month": "Valor de la suscripción mensual en créditos",
+    "input-price-month-placeholder": "00.0",
+    "input-price-semester": "Valor de la suscripción semestral en créditos",
+    "input-price-semester-placeholder": "00.00",
+    "input-price-year": "Valor de la suscripción anual en créditos",
+    "input-price-year-placeholder": "000.0",
+    "input-month-title": "Suscripción mensual",
+    "input-semester-title": "Suscripción semestral",
+    "input-annual-title": "Suscripción anual",
+    "input-discount-title": "Descuento por tiempo limitado",
+    "input-discount-label": "Tiempo y valor del descuento para todas las suscripciones",
+    "input-discount-date-label": "Hasta",
+    "input-discount-value-label": "Porcentaje"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144c14e1f8f07d09176107f"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "es",
+  "key": "user-post",
+  "locale": {
+    "post-title": "Crear publicación",
+    "post-message-placeholder": "Texto de la publicación",
+    "post-widget-placeholder": "Que quieres publicar hoy",
+    "post-photo-btn": "Foto",
+    "post-video-btn": "Video",
+    "post-send-btn": "Publicar",
+    "post-tools-title": "Agregar a tu publicación",
+    "post-tools-files-label": "Archivos",
+    "post-media-type-label": "Foto / Video",
+    "post-missing-data": "Agrega algo a tu publicación",
+    "post-creating-error": "Ha ocurrido un error al intentar crear la publicación",
+    "post-not-creator": "Solo creadores pueden publicar",
+    "post-for-public-label": "Público",
+    "post-for-subscriber-label": "Suscriptores",
+    "post-for-purchase-label": "Desbloquear",
+    "post-excess-characters": "El mensaje de la publicación es muy largo, el límite máximo es de 280 caracteres",
+    "post-few-seconds-lapse": "Hace pocos segundos",
+    "post-minutes-lapse": "Hace $minutes minutos",
+    "post-days-lapse": "Hace $days días",
+    "post-hours-lapse": "Hace $hours horas",
+    "post-months-lapse": "Hace $months meses",
+    "post-unlock-label": "Para desbloquear",
+    "input-discount-label": "Tiempo y valor del descuento para esta publicación"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144c35a1f8f07d091761080"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "en",
+  "key": "user-post",
+  "locale": {
+    "post-title": "Create Post",
+    "post-message-placeholder": "Post text",
+    "post-widget-placeholder": "What do you want to post today",
+    "post-photo-btn": "Photo",
+    "post-video-btn": "Video",
+    "post-send-btn": "Send post",
+    "post-tools-title": "Add to your post",
+    "post-tools-files-label": "Files",
+    "post-media-type-label": "Photo / video",
+    "post-missing-data": "Add something to your post",
+    "post-creating-error": "An error occurred while trying to create the post",
+    "post-not-creator": "Only creators can publish",
+    "post-for-public-label": "Public",
+    "post-for-subscriber-label": "Subscribers",
+    "post-for-purchase-label": "Unlock",
+    "post-excess-characters": "Post message is very long, maximum limit is 280 characters",
+    "post-few-seconds-lapse": "Few seconds ago",
+    "post-minutes-lapse": "$minutes minutes ago",
+    "post-days-lapse": "$days days ago",
+    "post-hours-lapse": "$hours hours ago",
+    "post-months-lapse": "$months months ago",
+    "post-unlock-label": "To unlock",
+    "input-discount-label": "Time and value of the discount for this publication"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615333e82bdc179bc470b8cc"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "es",
+  "key": "nav",
+  "locale": {
+    "home-btn": "Inicio",
+    "messages-btn": "Mensajes",
+    "profile-btn": "Perfil",
+    "notifications-btn": "Notificaciones",
+    "search-label": "Buscar",
+    "search-suggest": "Escribe algo para buscar",
+    "view-more-btn": "Ver más"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6153342b2bdc179bc470b8cd"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "en",
+  "key": "nav",
+  "locale": {
+    "home-btn": "Home",
+    "messages-btn": "Messages",
+    "profile-btn": "Profile",
+    "notifications-btn": "Notifications",
+    "search-label": "Search",
+    "search-suggest": "Write something to search",
+    "view-more-btn": "Load more"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615613f0a2373abe8bdbe746"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "es",
+  "key": "credits-context",
+  "locale": {
+    "pays-btn": "Ver historial de pagos",
+    "auto-reload-btn": "Recarga automática",
+    "info-btn": "Información de créditos"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615616b7a2373abe8bdbe747"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "en",
+  "key": "credits-context",
+  "locale": {
+    "pays-btn": "View payment history",
+    "auto-reload-btn": "Automatic recharge",
+    "info-btn": "Credit information"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b4bd7c1c3fedb0925678c"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "es",
+  "key": "subscribe",
+  "locale": {
+    "subscribe-month-label": "Suscripción mensual",
+    "subscribe-biannual-label": "Suscripción semestral",
+    "subscribe-year-label": "Suscripción anual",
+    "subscribe-title": "Suscripción",
+    "subscribe-advantage-title": "Suscríbete y obtén estas ventajas",
+    "subscribe-advantages": [
+      "Puedes tener acceso al contenido de este usuario",
+      "Puedes enviar mensajes directos a este usuario",
+      " Puedes cancelar la suscripción en cualquier momento"
+    ],
+    "subscribe-message": "Disfruta de todo el contenido de $creator por tan solo",
+    "subscribe-label-btn": "Suscribirme",
+    "subscribed-label-btn": "Suscrito",
+    "subscribe-more-credits": "Recarga más créditos",
+    "unlock-label-btn": "Desbloquear",
+    "unlock-message": "Desbloquear por tan solo",
+    "subscribe-discount-label": "Descuento por tiempo limitado",
+    "subscribe-legend": "Suscribase para ver todas las publicaciones",
+    "subscribe-month": "Més",
+    "subscribe-semester": "Semestre",
+    "subscribe-year": "Año",
+    "susbcribe-expires": "La suscripción se vence el",
+    "susbcribe-expired": "La suscripción se venció el",
+    "susbcribe-status-all": "Todas",
+    "susbcribe-status-active": "Active",
+    "susbcribe-status-expire": "Vencidas",
+    "unlock-succes": "Contenido desbloqueado exitosamente"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b4c32c1c3fedb0925678d"
+  },
+  "keywords": [
+    "home",
+    "user"
+  ],
+  "lang": "en",
+  "key": "subscribe",
+  "locale": {
+    "subscribe-month-label": "Monthly subscription",
+    "subscribe-biannual-label": "Semi-annual subscription",
+    "subscribe-year-label": "Annual subscription",
+    "subscribe-title": "Subscription",
+    "subscribe-advantage-title": "Subscribe and get these benefits",
+    "subscribe-advantages": [
+      "You can have access to the content of this user",
+      "You can send direct messages to this user",
+      "You can cancel the subscription at any time"
+    ],
+    "subscribe-message": "Enjoy all the content of $creator for just",
+    "subscribe-label-btn": "Subscribe",
+    "subscribed-label-btn": "Subscribed",
+    "subscribe-more-credits": "Get more credits",
+    "unlock-label-btn": "Unlock",
+    "unlock-message": "Unlock for just",
+    "subscribe-discount-label": "Limited time discount",
+    "subscribe-legend": "Subscribe to see all publications",
+    "subscribe-month": "Month",
+    "subscribe-semester": "Semester",
+    "subscribe-year": "Year",
+    "susbcribe-expires": "Subscription expires on",
+    "susbcribe-expired": "Subscription expired on",
+    "susbcribe-status-all": "All",
+    "susbcribe-status-active": "Active",
+    "susbcribe-status-expire": "Expire",
+    "unlock-succes": "Content successfully unlocked"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61683b5e61748c8110c590c8"
+  },
+  "keywords": [
+    "home",
+    "incentive"
+  ],
+  "lang": "es",
+  "key": "incentive",
+  "locale": {
+    "send-tip-btn": "Enviar propina",
+    "send-tip-title": "Enviar propina a",
+    "send-gift-title": "Enviar regalo a",
+    "send-flowers-title": "Enviar rosas a",
+    "send-flowers-btn": "Enviar rosas",
+    "send-gift-btn": "Enviar regalo",
+    "send-message-btn": "Enviar mensaje",
+    "optional-label": "Opcional",
+    "tip-mount-label": "Monto de la propina",
+    "tip-mount-minimum-label": "Mínimo",
+    "tip-mount-maximun-label": "Máximo",
+    "tip-message-label": "Escribir un mensaje",
+    "tip-message-placeholder": "Mensaje opcional",
+    "tip-balance-not-found": "Actualmente no cuentas con créditos suficientes",
+    "tip-creator-not-exists": "No se ha encontrado el creador al que intentas enviar propina",
+    "tip-creator-self-content": "Intentas enviar propina a ti mismo",
+    "tip-success": "Tu propina ha sido enviada exitosamente",
+    "tip-db-error": "Tu propina está en espera de aprobación",
+    "tip-transaction-error": "Ha ocurrido un error al intentar enviar tu propina",
+    "gift-not-found": "El detalle que intentas enviar no se encuentra disponible",
+    "gift-balance-not-found": "Actualmente no cuentas con créditos suficientes",
+    "gift-creator-not-exists": "No se ha encontrado el creador al que intentas enviar el detalle",
+    "gift-creator-self-content": "Intentas enviar un detalle a ti mismo",
+    "gift-db-error": "Tu detalle está en espera de aprobación",
+    "gift-transaction-error": "Ha ocurrido un error al intentar enviar tu detalle",
+    "gift-success": "Tu detalle ha sido enviado exitosamente"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61683b9f61748c8110c590c9"
+  },
+  "keywords": [
+    "home",
+    "incentive"
+  ],
+  "lang": "en",
+  "key": "incentive",
+  "locale": {
+    "send-tip-btn": "Send tip",
+    "send-tip-title": "Send tip to",
+    "send-flowers-title": "Send flowers to",
+    "send-flowers-btn": "Send flowers",
+    "send-gift-btn": "Send a gift",
+    "send-gift-title": "Send a gift to",
+    "send-message-btn": "Send Message",
+    "optional-label": "Optional",
+    "tip-mount-label": "Tip amount",
+    "tip-mount-minimum-label": "Minimum",
+    "tip-mount-maximun-label": "Maximun",
+    "tip-message-label": "Write a message",
+    "tip-message-placeholder": "Optional message",
+    "tip-balance-not-found": "You currently do not have enough credits",
+    "tip-creator-not-exists": "The creator you are trying to tip cannot be found",
+    "tip-creator-self-content": "You try to tip yourself",
+    "tip-success": "Your tip has been sent successfully",
+    "tip-db-error": "Your tip is awaiting approval",
+    "tip-transaction-error": "An error occurred while trying to send your tip",
+    "gift-not-found": "The detail you are trying to send is not available",
+    "gift-balance-not-found": "You currently do not have enough credits",
+    "gift-creator-not-exists": "The creator you are trying to send the detail to could not be found",
+    "gift-creator-self-content": "You try to send a detail to yourself",
+    "gift-db-error": "Your detail is awaiting approval",
+    "gift-transaction-error": "An error occurred when trying to send your detail",
+    "gift-success": "Your detail has been sent successfully"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617aaa8d53b0fb7289b58021"
+  },
+  "keywords": [
+    "home",
+    "time"
+  ],
+  "lang": "es",
+  "key": "time",
+  "locale": {
+    "seconds": "Segundos",
+    "minutes": "Minutos",
+    "hours": "Horas",
+    "days": "Días",
+    "weeks": "Semanas",
+    "months": "Meses",
+    "years": "Años",
+    "second": "Segundo",
+    "minute": "Minuto",
+    "hour": "Hora",
+    "day": "Día",
+    "week": "Semana",
+    "month": "Més",
+    "year": "Año"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617aab0553b0fb7289b58022"
+  },
+  "keywords": [
+    "home",
+    "time"
+  ],
+  "lang": "en",
+  "key": "time",
+  "locale": {
+    "seconds": "Seconds",
+    "minutes": "Minutes",
+    "hours": "Hours",
+    "days": "Days",
+    "weeks": "Weeks",
+    "months": "Months",
+    "years": "Years",
+    "second": "Second",
+    "minute": "Minute",
+    "hour": "Hour",
+    "day": "Day",
+    "week": "Week",
+    "month": "Month",
+    "year": "Year"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618547b9b8cf5f15d4204d45"
+  },
+  "keywords": [
+    "home",
+    "footer"
+  ],
+  "lang": "en",
+  "key": "footer",
+  "locale": {
+    "company": "OneGroup Media",
+    "address": "Miami, Florida",
+    "faq-btn": "Faq",
+    "support-btn": "Support",
+    "terms-btn": "Terms",
+    "privacy-btn": "Privacy"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61854f45b8cf5f15d4204d46"
+  },
+  "keywords": [
+    "home",
+    "footer"
+  ],
+  "lang": "es",
+  "key": "footer",
+  "locale": {
+    "company": "OneGroup Media",
+    "address": "Miami, Florida",
+    "faq-btn": "Faq",
+    "support-btn": "Soporte",
+    "terms-btn": "Términos",
+    "privacy-btn": "Privacidad"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167366b68b93f022258fe0e"
+  },
+  "keywords": [
+    "home",
+    "landing"
+  ],
+  "lang": "es",
+  "key": "landing",
+  "locale": {
+    "title": "My Fans 1A",
+    "text1": "100% Premium",
+    "text2": "Contenido Exclusivo",
+    "text3": "Conviertete en creador y conecta con tus miembro de Fans1A",
+    "text4": "Elije tu dominio propio",
+    "text5": "Configure su suscripción mensual y mucho más",
+    "text6": "Vive la experiencia",
+    "text7": "My Fans 1A",
+    "model-label": "Modelo",
+    "creators-top-title": "Conoce nuestras mejores creadoras"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616736f368b93f022258fe0f"
+  },
+  "keywords": [
+    "home",
+    "landing"
+  ],
+  "lang": "en",
+  "key": "landing",
+  "locale": {
+    "title": "My Fans 1A",
+    "text1": "100% Premium",
+    "text2": "Exclusive Content",
+    "text3": "Be a creator and connect directly with your Fans1A members",
+    "text4": "Pick up your own domain",
+    "text5": "Set up monthly subscriptions and much more",
+    "text6": "Live the experience",
+    "text7": "My Fans 1A",
+    "model-label": "Model",
+    "creators-top-title": "MEET OUR TOP CREATORS"
+  },
+  "__v": 0
+}]

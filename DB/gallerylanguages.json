@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "607758bb30457681ae5eb7d1"
+  },
+  "galleryId": {
+    "$oid": "607758bb30457681ae5eb7d0"
+  },
+  "language": "es",
+  "title": "GALERÍA",
+  "subtitle": "Creamos experiencias inolvidables. Ven y vive la experiencia 1A",
+  "remFilter": "Limpiar filtro",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607758bb30457681ae5eb7d2"
+  },
+  "galleryId": {
+    "$oid": "607758bb30457681ae5eb7d0"
+  },
+  "language": "en",
+  "title": "GALLERY",
+  "subtitle": "We create unforgettable experiences. Come and live the 1A experience",
+  "remFilter": "Remove filter",
+  "__v": 0
+}]

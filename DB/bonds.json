@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "61afb06bbf6c39f4706f94fd"
+  },
+  "title": "Bonos de desarrollo",
+  "images": [
+    {
+      "src": "https://new-web-site-bucket.s3.amazonaws.com/autologin/bonds/bono_desarrollo.jpeg",
+      "alt": "bd-1",
+      "description": "A continuación presentamos nuestra tabla de bonos de desarrollo, una estrategia que te permitirá desarrollar tu cuenta de una manera mucho más rápida, con la finalidad de no entrar a una zona de confort y proyectarte como una modelo de alto nivel para que alcances todas tus metas."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62261706879289742e7c088d"
+  },
+  "title": "¿Cómo calcular cada mes?",
+  "images": [
+    {
+      "src": "https://new-web-site-bucket.s3.amazonaws.com/autologin/bonds/calcular_cada_mes.jpeg",
+      "alt": "tp-1",
+      "description": "Esta es la manera en que te darás cuenta, semana a semana, en que mes estás y a qué bono aplicas.\n\nRecuerda que a mayor exposición, mayores son tus posibilidades de ganancias."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61afb06bbf6c39f4706f94fe"
+  },
+  "title": "Tabla de porcentajes",
+  "images": [
+    {
+      "src": "https://new-web-site-bucket.s3.amazonaws.com/autologin/bonds/tabla_porcentajes.jpg",
+      "alt": "tp-1",
+      "description": "En Models 1A puedes ganar más, ofrecemos hasta el 65%. Somos los primeros en la industria en ofrecerlo automáticamente bajo nuestro programa de loyalty fee, lo cual te brinda la posibilidad de maximizar tus ganancias."
+    }
+  ]
+}]

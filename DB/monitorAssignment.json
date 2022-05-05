@@ -1,0 +1,838 @@
+[{
+  "_id": {
+    "$oid": "6222324879f08eb58d295eae"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1646524800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "61737f41aeba4614774f27ad"
+  },
+  "turns": {
+    "morning": true,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "622293e579f08eb58d2a4e59"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1646524800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de3acdec3263b71f0332e3"
+  },
+  "turns": {
+    "morning": true,
+    "late": true,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "622293f979f08eb58d2a4e88"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1646524800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "613279a40807a80bd74c2057"
+  },
+  "turns": {
+    "morning": true,
+    "late": true,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "6229333279f08eb58d35d48b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1647129600000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de396bec3263b71f031b6a"
+  },
+  "turns": {
+    "morning": true,
+    "late": true,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "622a500c79f08eb58d37c7c9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648339200000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de39c2ec3263b71f0322f2"
+  },
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "622a501179f08eb58d37c7e5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648339200000"
+    }
+  },
+  "monitorId": {
+    "$oid": "615bafce1fbc21d134b62602"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "622a502579f08eb58d37c842"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1647129600000"
+    }
+  },
+  "monitorId": {
+    "$oid": "61737f41aeba4614774f27ad"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "622a502779f08eb58d37c849"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1647129600000"
+    }
+  },
+  "monitorId": {
+    "$oid": "614bac0f6a0b9e82f29e75d8"
+  },
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "623de4d179f08eb58d5b73ef"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648339200000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de3a44ec3263b71f032ad3"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  },
+  "city": "Bogotá",
+  "office": "BOG"
+},{
+  "_id": {
+    "$oid": "6244c0bb79f08eb58d6d91cd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de39c2ec3263b71f0322f2"
+  },
+  "turns": {
+    "morning": true,
+    "late": false,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6244c0c079f08eb58d6d91e5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de3a44ec3263b71f032ad3"
+  },
+  "city": "Medellín",
+  "office": "L3",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6244c0c579f08eb58d6d9201"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de3a75ec3263b71f032df0"
+  },
+  "city": "Bogotá",
+  "office": "BOG",
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "6244c0ca79f08eb58d6d9217"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "monitorId": {
+    "$oid": "6130f9f484ddbbca9826399a"
+  },
+  "city": "Pereira",
+  "office": "P1",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6244c0d279f08eb58d6d923f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60f0bc13c688b969765416ea"
+  },
+  "city": "Cúcuta",
+  "office": "CUC",
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "6244c0d979f08eb58d6d925d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "monitorId": {
+    "$oid": "613279a40807a80bd74c2057"
+  },
+  "city": "Medellín",
+  "office": "L3",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6244c0f379f08eb58d6d92bb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "monitorId": {
+    "$oid": "614baa846a0b9e82f29e753b"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6244c0f879f08eb58d6d92da"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "monitorId": {
+    "$oid": "613a761ba2a34aeafe99a375"
+  },
+  "city": "Medellín",
+  "office": "L2",
+  "turns": {
+    "morning": true,
+    "late": false,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6244cfcf79f08eb58d6dd1b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648944000000"
+    }
+  },
+  "monitorId": {
+    "$oid": "6197c8b9432c7a8175f5a014"
+  },
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "624dde6579f08eb58d8b5e0e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de396bec3263b71f031b6a"
+  },
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "6250b9b6de076bcd0b24dc77"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de39c2ec3263b71f0322f2"
+  },
+  "city": "Medellín",
+  "office": "L2",
+  "turns": {
+    "morning": true,
+    "late": false,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250b9bbde076bcd0b24dc8c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de3a44ec3263b71f032ad3"
+  },
+  "city": "Medellín",
+  "office": "L2",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250b9bfde076bcd0b24dc9a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de3a75ec3263b71f032df0"
+  },
+  "city": "Bogotá",
+  "office": "BOG",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250b9c5de076bcd0b24dcb5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60f0bc13c688b969765416ea"
+  },
+  "city": "Bogotá",
+  "office": "BOG",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250b9cade076bcd0b24dcc7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "6130f9f484ddbbca9826399a"
+  },
+  "city": "Cúcuta",
+  "office": "CUC",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250b9d2de076bcd0b24dceb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "613279a40807a80bd74c2057"
+  },
+  "city": "Bogotá",
+  "office": "BOG",
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "6250b9d6de076bcd0b24dd3f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "61327bed0807a80bd74c2512"
+  },
+  "city": "Bogotá",
+  "office": "BOG",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250b9dcde076bcd0b24dd5b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "613a761ba2a34aeafe99a375"
+  },
+  "city": "Cúcuta",
+  "office": "CUC",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250b9e3de076bcd0b24dd74"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "614baa846a0b9e82f29e753b"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250b9e8de076bcd0b24dd83"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "614bac0f6a0b9e82f29e75d8"
+  },
+  "city": "Bogotá",
+  "office": "BOG",
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "6250b9edde076bcd0b24dd98"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "614e3cb0b22be8c3a3db3164"
+  },
+  "city": "Medellín",
+  "office": "L3",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250b9f5de076bcd0b24ddb0"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649980800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "615bafce1fbc21d134b62602"
+  },
+  "city": "Bogotá",
+  "office": "BOG",
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba07de076bcd0b24dde5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "monitorId": {
+    "$oid": "615bb3261fbc21d134b6266e"
+  },
+  "city": "Bogotá",
+  "office": "BOG",
+  "turns": {
+    "morning": true,
+    "late": false,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba21de076bcd0b24de69"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de39c2ec3263b71f0322f2"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba24de076bcd0b24de74"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de3a44ec3263b71f032ad3"
+  },
+  "turns": {
+    "morning": true,
+    "late": false,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba26de076bcd0b24de81"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de3a75ec3263b71f032df0"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba29de076bcd0b24de94"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60f0bc13c688b969765416ea"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba2bde076bcd0b24dea1"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "6130f9f484ddbbca9826399a"
+  },
+  "turns": {
+    "morning": true,
+    "late": false,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba2ede076bcd0b24deac"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "613279a40807a80bd74c2057"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba30de076bcd0b24deba"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "61327bed0807a80bd74c2512"
+  },
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "6250ba33de076bcd0b24decb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "613a761ba2a34aeafe99a375"
+  },
+  "turns": {
+    "morning": true,
+    "late": false,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba35de076bcd0b24ded8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "614baa846a0b9e82f29e753b"
+  },
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "6250ba37de076bcd0b24dee2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "614bac0f6a0b9e82f29e75d8"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba39de076bcd0b24deee"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "614e3cb0b22be8c3a3db3164"
+  },
+  "turns": {
+    "morning": true,
+    "late": false,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6250ba3cde076bcd0b24df05"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "615bafce1fbc21d134b62602"
+  },
+  "turns": {
+    "morning": false,
+    "late": false,
+    "night": true
+  }
+},{
+  "_id": {
+    "$oid": "6250ba3fde076bcd0b24df15"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649548800000"
+    }
+  },
+  "monitorId": {
+    "$oid": "615bb4c51fbc21d134b6268a"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6255ef30de076bcd0b2debcb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650153600000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de39c2ec3263b71f0322f2"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+},{
+  "_id": {
+    "$oid": "6255efa3de076bcd0b2deccb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650758400000"
+    }
+  },
+  "monitorId": {
+    "$oid": "60de3a44ec3263b71f032ad3"
+  },
+  "turns": {
+    "morning": false,
+    "late": true,
+    "night": false
+  }
+}]

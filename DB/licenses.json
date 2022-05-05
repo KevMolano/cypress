@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "626c6c9e74d605674e320423"
+  },
+  "isEnable": true,
+  "IdUser": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1651122000000"
+    }
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650862800000"
+    }
+  },
+  "type": "incapacidad",
+  "descriptionLicense": "",
+  "whoCreate": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c8d8974d605674e320742"
+  },
+  "isEnable": true,
+  "IdUser": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1651381200000"
+    }
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651208400000"
+    }
+  },
+  "type": "licencia",
+  "descriptionLicense": "No ha regresado.",
+  "whoCreate": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273034d94b12ce5a7477287"
+  },
+  "isEnable": true,
+  "IdUser": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1651554000000"
+    }
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650862800000"
+    }
+  },
+  "type": "vacaciones",
+  "descriptionLicense": "",
+  "whoCreate": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+}]

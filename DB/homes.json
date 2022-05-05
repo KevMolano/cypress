@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "60808f940d90e7196431e09b"
+  },
+  "menu": [
+    "Inicio",
+    "Servicios",
+    "Tienda",
+    "Galería",
+    "blog",
+    "Regístrate",
+    "Contacto",
+    "Preguntas frecuentes",
+    "Trabaja con nosotros"
+  ],
+  "trainingItems": [
+    "Asesorías",
+    "Acompañamientos",
+    "Incentivos",
+    "Posicionamiento"
+  ],
+  "officeCities": [
+    "MEDELLÍN",
+    "PEREIRA",
+    "CÚCUTA",
+    "BOGOTÁ"
+  ],
+  "languageId": "es",
+  "nameLanguage": "Español",
+  "linkFlag": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/header/spanishIcon.png",
+  "hashtagIam": "#yosoymodels1a",
+  "ourCompanyTitle": "NUESTRA COMPAÑIA",
+  "ourCompanytext": "<div><p>En Models1A contamos con más de 8 años de experiencia. En la \nactualidad somos la empresa líder y número 1, principalmente en el formato de plataformas privadas.</p><p>El grupo 1A es una institución que ha creado los mejores perfiles del país, y continúa formando nuevos y mejores talentos destacados por su manera profesional, disciplinada y motivadora de trabajar, en donde el objetivo principal es generar resultados en el menor tiempo posible y así poder cambiar y mejorar tu estilo de vida.</p><p>Hemos llevado a la empresa en 8 años a tener unos resultados y un crecimiento exponencial gracias a un trabajo impecable de formación y desarrollo, un gran liderazgo y a una visión clara, por lo cual hemos sido galardonados a nivel nacional e internacional por múltiples años consecutivos como el Mejor Studio de América Latina. Por esto, somos la fábrica de ganadoras, ya que nos hemos especializado en crear, formar y desarrollar modelos de alto rendimiento como nadie hasta ahora ha sido capaz de lograrlo en América Latina.</p><p>Los resultados y el progreso de nuestro equipo en general son testimonios fidedignos de que así ha sido. Hemos creado nombres que se han convertido en grandes marcas reconocidas nacional e internacionalmente; han sido más de 1.200 modelos, aproximadamente hasta la fecha, con las cuales hemos trabajado.</p><p>También, somos la única empresa en tener sedes propias en 4 ciudades principales del país: Medellín, Pereira, Cúcuta y Bogotá, donde la proyección es llevar esta fórmula ganadora próximamente a otras ciudades y países. Adicional, contamos con un equipo de personas talentosas que han desarrollado una gran experiencia en el área de ventas, gestión humana, psicología, administración, diseño, fotografía, audiovisual, contabilidad, ingeniería de sistemas, diseño de interiores, mercadeo, tráfico, posicionamiento, redes sociales y demás.</p><p>Hablar de Models1A es hablar de un estilo de vida, donde aprenderás a soñar y a ganar en grande. Te damos todas las herramientas, las cuales nos permiten hoy en día capacitar y operar con mayor facilidad y habilidad. Te enseñamos a ser competitiva, a tener seguridad en ti misma, aprender a ser disciplinada, manejar una línea muy profesional, tener pasión por lo que haces, un alto nivel de compromiso y superación; en abrir tu mente y tener una educación financiera que te permita tomar buenas decisiones, y lo mejor de todo, a trabajar en familia.</p><p>Eso y mucho más es Models1A.</p><p>Recuerda que para ganar, hay que estar con ganadores.</p></div>",
+  "ourCompanyBtnText": "CONOCE MÁS",
+  "trainingTitle": "Formación y capacitación",
+  "trainingTalkToUs": "Habla con nosotros >",
+  "weOfferTitle": "¿Qué ofrecemos?",
+  "weOffertext": "Models1A se caracteriza por brindar más que un trabajo, se enfoca en mejorar el estilo de vida de nuestras modelos, permitiéndole construir sueños jamás antes pensados.",
+  "weOfferBtnText": "Regístrate",
+  "testimonialsTitle": "Cambiamos y mejoramos",
+  "testimonialsSubtitle": "TU ESTILO DE VIDA",
+  "newsTitle": "Actualidad Models1A",
+  "officeTitle": "Models1A",
+  "officeSubtitle": "FÁBRICA DE GANADORAS",
+  "officeSubtitle2": "DONDE NACEN Y SE HACEN",
+  "footerTitle": "Models 1A",
+  "footerEmail": "contacto@models1a.com",
+  "footerPhone": "+57 318 708 13 51",
+  "footerSocialText": "Síguenos en nuestras redes sociales",
+  "footerCopyRight": "Models1A © Todos los derechos reservados 2022",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60808f970d90e7196431e09c"
+  },
+  "menu": [
+    "Home",
+    "Services",
+    "Store",
+    "Gallery",
+    "Blog",
+    "Sign Up",
+    "Contact",
+    "FAQ",
+    "Jobs"
+  ],
+  "trainingItems": [
+    "Consulting",
+    "Guidance",
+    "Incentives",
+    "Alignment"
+  ],
+  "officeCities": [
+    "MEDELLÍN",
+    "PEREIRA",
+    "CÚCUTA",
+    "BOGOTÁ"
+  ],
+  "languageId": "en",
+  "nameLanguage": "English",
+  "linkFlag": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/header/englishIcon.png",
+  "hashtagIam": "#IamModels1A",
+  "ourCompanyTitle": "OUR COMPANY",
+  "ourCompanytext": "<div><p>At Models1A we have more than 8 years of experience. We are currently the leader and number 1 company, mainly in the private platform format.</p><p>The 1A group is an institution that has created the best profiles in the country, and continues to train new and better talents highlighted by their professional, disciplined and motivating way of working, where the main objective is to generate results in the shortest possible time and thus be able to change and improve your lifestyle.</p><p>We have led the company in 8 years to have results and exponential growth thanks to an impeccable work of training and development, great leadership and a clear vision, for which we have been awarded nationally and internationally for multiple consecutive years as the Best Studio in Latin America. For this reason, we are the factory of winners, since we have specialized in creating, training and developing high performance models as no one has been able to do so far in Latin America.</p><p>The results and the progress of our team in general are reliable testimonies that this has been the case. We have created names that have become major nationally and internationally recognized brands; there have been more than 1,200 models to date with which we have worked.</p><p>Also, we are the only company to have our own offices in 4 main cities in the country: Medellin, Pereira, Cúcuta and Bogota, where the projection is to take this winning formula soon to other cities and countries. Additionally, we have a team of talented people who have developed a great experience in the area of sales, human management, psychology, administration, design, photography, audiovisual, accounting, systems engineering, interior design, marketing, traffic, positioning, social networks and others.</p><p>Talking about Models1A is talking about a lifestyle, where you will learn to dream and earn big. We give you all the tools, which allow us today to train and operate with greater ease and skill. We teach you to be competitive, to be self-confident, to learn to be disciplined, to manage a very professional line, to have passion for what you do, a high level of commitment and self-improvement; to open your mind and have a financial education that allows you to make good decisions, and best of all, to work as a family.</p><p>That and much more is Models1A.</p><p>Remember that to win, you have to be with winners.</p></div>",
+  "ourCompanyBtnText": "KNOW MORE",
+  "trainingTitle": "Training and qualification",
+  "trainingTalkToUs": "Talk to us >",
+  "weOfferTitle": "What we offer?",
+  "weOffertext": "Models1A is characterized by providing more than a job, it focuses on improving the lifestyle of our models, allowing you to achieve dreams never before thought.",
+  "weOfferBtnText": "Sign Up",
+  "testimonialsTitle": "We change and improve",
+  "testimonialsSubtitle": "YOUR LIFESTYLE",
+  "newsTitle": "Models1A news",
+  "officeTitle": "Models1A",
+  "officeSubtitle": "FACTORY OF WINNERS",
+  "officeSubtitle2": "WHERE THEY ARE BORN AND MADE",
+  "footerTitle": "Models 1A",
+  "footerEmail": "contacto@models1a.com",
+  "footerPhone": "+57 318 708 13 51",
+  "footerSocialText": "Follow us",
+  "footerCopyRight": "Models1A © All rights reserved 2022",
+  "__v": 0
+}]

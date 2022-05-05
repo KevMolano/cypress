@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "6160aa799acdb843fcc1d8df"
+  },
+  "enable": true,
+  "name": "Slide 1",
+  "description": {
+    "es": "Independencia económica",
+    "en": "Economic independence"
+  },
+  "order": 1,
+  "mobileImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160aa799acdb843fcc1d8df/sm1.jpg",
+  "desktopImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160aa799acdb843fcc1d8df/s1.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633725049828"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633725051054"
+    }
+  },
+  "__v": 0,
+  "landingImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160aa799acdb843fcc1d8df/sl1.jpg"
+},{
+  "_id": {
+    "$oid": "6160b1cb5b3aa53a404c3b97"
+  },
+  "enable": true,
+  "name": "Slide 2",
+  "order": 2,
+  "description": {
+    "es": "Cambió mi vida",
+    "en": "Change my life"
+  },
+  "mobileImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b1cb5b3aa53a404c3b97/sm2.jpg",
+  "desktopImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b1cb5b3aa53a404c3b97/s2.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633726923227"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633983755554"
+    }
+  },
+  "__v": 0,
+  "landingImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b1cb5b3aa53a404c3b97/sl2.jpg"
+},{
+  "_id": {
+    "$oid": "6160b22b5b3aa53a404c3b9a"
+  },
+  "enable": true,
+  "name": "Slide 3",
+  "order": 3,
+  "description": {
+    "es": "Desarrolla la top model que llevas dentro",
+    "en": "Develop your inner top model"
+  },
+  "mobileImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b22b5b3aa53a404c3b9a/sm3.jpg",
+  "desktopImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b22b5b3aa53a404c3b9a/s3.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633727019515"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633983785458"
+    }
+  },
+  "__v": 0,
+  "landingImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b22b5b3aa53a404c3b9a/sl3.jpg"
+},{
+  "_id": {
+    "$oid": "6160b341e0d2743068cd55bc"
+  },
+  "enable": true,
+  "name": "Slide 4",
+  "order": 4,
+  "description": {
+    "es": "Si no vas con todo mejor no vayas",
+    "en": "If you don't go with everything, it is better not to go at all"
+  },
+  "mobileImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b341e0d2743068cd55bc/sm4.jpg",
+  "desktopImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b341e0d2743068cd55bc/s4.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633727297141"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633983796334"
+    }
+  },
+  "__v": 0,
+  "landingImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b341e0d2743068cd55bc/sl4.jpg"
+},{
+  "_id": {
+    "$oid": "6160b3abe0d2743068cd55bf"
+  },
+  "enable": true,
+  "name": "Slide 5",
+  "order": 5,
+  "description": {
+    "es": "Es un estilo de vida",
+    "en": "Is a life style"
+  },
+  "mobileImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b3abe0d2743068cd55bf/sm5.jpg",
+  "desktopImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b3abe0d2743068cd55bf/s5.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633727403737"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633983807453"
+    }
+  },
+  "__v": 0,
+  "landingImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b3abe0d2743068cd55bf/sl5.jpg"
+},{
+  "_id": {
+    "$oid": "6160b42ae0d2743068cd55c2"
+  },
+  "enable": true,
+  "name": "Slide 6",
+  "order": 6,
+  "description": {
+    "es": "Ha sido mi mejor decisión",
+    "en": "has been my best decision"
+  },
+  "mobileImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b42ae0d2743068cd55c2/sm6.jpg",
+  "desktopImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b42ae0d2743068cd55c2/s6.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633727530158"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633984111336"
+    }
+  },
+  "__v": 0,
+  "landingImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b42ae0d2743068cd55c2/sl6.jpg"
+},{
+  "_id": {
+    "$oid": "6160b46fe0d2743068cd55c5"
+  },
+  "enable": true,
+  "name": "Slide 7",
+  "order": 7,
+  "description": {
+    "es": "Te ofrecemos un trato vip",
+    "en": "We offer you a vip treatment"
+  },
+  "mobileImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b46fe0d2743068cd55c5/sm7.jpg",
+  "desktopImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b46fe0d2743068cd55c5/s7.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633727599883"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633983826357"
+    }
+  },
+  "__v": 0,
+  "landingImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b46fe0d2743068cd55c5/sl7.jpg"
+},{
+  "_id": {
+    "$oid": "6160b4b4e0d2743068cd55c8"
+  },
+  "enable": true,
+  "name": "Slide 8",
+  "order": 8,
+  "description": {
+    "es": "Cumple tus sueños sé parte del mejor equipo",
+    "en": "Fulfill your dreams be part of the best team"
+  },
+  "mobileImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b4b4e0d2743068cd55c8/sm8.jpg",
+  "desktopImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b4b4e0d2743068cd55c8/s8.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633727668387"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633983835945"
+    }
+  },
+  "__v": 0,
+  "landingImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160b4b4e0d2743068cd55c8/sl8.jpg"
+},{
+  "_id": {
+    "$oid": "6160c0e9fbf22c573007a582"
+  },
+  "enable": true,
+  "name": "Slide 9",
+  "order": 9,
+  "description": {
+    "es": "Ofrecemos más que los demás",
+    "en": "We offer more than others"
+  },
+  "mobileImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160c0e9fbf22c573007a582/sm9.jpg",
+  "desktopImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160c0e9fbf22c573007a582/s9.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1633730793355"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1633983844897"
+    }
+  },
+  "__v": 0,
+  "landingImg": "https://new-web-site-bucket.s3.amazonaws.com/website/homeSlider/6160c0e9fbf22c573007a582/sl9.jpg"
+}]

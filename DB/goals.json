@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "61a10f31274bd345b228a850"
+  },
+  "enable": true,
+  "goal": 913,
+  "name": "Loyalty Fee",
+  "award": {
+    "name": "loyalty_fee",
+    "value": 1
+  },
+  "type": "days",
+  "subGoals": [],
+  "__v": 0
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "607758bb30457681ae5eb7d0"
+  },
+  "bannerLink": [
+    "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/banner/galleryBanner.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/banner/gallery1_n.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/banner/gallery2_n.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/banner/gallery3_n.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/banner/gallery4_n.jpg"
+  ],
+  "__v": 0
+}]

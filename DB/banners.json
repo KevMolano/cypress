@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "606b7d0429270709968df8fe"
+  },
+  "name": "desktopVideoBanner",
+  "screenType": "desktop",
+  "mediaLink": "https://new-web-site-bucket.s3.amazonaws.com/website/banners/newBannerVideo.mp4?id=0000002",
+  "hasDescriptions": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606f4656360e1d2938942ce9"
+  },
+  "name": "mobileBanner1",
+  "screenType": "mobile",
+  "mediaLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/banners/bannerMobilePic1.jpg",
+  "hasDescriptions": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606b7e3229270709968df8ff"
+  },
+  "name": "desktopBanner1",
+  "screenType": "desktop",
+  "mediaLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/banners/bannerPic1.jpg",
+  "hasDescriptions": true,
+  "__v": 0
+}]

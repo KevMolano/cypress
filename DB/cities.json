@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "5fba5cb7e9239d7b04639c3b"
+  },
+  "cityName": "Medellín",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "5fba5ccae9239d7b04639c3d"
+  },
+  "cityName": "Bogotá",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "5fba5cd8e9239d7b04639c3e"
+  },
+  "cityName": "Pereira",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "5fba5ce4e9239d7b04639c3f"
+  },
+  "cityName": "Cúcuta",
+  "__v": 0,
+  "isEnable": true
+}]

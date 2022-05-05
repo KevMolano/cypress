@@ -1,0 +1,1009 @@
+[{
+  "_id": {
+    "$oid": "62422a86db6d36f5260c37df"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648503430017"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6203f8390bdbdbe74e53d321"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62422a97db6d36f5260c381c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648503447709"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "613280000807a80bd74c2cd7"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62422a9ddb6d36f5260c382f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648503453616"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6148cb79a8ee3459cb4231d9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62422aa4db6d36f5260c3841"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648503460227"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "61783105be233a48854a86b3"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62422ab8db6d36f5260c38ac"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648503480913"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62422cf9db6d36f5260c39eb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648504057630"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "62422cbadb6d36f5260c39d3"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62423462db6d36f5260c3df7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648505954106"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "619ec2cd2b41462eb4be335e"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624389dc03320bcd0fa2add1"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648593372314"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624389f103320bcd0fa2ade3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648593393005"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62438a1403320bcd0fa2adf3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648593428425"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6195873f00b0daf6b49a714c"
+  },
+  "typeLog": "vacaciones",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62438a4303320bcd0fa2ae2b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648593475606"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6244b539be4f5e144592f7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648670009828"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6195873f00b0daf6b49a714c"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6244b544be4f5e144592f7f2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648670020122"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6244dca1be4f5e144592fa53"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648680097602"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6195873f00b0daf6b49a714c"
+  },
+  "typeLog": "vacaciones",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6244dd3dbe4f5e144592fa83"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648680253917"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6195873f00b0daf6b49a714c"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62462cecbe4f5e144592fc97"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648766188714"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "61450d70a76cca32e6ee2968"
+  },
+  "typeLog": "vacaciones",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62462d58be4f5e144592fd19"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1648766296901"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6195873f00b0daf6b49a714c"
+  },
+  "typeLog": "vacaciones",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624af972be4f5e144593023e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649080690202"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624cbeb43d58a6841b05602f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649196724829"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "61450d70a76cca32e6ee2968"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60db9de3e59ed8795f6b8fb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6250bc485b5f0a3a411e3694"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649458248215"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6250bcc95b5f0a3a411e372a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649458377380"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6250bdad818ca45f4656081e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649458605620"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60db9de3e59ed8795f6b8fb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6250be8f818ca45f465609fc"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649458831719"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6195873f00b0daf6b49a714c"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60db9de3e59ed8795f6b8fb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6250bea0818ca45f46560a0b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649458848573"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6202e7176fd6c3e29657a985"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60db9de3e59ed8795f6b8fb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6250beaa818ca45f46560a14"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649458858734"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6202e7176fd6c3e29657a985"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "60db9de3e59ed8795f6b8fb3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6250df846749295146a823c5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1649467268605"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625d8848762cc81e3955d093"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650296904060"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ebe05762cc81e3955d460"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650376197464"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "62043e880bdbdbe74e53d5e8"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ebe3f762cc81e3955d486"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650376255542"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ebe47762cc81e3955d492"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650376263966"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ebe50762cc81e3955d49e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650376272904"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ebe5d762cc81e3955d4aa"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650376285674"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ebe69762cc81e3955d4b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650376297133"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625ebe9a762cc81e3955d4c0"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650376346005"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6195873f00b0daf6b49a714c"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625efb5d762cc81e3955d55f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650391901226"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "62422cbadb6d36f5260c39d3"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625efc0c762cc81e3955d5b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650392076313"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625f118885dfeac9df1897b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650397576922"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "typeLog": "vacaciones",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626012ef32ffed908888ec9b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650463471402"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "62422cbadb6d36f5260c39d3"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626087c3aabe63dd6d1a85c5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650493379989"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62608828aabe63dd6d1a8842"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650493480778"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6260883aaabe63dd6d1a8854"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650493498155"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3e0fec3263b71f036b09"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62608847aabe63dd6d1a8861"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650493511301"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62608861aabe63dd6d1a88a8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650493537429"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60df3dd1ec3263b71f073b98"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62608888aabe63dd6d1a88d0"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650493576594"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626088a6aabe63dd6d1a88dc"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650493606508"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626088b5aabe63dd6d1a88ed"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1650493621649"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6202e7176fd6c3e29657a985"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c6c176036b5f7fbe43c6f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651272727540"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c6c236036b5f7fbe43c7f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651272739035"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6203f9070bdbdbe74e53d41f"
+  },
+  "typeLog": "vacaciones",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c6c3e6036b5f7fbe43ce7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651272766712"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "6203f9070bdbdbe74e53d41f"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c6c8474d605674e32040d"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651272836674"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3d62ec3263b71f035c43"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c6c9d74d605674e32041f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651272861995"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c8d8974d605674e32073e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651281289334"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "disabled",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c8ddb74d605674e320798"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651281371947"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60f19534c688b96976542cd9"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273033694b12ce5a74771b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651704630769"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273034d94b12ce5a7477283"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651704653616"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "typeLog": "vacaciones",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273035f94b12ce5a747729e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651704671957"
+    }
+  },
+  "status": true,
+  "userId": {
+    "$oid": "60de3e74ec3263b71f037182"
+  },
+  "typeLog": "active",
+  "userAction": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "__v": 0
+}]

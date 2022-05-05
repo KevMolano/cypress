@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "608045384e0580166c2c3a8f"
+  },
+  "blogId": {
+    "$oid": "608045384e0580166c2c3a8d"
+  },
+  "language": "en",
+  "title": "BLOG",
+  "subtitle": "An unique lifestyle, Models1A lifestyle",
+  "remFilter": "Remove filter",
+  "authorLabel": "Author",
+  "relArtLabel": "Other articles of your interest",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608045384e0580166c2c3a8e"
+  },
+  "blogId": {
+    "$oid": "608045384e0580166c2c3a8d"
+  },
+  "language": "es",
+  "title": "BLOG",
+  "subtitle": "Un estilo de vida único, un estilo de vida Models1A",
+  "remFilter": "Limpiar filtro",
+  "authorLabel": "Autor",
+  "relArtLabel": "Otros artículos de tu interés",
+  "__v": 0
+}]

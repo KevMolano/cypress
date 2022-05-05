@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "62195c82ad58215ab9a00df1"
+  },
+  "model": {
+    "$oid": "60de3e0fec3263b71f036b09"
+  },
+  "mentor": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "weekNumber": 12,
+  "online": "42:34:54",
+  "sale": 1034.54,
+  "description": "OPCIONAL",
+  "platform": "jasmin",
+  "date": {
+    "$date": {
+      "$numberLong": "1645811250000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6250e1cfa44758524ed067e1"
+  },
+  "model": {
+    "$oid": "617db67aefdbda88bcdc152d"
+  },
+  "mentor": {
+    "$oid": "613280000807a80bd74c2cd7"
+  },
+  "weekNumber": 14,
+  "online": "12: 35:00",
+  "sale": 100,
+  "description": "Venta streamate",
+  "platform": "streamate",
+  "date": {
+    "$date": {
+      "$numberLong": "1649449855000"
+    }
+  },
+  "__v": 0
+}]

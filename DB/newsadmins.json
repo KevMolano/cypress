@@ -1,0 +1,2352 @@
+[{
+  "_id": {
+    "$oid": "61943ee76218362ef95e3538"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1636848000000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1646006400000"
+    }
+  },
+  "titleNews": "",
+  "subtitleNews": "",
+  "textNews": "",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1637105383949"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61943ee76218362ef95e3538/1637105383976_MySpace1A.jpg",
+  "forUser": []
+},{
+  "_id": {
+    "$oid": "619ed3ffc34f66a4e4c37ec4"
+  },
+  "city": [],
+  "userType": [],
+  "isEnable": true,
+  "featured": false,
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "",
+  "subtitleNews": "",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1637798911216"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/619ed3ffc34f66a4e4c37ec4/1637798911219_Final+HongKong+2021+con+cambios_Mesa+de+trabajo+1+copia+4.jpeg",
+  "forUser": [],
+  "archive": false
+},{
+  "_id": {
+    "$oid": "619ee5fac34f66a4e4c38622"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1637712000000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1640995200000"
+    }
+  },
+  "titleNews": "¡Si pensaste que Dubai era lo más top, prepárate porque nuestro próximo destino te sorprenderá aún más! ",
+  "subtitleNews": "",
+  "textNews": "Hong Kong, la ciudad más moderna de Asia, con más de 8 millones de habitantes, es sin lugar a dudas un destino superior a Dubai. Actualmente es la segunda ciudad más rica del mundo, que alberga la mayor cantidad de multimillonarios (siendo New York la número 1).&nbsp;<div><br></div><div>Hong Kong fue por muchos años una colonia británica y entregada a China en 1997. El inglés y el chino son los idiomas oficiales, ha sido escenario protagonista de muchas películas reconocidas y ha sido denominada como la Hollywood de Asia. Es la ciudad con más rascacielos del mundo que sumada a los paisajes de inmensos bosques, grandes montañas rocosas, animales como el oso panda y el tigre blanco y atracciones como el Gran Buddha no paran de sorprender a cualquier visitante.&nbsp;</div><div><br></div><div>¿Alguna vez soñaste con visitar Orlando y conocer el Reino Mágico de Disney? Esta es tu oportunidad de vivir toda la magia de Disneyland, la emoción en las montañas rusas y&nbsp; conocer a los personajes.</div><div><br></div><div>Tras el éxito y la adrenalina que generó la experiencia Ferrari y Lamborghini, esta vez la vamos a revivir en un paisaje sin limites de velocidad, en un auto de más de 700 caballos de fuerza que te harán vivir una experiencia inolvidable.</div><div><br></div><div>Dentro de los planes está visitar otras ciudades como Shangai con sus tradiciones milenarias que contrastan con la arquitectura moderna y Macau, apodada Las Vegas de Asia con lugares impresionantes para generar contenido fotográfico y audiovisual que fortalecerán tu perfil y te harán marcar una gran diferencia de tu competencia.</div><div><br></div><div>Viajar con Models1A es vivir una experiencia 5 estrellas donde cubrimos el 100% de los gastos desde boletos aéreos, traslados, comida, hospedaje... ¿te imaginas en un penthouse, piso 80, con vista a toda la ciudad, realizando tu sesión de fotos?</div><div><br></div><div>¡Eso y mucho más es lo que vivirás en esta experiencia asiática 2022!</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1637803514784"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/619ee5fac34f66a4e4c38622/1638411601321_Hong_Kong_Social_Media.jpeg",
+  "forUser": []
+},{
+  "_id": {
+    "$oid": "61a815a3317e42d1195f32f5"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638230400000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1643760000000"
+    }
+  },
+  "titleNews": "¡Ya estamos en diciembre y el nuevo concurso de Models1A Global donde participan todas las ciudades y todas las sedes ya comenzó! ",
+  "subtitleNews": "",
+  "textNews": "<div>Son 7 ganadoras que serán elegidas basado en la más alta producción.&nbsp;<br></div><div><br></div><div>Esta es tu oportunidad de estar entre las 8 modelos que disfrutarán de este sorprendente destino: las primeras 7 modelos de mayor producción y una octava que se sorteará entre los puestos 8 al 15.&nbsp;</div><div>Mentalizate y proyectate a estar en Hong Kong, este es tu momento. No importa en cual sede te encuentres, todas tienen oportunidad ya que no hay una determinada cantidad de cupos por ciudad. Este diciembre del 2021 viene con muchas sorpresas y sin importar tu antigüedad en Models1A puedes estar segura de poder dar la pelea de principio a fin.</div><div><br></div><div>\"A mayor exposición, mayores posibilidades de ganancias. Es decir que las horas en linea son fundamentales para aumentar tus probabilidades de ventas\".&nbsp;</div><div><br></div><div>¡Una ganadora nunca se rinde y la que se rinde nunca sera una ganadora!</div><div><br></div><div>Buena suerte a todas.</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1638405539477"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61a815a3317e42d1195f32f5/1638405539479_WhatsApp%20Image%202021-12-01%20at%2002.22.28.jpeg",
+  "forUser": []
+},{
+  "_id": {
+    "$oid": "61ac2d7e9da0564b45de1dd9"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [
+    {
+      "$oid": "618f2c5ff7a3414300faec74"
+    }
+  ],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638662400000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1638748740000"
+    }
+  },
+  "titleNews": "Prueba",
+  "subtitleNews": "Prueba",
+  "textNews": "Prueba",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1638673790663"
+    }
+  },
+  "__v": 0,
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61ac2d7e9da0564b45de1dd9/1638673790667_MySpace1A+-+Google+Chrome+2021-12-04+22-08-21.mp4"
+},{
+  "_id": {
+    "$oid": "61ac2de39da0564b45de1f63"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [
+    {
+      "$oid": "618f2c5ff7a3414300faec74"
+    }
+  ],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638748800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1638921540000"
+    }
+  },
+  "titleNews": "prueba",
+  "subtitleNews": "prueba",
+  "textNews": "prueba",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1638673891813"
+    }
+  },
+  "__v": 0,
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61ac2de39da0564b45de1f63/1638673891816_MySpace1A+-+Google+Chrome+2021-12-04+22-08-21.mp4"
+},{
+  "_id": {
+    "$oid": "61ac2dfc9da0564b45de1f6b"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [
+    {
+      "$oid": "618f2c5ff7a3414300faec77"
+    }
+  ],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638835200000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1638921540000"
+    }
+  },
+  "titleNews": "prueba",
+  "subtitleNews": "prueba",
+  "textNews": "prueba",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1638673916824"
+    }
+  },
+  "__v": 0,
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61ac2dfc9da0564b45de1f6b/1638673916830_MySpace1A+-+Google+Chrome+2021-12-04+22-08-21.mp4"
+},{
+  "_id": {
+    "$oid": "61ae73289da0564b45dee3dc"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638835200000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1638835200000"
+    }
+  },
+  "titleNews": "PRUEBA",
+  "subtitleNews": "",
+  "textNews": "",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1638822696401"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aeb0329da0564b45df124f"
+  },
+  "city": [],
+  "userType": [],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "",
+  "subtitleNews": "",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1638838322467"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aeb58c9da0564b45df1416"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638748800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1638835200000"
+    }
+  },
+  "titleNews": "Quinto boletín de resultados globales del concurso Hong Kong 2022.",
+  "subtitleNews": "",
+  "textNews": "<p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Buenas tardes,<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\"><span class=\"Apple-converted-space\"><br></span></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Este el quinto boletín de los resultados globales del concurso Hong Kong 2022. Pero antes, debemos hacer énfasis en qué está prohibido acercarse al área de monitores para ver las estadísticas de otras modelos.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\"><span class=\"Apple-converted-space\"><br></span></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Llegamos casi al 25% del concurso.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Felicitaciones a nuestro grupo de modelos que hoy hacen parte del TOP 10 y con este resultado logran el beneficio de obtener la habitación de manera exclusiva por 24 horas con una duración de 3 días hasta el 9 de diciembre, donde se volverán a evaluar los resultados. Quien siga en el top 10 continuará disfrutando del beneficio de tener la habitación 24horas; quien no esté lo perderá hasta el día 12 de diciembre cuando se evalúe nuevamente los resultados, los cuales serán cada 3 días aproximadamente.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Noticias:<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Medellín retoma el mando de la competencia de la mano de AlejandraRoa que se posiciona como la #1, por el momento, después de una fuerte jornada durante el fin de semana.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">RuddyRodriguez sube al puesto #3 y VickyBaez pasa al #4 lugar, por una pequeña diferencia, ya que ambas dicen que “no las baja del avión nada, ni nadie”. Veremos qué pasa en las próximas 3 semanas.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">TamaraRusso, sorprende durante una larga jornada del domingo y sube al puesto #5.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">JannaMiranda y AntonellaBosch de Bogotá sienten un poco la presión de Medellín y bajan un par de puestos, pero nada alarmante, todo se puede solucionar con un par de horas extras.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Puestos #8, #9, #10 con muy poca diferencia es decir que están casi empatadas.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">EmmaCrox, vuelve con fuerza y sube 13 puestos posicionándose de #12. NinaSalvatore, después de una charla motivacional sube 9 puestos posicionándose de #15.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Recuerda que gana quién nunca se rinde y en esta competencia todo puede pasar.<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Demuestra todo tu potencial y móntate en el avión del progreso que va rumbo a ser MODELO TOP. Tienes 2 opciones: Contar la historia o que te la cuenten.</p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">¡Tú decides!<span class=\"Apple-converted-space\">&nbsp;</span></p><p class=\"p2\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px; color: rgb(0, 0, 0);\"><br></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\"><span class=\"Apple-converted-space\"></span></p><p class=\"p1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">Feliz tarde</p>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1638839692007"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61aeb58c9da0564b45df1416/1638839692010_Editable%20Nombres%201%20al%2010_Mesa%20de%20trabajo%201.png"
+},{
+  "_id": {
+    "$oid": "61aeb6c69da0564b45df14a0"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638748800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1639353600000"
+    }
+  },
+  "titleNews": "Quinto boletín de resultados globales del concurso Hong Kong 2022",
+  "subtitleNews": "",
+  "textNews": "<div>Este el quinto boletín de resultados globales del concurso Hong Kong 2022. Pero antes, debemos hacer énfasis en qué está prohibido acercarse al área de monitores para ver las estadísticas de otras modelos.&nbsp;<br></div><div><br></div><div>Llegamos casi al 25% del concurso.&nbsp;</div><div>Felicitaciones a nuestro grupo de modelos que hoy hacen parte del TOP 10 y con este resultado logran el beneficio de obtener la habitación de manera exclusiva por 24 horas con una duración de 3 días hasta el 9 de diciembre, donde se volverán a evaluar los resultados. Quien siga en el top 10 continuará disfrutando del beneficio de tener la habitación 24horas; quien no esté lo perderá hasta el día 12 de diciembre cuando se evalúe nuevamente los resultados, los cuales serán cada 3 días aproximadamente.&nbsp;</div><div><br></div><div>Noticias:&nbsp;</div><div>- Medellín retoma el mando de la competencia de la mano de AlejandraRoa que se posiciona como la #1, por el momento, después de una fuerte jornada durante el fin de semana.&nbsp;</div><div>- RuddyRodriguez sube al puesto #3 y VickyBaez pasa al #4 lugar, por una pequeña diferencia, ya que ambas dicen que “no las baja del avión nada, ni nadie”. Veremos qué pasa en las próximas 3 semanas.&nbsp;</div><div>- TamaraRusso, sorprende durante una larga jornada del domingo y sube al puesto #5.&nbsp;<br></div><div>- JannaMiranda y AntonellaBosch de Bogotá sienten un poco la presión de Medellín y bajan un par de puestos, pero nada alarmante, todo se puede solucionar con un par de horas extras.&nbsp;</div><div>- Puestos #8, #9, #10 con muy poca diferencia es decir que están casi empatadas.&nbsp;</div><div>- EmmaCrox, vuelve con fuerza y sube 13 puestos posicionándose de #12.</div><div>- NinaSalvatore, después de una charla motivacional sube 9 puestos posicionándose de #15.&nbsp;<br></div><div><br></div><div>¡Recuerda que gana quién nunca se rinde y en esta competencia todo puede pasar!</div><div>Demuestra todo tu potencial y móntate en el avión del progreso que va rumbo a ser MODELO TOP. Tienes 2 opciones: Contar la historia o que te la cuenten.</div><div><br></div><div>¡Tú decides!&nbsp;</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1638840006404"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61aeb6c69da0564b45df14a0/1638840006406_Editable%20Nombres%201%20al%2010_Mesa%20de%20trabajo%201.png"
+},{
+  "_id": {
+    "$oid": "61affde3b1020f767bacbea3"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638835200000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1640217540000"
+    }
+  },
+  "titleNews": "Bono Navidad LiveJasmin",
+  "subtitleNews": "",
+  "textNews": "Este fin de año no deja de sorprenderte y ahora tienes la oportunidad de ganar hasta el 50% más de tus ingresos. Conéctate con tus usuarios a través de mensajes, obtén mayores ganancias con los VIP y ten una mayor exposición en tiempo en la pagina.&nbsp;<div><br></div><div>Nuestro equipo de trabajo Models1A está para apoyarte en todo este proceso y ayudarte a dar de ti lo mejor.</div><div><br></div><div>¡Muchos éxitos!<br><br></div><div>&nbsp;</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1638923747659"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61affde3b1020f767bacbea3/1638923747661_WhatsApp%20Image%202021-12-07%20at%2017.49.18.jpeg"
+},{
+  "_id": {
+    "$oid": "61b00305b1020f767bacc6c3"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638748800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1640908800000"
+    }
+  },
+  "titleNews": "Bono de Navidad LiveJasmin",
+  "subtitleNews": "",
+  "textNews": "Este fin de año no deja de sorprenderte y ahora tienes la oportunidad de ganar hasta el 50% más de tus ingresos. Conéctate con tus usuarios a través de mensajes, obtén mayores ganancias con los VIP y ten una mayor exposición en tiempo en la pagina.&nbsp;<div><br></div><div>Nuestro equipo de trabajo Models1A está para apoyarte en todo este proceso y ayudarte a dar de ti lo mejor.</div><div><br></div><div>¡Muchos éxitos!</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1638925061935"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61b00305b1020f767bacc6c3/1638925061942_Concurso%20Navidad%20LiveJasmin.png"
+},{
+  "_id": {
+    "$oid": "61b1571eb1020f767bada40a"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1638748800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1639094340000"
+    }
+  },
+  "titleNews": "Quinto boletín de resultados globales del concurso Hong Kong 2022",
+  "subtitleNews": "",
+  "textNews": "Este es el quinto boletín de los resultados globales del concurso Hong Kong 2022. Pero antes, debemos hacer énfasis en qué está prohibido acercarse al área de monitores para ver las estadísticas de otras modelos.&nbsp;<br><br><div>Llegamos casi al 25% del concurso.&nbsp;</div><div><br></div><div>Felicitaciones a nuestro grupo de modelos que hoy hacen parte del TOP 10 y con este resultado logran el beneficio de obtener la habitación de manera exclusiva por 24 horas con una duración de 3 días hasta el 9 de diciembre, donde se volverán a evaluar los resultados. Quien siga en el top 10 continuará disfrutando del beneficio de tener la habitación 24horas; quien no esté lo perderá hasta el día 12 de diciembre cuando se evalúe nuevamente los resultados, los cuales serán cada 3 días aproximadamente.&nbsp;</div><div><br></div><div>Noticias:&nbsp;</div><div>- Medellín retoma el mando de la competencia de la mano de AlejandraRoa que se posiciona como la #1, por el momento, después de una fuerte jornada durante el fin de semana.&nbsp;</div><div>- RuddyRodriguez sube al puesto #3 y VickyBaez pasa al #4 lugar, por una pequeña diferencia, ya que ambas dicen que “no las baja del avión nada, ni nadie”. Veremos qué pasa en las próximas 3 semanas.&nbsp;<br></div><div>- TamaraRusso, sorprende durante una larga jornada del domingo y sube al puesto #5.&nbsp;<br></div><div>- JannaMiranda y AntonellaBosch de Bogotá sienten un poco la presión de Medellín y bajan un par de puestos, pero nada alarmante, todo se puede solucionar con un par de horas extras.&nbsp;<br></div><div>- Puestos #8, #9, #10 con muy poca diferencia es decir que están casi empatadas.&nbsp;<br></div><div>- EmmaCrox, vuelve con fuerza y sube 13 puestos posicionándose de #12. NinaSalvatore, después de una charla motivacional sube 9 puestos posicionándose de #15.&nbsp;<br></div><div><br></div><div>Recuerda que gana quién nunca se rinde y en esta competencia todo puede pasar.&nbsp;</div><div>Demuestra todo tu potencial y móntate en el avión del progreso que va rumbo a ser MODELO TOP. Tienes 2 opciones: Contar la historia o que te la cuenten.</div><div>&nbsp;</div><div>¡Tú decides!&nbsp;</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1639012126284"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61b1571eb1020f767bada40a/1639012126287_Editable%20Nombres%201%20al%2010_Mesa%20de%20trabajo%201.png"
+},{
+  "_id": {
+    "$oid": "61b2ba697b5437a49304641d"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1639008000000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1639353600000"
+    }
+  },
+  "titleNews": "Séptimo boletín de resultados globales del concurso Hong Kong 2022",
+  "subtitleNews": "",
+  "textNews": "<div>Buenas noches,&nbsp;</div><div><br></div><div>A continuación, el séptimo boletín, en donde felicitamos a este grupo que forman parte del TOP 10. Además, para que entendamos mejor la competencia, hemos puesto el número de horas de cada modelo con el fin de que puedan evidenciar que las horas de calidad marcan una gran diferencia en este tipo de concursos.&nbsp;</div><div><br></div><div>Fecha: 9 de diciembre - corte 6:00PM&nbsp;<br><br><div>Últimas noticias:&nbsp;</div><div><br></div><div>Hoy algunas modelos bajan la guardia, mientras que otras cogen más fuerza y toman ventaja subiendo o manteniendo su posición.&nbsp;</div><div><br></div><div>Felicitaciones a MelisaJohnson, que ha demostrado ser una fuerte competencia y ha puesto a temblar a Medellín con su talento, inteligencia, carisma y sencillez. El viaje a Dubai le abrió la mente, sabe que seguir de pie y dar lo mejor de si no solo la llevará a Hong Kong, sino también a conseguir un buen posicionamiento dentro de la empresa.&nbsp;</div><div><br></div><div>El hambre y las ganas son 2 ingredientes que no pueden faltar y es claro que MelisaJohnson quiere retomar el primer lugar de la competencia, así lo indican su avance. Pero AlejandraRoa se mantiene más firme y enfocada que nunca, donde también demuestra su talento, formación, gran experiencia y alto dominio en este tipo de competencias.</div></div><div><br></div><div><div>Nota: ¡Caer en la desesperación o en la frustración serán tus peores enemigos en esta competencia!</div><div><br></div><div>TefyRodriguez avanza muy rápido y está muy cerca de subir al cuarto lugar para asegurar aún más su boleto a Hong Kong. ¿Sé dejará VickyBaez?</div></div><div><br></div><div>TamaraRusso, GabyPastori, JanaMiranda y GabrielaParisi están casi que empatadas en ese sexto lugar, ya que la diferencia es muy corta.&nbsp;<br></div><div><div><br></div><div>Felicitaciones a JannaMiranda por su compromiso, que hasta la fecha lleva la mayor cantidad de horas en la competencia, demostrando que la disciplina le gana al talento.&nbsp;</div><div><br></div><div>EmmaCrox entra al top 10 por una diferencia de 5.00 dólares, colocando a AntonellaBosch en la posición #11. ¡Esto se pone muy emocionante!</div></div><div><br></div><div>Felicitaciones AntonellaBosch, otra modelo que no deja de sorprendernos con sus resultados; todavía no cumple el año en la empresa y sin duda pone a temblar a muchas, ya que está compitiendo con modelos de 3 y 4 años de experiencia. Ella es y será sin duda una modelo con gran proyección.&nbsp;<br></div><div><br></div><div>MarianaDalessio y NinaSalvatore, muy bien posicionadas para el tiempo que llevan en la empresa.&nbsp;<br></div><div><div><br></div><div>SelenaMartini y CarlaColucci siguen avanzando con mucha fuerza, ellas pueden dar la sorpresa y acercarse al top 10 muy pronto si aceleran un poco el ritmo que llevan.&nbsp;<br></div><div><br></div><div>¿Qué pasará en las próximas 3 semanas? Eso lo sabremos el 31 de diciembre a las 6:00PM.&nbsp;</div><div><br></div><div>Recuerden que una modelo que esté en la posición #30 hoy en día puede fácilmente ser una de esas 7 ganadoras, simplemente requiere de un esfuerzo mayor, disciplina, paciencia y mucho compromiso. Muchas no llegan hasta el final debido al factor agotamiento, festividades navideñas, eventos, distracciones, entre otras cosas.&nbsp;</div><div><br></div><div>Demuestra todo tu potencial y móntate en el avión del progreso que va rumbo a ser MODELO TOP. Recuerda que tienes 2 opciones: Contar la historia o que te la cuenten.&nbsp;</div><div><br></div><div>¡Tú decides!&nbsp;</div><div><br></div><div>Feliz noche.</div></div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1639103081297"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61b2ba697b5437a49304641d/1639103081306_9%20diciembre%20boleti%CC%81n.jpeg"
+},{
+  "_id": {
+    "$oid": "61b389877b5437a493050c39"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1639008000000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1643760000000"
+    }
+  },
+  "titleNews": "\"Models 1A Christmas Party\"",
+  "subtitleNews": "The Red Fashion Gala",
+  "textNews": "<div>Models 1A celebra un año más de éxitos con su tan esperada Fiesta Navideña de fin de año en la ciudad de Medellín.</div><div>&nbsp;</div><div>Ya son más de 8 años cambiando y mejorando el estilo de vida de más de 1.500 personas que han pasado por la empresa: algo que nos llena de mucho orgullo y satisfacción.&nbsp;</div><div><br></div><div>Hemos visto la compra de tu primer carro, has salido por primera vez del país con nosotros, has mejorado la calidad de vida de tu familia y seres queridos, has logrado o estás en proceso de alcanzar esa independencia económica que tanto anhelas. Además, has aprendido a ser disciplinada y a ampliar tu mente, y sobre todo, a pensar cómo ganadora.&nbsp;</div><div><br></div><div>Hemos visto juntos el gran crecimiento de la empresa en el que tu has hecho parte importante y es por eso que este 19 de Diciembre se reúne toda la Familia de Models1A para compartir una noche de gala llena de mucha elegancia, de momentos agradables y muy divertidos. Pero, lo más importante, nos reunimos para dar GRACIAS por lo que apunta a ser uno de los mejores años de la empresa en general.</div><div><br></div><div>Esta es otra oportunidad para unir la familia Models 1A y celebrar otro año de estar juntos con la visión ganadora que nos caracteriza. Compartir un año más de logros, de seguir liderando e innovando la industria, porque recuerden que lo difícil no es llegar al primer lugar, lo difícil es mantenerse en él y ese es el gran reto para el 2022.</div><div><br></div><div>Se viene finalmente la apertura de nuestra nueva mega sede en la ciudad de Pereira, que hasta la fecha sería la sede más grande y más lujosa de Models1A, lo que nos permitirá dominar el mercado del eje cafetero formando y desarrollando nuevos y mejores talentos.&nbsp;</div><div><br></div><div>Vienen muchas sorpresas para la ciudad de Medellín en cuanto al tema de expansión se refiere, el cual les estaremos anunciando próximamente. “Algo soñado, nunca antes visto”</div><div><br></div><div>\"The Red Fashion Gala\", donde podrás lucir tu vestido rojo y generar el \"efecto WOW\". Es la fiesta más exclusiva del año, allí te sentirás como en el Hollywood de América Latina y vivirás la experiencia de la alfombra roja en uno de los sitios más exclusivos y prestigiosos de Medellín, con una vista panorámica espectacular de la ciudad, un ambiente cálido y muy ganador que te motivará a seguir avanzando en tu proceso.&nbsp;</div><div><br></div><div>Compartiremos una cena navideña y la gran ceremonia de premiación Models 1A donde premiaremos tu talento y desempeño como en años anteriores. Como siempre tendremos muchas sorpresas más.&nbsp;</div><div><br></div><div>Haz clic en el link y disfruta de la alfombra roja y la elegancia que caracterizó a Models 1A en la última fiesta navideña del año 2019:&nbsp;</div><div><br></div><div>https://www.youtube.com/watch?v=WQZA2lwi5JU</div><div><br></div><div>No te la puedes Perder</div><div><br></div><div>¡Te esperamos!</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1639156103091"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61b389877b5437a493050c39/1639156103093_Colosal.jpeg"
+},{
+  "_id": {
+    "$oid": "61b5350b7b5437a4930691a6"
+  },
+  "city": [],
+  "userType": [],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "",
+  "subtitleNews": "",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1639265547600"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61b5350b7b5437a4930691a6/1639265547603_bono%20streamate.jpeg"
+},{
+  "_id": {
+    "$oid": "61bb9fe8906c8ed042f2020e"
+  },
+  "city": [
+    "Medellín"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1640390400000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1643587200000"
+    }
+  },
+  "titleNews": "¡ Llegó la Navidad a Models 1A !",
+  "subtitleNews": "Sesión de Fotos Navideña",
+  "textNews": "<div>Hemos creado un hermoso set para que te hagas esa foto de impacto que tanto nos caracteriza y actualices tu perfil.<br></div><div><br></div><div>Lo único que debes hacer es:</div><div><br></div><div>*Prepara tu look navideño</div><div><br></div><div>*Notifica al equipo de diseño el día y hora en que deseas hacer tus fotos ¡y listo!</div><div><br></div><div>Estaremos esperándote desde el Jueves 16 de diciembre hasta el jueves 23.</div><div><br></div><div>No lo pienses más y vivamos juntos la navidad, al mejor estilo 1A.</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1639686120542"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61bb9fe8906c8ed042f2020e/1639686120544_FOTOS-NAVIDAD.jpg"
+},{
+  "_id": {
+    "$oid": "61be4dfbd9a9dd0c6e1f4568"
+  },
+  "city": [],
+  "userType": [],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [
+    {
+      "$oid": "618f2c5ff7a3414300faec7d"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec25"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec3b"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec2b"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec7b"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec81"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec5a"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec19"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec14"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec91"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec86"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec41"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec74"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec79"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec57"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec7f"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec65"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec52"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec67"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec2d"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec28"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec7e"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec35"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec53"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec77"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec56"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec2a"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec5e"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec83"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec8f"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec80"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec58"
+    }
+  ],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1639785600000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1640131200000"
+    }
+  },
+  "titleNews": "Bono Navideño LIVEJASMIN 2021",
+  "subtitleNews": "Llega la recta final !",
+  "textNews": "<div><br></div><div><br></div><div>Es hora de finalizar el período con toda la energía y con todo el empeño posible, estamos cerca de la meta, quedan 76 horas para que termine el período y puedas lograr el bono navideño del 30% o del 50 % de LiveJasmin.</div><div><br></div><div>Ejemplos:</div><div><br></div><div>Si haces 5.000 USD x 50% = 7.500 USD</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10.000 USD x 50% = 15.000 USD</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 15.000 USD x 50% = 22.500 USD</div><div><br></div><div>Todo el equipo ha estado trabajando 24/7 para cumplir con uno de los requisitos más retadores, como mantener el tiempo de respuesta de mensajes por debajo de 15 y 30 minutos.</div><div><br></div><div>Para aquellos perfiles que no han cumplido la meta del vip les recordamos que el enfoque desde ya está en este requisito y no dejarlo para el final, ya que puede comprometer el objetivo.</div><div><br></div><div>Cumplir el bono es la manera más fácil de ganar dinero gratis y aprovecharlo, ya que es un concurso que se realiza una vez al año.</div><div><br></div><div>Recuerden que las personas fuertes en los momentos críticos deciden seguir luchando, este es el camino para ser un GANADOR.</div><div><br></div><div>Muchos Éxitos!!</div><div><br></div><div>- A continuación le compartimos a este grupo la lista de modelos que aún aplican para dicho bono:</div><div><br></div><div>*importante recordar que para aplicar al bono se requiere cumplir con todos los requisitos.</div><div><br></div><div><br></div><div>Este avance es divulgado solo para este selecto grupo de modelos, al Día Sábado 18 de Diciembre a las 11:00 am.</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1639861755335"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61be4dfbd9a9dd0c6e1f4568/1639861755339_Sin%20ti%CC%81tulo-1_Mesa%20de%20trabajo%201.png"
+},{
+  "_id": {
+    "$oid": "61be731ed9a9dd0c6e1f6947"
+  },
+  "city": [],
+  "userType": [
+    "superadmin",
+    "coordinator",
+    "monitor"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1639785600000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1640131200000"
+    }
+  },
+  "titleNews": "Bono Navideño LIVEJASMIN 2021",
+  "subtitleNews": "Llega la recta final !",
+  "textNews": "<div>Es hora de finalizar el período con toda la energía y con todo el empeño posible, estamos cerca de la meta, quedan 76 horas para que termine el período y puedas lograr el bono navideño del 30% o del 50 % de LiveJasmin.</div><div><br></div><div>Ejemplos:</div><div><br></div><div>Si haces 5.000 USD x 50% = 7.500 USD</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10.000 USD x 50% = 15.000 USD</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 15.000 USD x 50% = 22.500 USD</div><div><br></div><div>Todo el equipo ha estado trabajando 24/7 para cumplir con uno de los requisitos más retadores, como mantener el tiempo de respuesta de mensajes por debajo de 15 y 30 minutos.</div><div><br></div><div>Para aquellos perfiles que no han cumplido la meta del vip les recordamos que el enfoque desde ya está en este requisito y no dejarlo para el final, ya que puede comprometer el objetivo.</div><div><br></div><div>Cumplir el bono es la manera más fácil de ganar dinero gratis y aprovecharlo, ya que es un concurso que se realiza una vez al año.</div><div><br></div><div>Recuerden que las personas fuertes en los momentos críticos deciden seguir luchando, este es el camino para ser un GANADOR.</div><div><br></div><div>Muchos Éxitos!!</div><div><br></div><div>- A continuación le compartimos a este grupo la lista de modelos que aún aplican para dicho bono:</div><div><br></div><div>*importante recordar que para aplicar al bono se requiere cumplir con todos los requisitos.</div><div><br></div><div><br></div><div>Este avance es divulgado solo para este selecto grupo de modelos, al Día Sábado 18 de Diciembre a las 11:00 am.</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1639871262594"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61be731ed9a9dd0c6e1f6947/1639871262597_Sin%20t%C3%ADtulo-1_Mesa%20de%20trabajo%201.png"
+},{
+  "_id": {
+    "$oid": "61c61c9a7bb632397372c26a"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1640304000000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1640735940000"
+    }
+  },
+  "titleNews": "Boletín 16, concurso Hong Kong 2022",
+  "subtitleNews": "",
+  "textNews": "<div>Buenas tardes,&nbsp;</div><div><br></div><div>A continuación, el boletín #16&nbsp;</div><div><br></div><div>Fecha: 24 de diciembre - corte 12:00PM&nbsp;</div><div><br></div><div>1. MelisaJohnson (Bogotá)</div><div>2. AlejandraRoa (Medellín)&nbsp;</div><div>3. RuddyRodriguez (Medellín)</div><div>4. AntonellaBosch (Bogotá)</div><div>5. TefyRodriguez (Medellín)</div><div>6. GabyPastori (Medellín)</div><div>7. GabrielaParisi (Medellín)</div><div>8. VickyBaez (Medellín)</div><div>9. EmmaCrox (Medellín)</div><div>10. KataDiaz (Medellín)&nbsp;</div><div>11. MarisaDaSouza (Medellín)</div><div>12. NinaSalvatore (Bogotá)</div><div>13. TamaraRusso (Medellín)</div><div>14. JannaMiranda (Bogotá)</div><div>15. CarlaColucci (Bogotá)</div><div>16. MarianaDalessio (Bogotá)</div><div>17. PaulinaDaSilva (Bogotá)</div><div>18. SamanthaMueller (Medellín)</div><div>19. KendraWilliams (Cúcuta)</div><div>20. MartinaLeone (Medellín)</div><div><br></div><div><br></div><div><br></div><div>Últimas noticias:&nbsp;</div><div><br></div><div>Llegamos a la RECTA FINAL y esto se pone muy emocionante ya que el mapa ganador viene cambiando. Ahora sí llegó la hora de jugarse todas las cartas y dar el todo por el todo.&nbsp;</div><div><br></div><div>- Tenemos 5 modelos de Medellín entre las posibles ganadoras, 2 de ellas: AlejandraRoa y TefyRodriguez, que regresan al avión del progreso. Además, 3 modelos de Medellín que se montan por primera vez en el avión ganador: RuddyRodriguez, GabyPastori y GabrielaParisi, que serían 3 caras nuevas.&nbsp;</div><div><br></div><div>- MelisaJohnson piloteando el Lamborghini amarillo lidera la carrera, hasta el momento. Luego de recibir más de 3 premios la noche del Domingo, efecto siguiente que la hace tanquear full de gasolina su mente y se motiva a seguir adelante a máxima velocidad.</div><div><br></div><div>- AlejandraRoa con múltiples viajes, bajo su record: Dubai 2019, Rumania 2019, Rumania 2021 y Dubai 2021; está muy cerca de sumarle otro sello internacional al pasaporte después de ganar el bono de las 120hrs, que la hace participe al 50% adicional de lo que genere en el periodo actual DIC22 - ENE04. Sumándole que recientemente ganó por segunda vez el máximo galardón que otorga Models1A: \"Premio a la excelencia 2019 y 2021\".</div><div>Teniendo en cuenta que de lograr el primer lugar de esta competencia, seria nominada nuevamente como Mejor Modelo Colombia 2022 en tarima internacional, asegurándole otro viaje a dicho evento. Eso la convertiría en la única modelo de Colombia con el mayor record de nominaciones y galardones obtenidos.&nbsp;</div><div>Eso claramente es gasolina para la mente y el corazón de Roa, ya que los que amamos este trabajo sabemos que significa dicho reconocimiento y así dejarle saber al resto quién es AlejandraRoa piloteando el Red Ferrari y de qué es capaz cuando se ve en situaciones adversas.&nbsp;</div><div><br></div><div>- AntonellaBosch, con tan solo 9 meses de experiencia pone a temblar a las tops de Medellín. Hoy se monta en un Mclaren Twin turbo V8 de color naranja y sube 3 puestos de manera IMPRESIONANTE, colocándose de 4to lugar con una ventaja de más de $800.00 USD.&nbsp;</div><div>Felicitaciones a AntonellaBosch quien fue la modelo con la mayor cantidad de horas en el periodo pasado, logró 128hrs y obtiene el bono de Jasmin del 50% adicional de sus próximas ventas.&nbsp;</div><div>Creo que la charla motivacional de la sede de Bogotá les abrió la mente a muchas y hoy en día se ven resultados y las ganas de triunfar.</div><div>Hasta el momento hay 7 modelos en el top 20 de Bogotá.&nbsp;</div><div><br></div><div>- ¿Le apostará EmmaCrox al sorteo del puesto #8 al #15? ¿Le apostará más bien a dar la pelea hasta el último minuto? ¿Quizás busque que otra se canse y tire la toalla? O tal vez que llegue el big tipper a montarla en el avión. Como dicen por ahí, \"amanecerá y veremos\", ya que los próximos días serán decisivos.&nbsp;</div><div><br></div><div>- ¿Se motivará KataDiaz? una modelo que cuenta con un gran potencial y que fácilmente puede entrar al top 7. Todo depende sí se mentaliza y se convence de dar el 100% y trabajar inteligentemente y así apostar a ganar.&nbsp;</div><div><br></div><div>- VickyBaez, con más de 5 años de experiencia y con un promedio por hora de ventas altísimo podrá mentalizarse y darle un giro a esta competencia para entrar al top 7 nuevamente y asegurar su posición.&nbsp;</div><div><br></div><div>En la actualidad:&nbsp;</div><div><br></div><div>- MelisaJohnson lidera la competencia por una diferencia de $3,000.00 USD&nbsp;</div><div><br></div><div>- RuddyRodriguez con ganas de subir al segundo lugar y demostrar que a pesar de no andar en Ferrari o en Lamborghini les deja saber a las demás q tal vez se monta en un Bugatti y termina de primera en la competencia. ¿Logrará un premio a la excelencia 2022? ¿Nominación a Best Colombian Model 2022 en tarima internacional?&nbsp; Ya veremos si Ruddy se monta en el carro más rápido del mundo y logra ganarle al Red Ferrari y al Yellow Lambo.&nbsp;</div><div><br></div><div>- TefyRodriguez llegó encantada de la experiencia Dubai, fue la gasolina que su mente necesitaba para enfocarse más que nunca, para así trabajar de manera muy inteligente manteniéndose siempre entre las top 7.&nbsp;</div><div><br></div><div>- GabrielaParisi llena de ilusión y de mucha motivación después de ganar el premio Modelo revelación del año 2021. Con tan solo 9 meses de experiencia se mantiene firme en la posición número 7, con una ventaja de $2,000.00 de la posición N.8. Sin embargo, bajar la guardia en los próximos días puede poner en riesgo su clasificación, ya que detrás vienen varias modelos con ganas de subirse al avión ganador.</div><div><br></div><div><br></div><div>Remember that is not over until is over.&nbsp;</div><div><br></div><div>Hong Kong no es una obligación, es una elección.&nbsp;</div><div><br></div><div>Mucha suerte&nbsp;</div><div><br></div><div>¡Feliz navidad!</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1640373402454"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61c61c9a7bb632397372c26a/1640373402456_24%20diciembre.jpeg"
+},{
+  "_id": {
+    "$oid": "61cb512e7bb6323973751099"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": {
+    "$date": {
+      "$numberLong": "1640476800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1643760000000"
+    }
+  },
+  "titleNews": "Ganadoras Bono Navideño LiveJasmin 2021",
+  "subtitleNews": "",
+  "textNews": "<div>¡Felicitaciones! Fuimos la única empresa en Colombia en tener un número tan alto de modelos que lograron obtener el bono del 30% y hasta el 50% extra con su disciplina, constancia, determinación y el mindset 1A. Se podría decir que fue fácil pero no lo fue, haber superado los requerimientos puestos por LiveJasmin para alcanzar el tan esperado Bono Navideño 2021 deja en clara evidencia tu gran compromiso.</div><div><br></div><div>Felicitaciones a todo nuestro grupo de monitores que trabajó 24/7 ayudando a mantener el tiempo de respuesta bajo los parámetros.&nbsp;</div><div><br></div><div>En Models1A y esta industria tan competitiva hay 2 caminos:</div><div><br></div><div>Dominar y doblarle el brazo a la frustración o dejar que te domine apoderándose de tu tranquilidad y prosperidad, ya que recuerda que la frustración es y será siempre tu peor enemigo y nosotros tu mejor amigo y aliado en saber combatirla mediante charlas motivacionales, estrategias de ventas, programas, incentivos y la especialidad de la casa: los viajes internacionales.&nbsp;</div><div><br></div><div>Ser la protagonista de una bonita y exitosa carrera no es una obligación es una elección.&nbsp;</div><div><br></div><div>Es hora de continuar trabajando con ánimos y deseos de más, proyectándose a alcanzar metas que nadie más a alcanzado y que te llevarán a ser una modelo top y cumplir con tus expectativas. Recordemos que este Bono Navideño se hace efectivo sobre las ventas que se realicen en el período que va desde el 22 de diciembre hasta el 4 de enero y que cada minuto de conexión cuenta como una posibilidad más para sumar a tus ventas sobre las cuales obtendrás dicho Bono.&nbsp;</div><div><br></div><div>Este Bono Navideño es la manera más fácil de obtener dinero extra y gratis, pues ya cumpliste con los requerimientos más retadores; este período es el momento de obtener esa cantidad tan anhelada de dinero que hará que tus metas se cumplan más rápido de lo que esperabas y continuar sumando para que tu perfil sea el de una modelo top.</div><div><br></div><div>Todo el equipo de Models 1A está listo y dando de sí lo mejor con toda la energía y mentalidad ganadora que nos caracteriza.</div><div><br></div><div>Éxitos</div>",
+  "undefinedTime": "temporary",
+  "date": {
+    "$date": {
+      "$numberLong": "1640714542008"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61cb512e7bb6323973751099/1640714542015_finish.jpeg"
+},{
+  "_id": {
+    "$oid": "61e87f6ce468acc35f4fc721"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "En Models1A los resultados hablan por sí solos",
+  "subtitleNews": "",
+  "textNews": "<div>La especialidad de la casa es crear ganadoras de GANADORAS y así cambiar tu estilo de vida y manera de pensar de una manera EXPONENCIAl.&nbsp;</div><div><br></div><div>AlejandraRoa galardonada por 2 años consecutivos como la mejor modelo de Colombia en tarima internacional es sin duda una satisfacción para la empresa y un buen indicativo que lo estamos haciendo muy bien. No se trata de crear una estrella, se trata de crear múltiples talentos de alto rendimiento que se convierten en grandes ejemplos y eso nos diferencia del resto.&nbsp;</div><div><br></div><div>Models1A es la empresa que te enseña a soñar y a brillar en grande.&nbsp;</div><div><br></div><div>Recuerda que para ganar hay que estar con ganadores.</div><div><br></div><div>Juntos hacemos la diferencia.</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1642626924372"
+    }
+  },
+  "__v": 0,
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61e87f6ce468acc35f4fc721/1642626924383_ALEJANDRA+ROA.mp4"
+},{
+  "_id": {
+    "$oid": "61f06b37f27d7331e221ca6a"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "superadmin",
+    "coordinator",
+    "monitor"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "",
+  "subtitleNews": "",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1643146039437"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61f06b37f27d7331e221ca6a/1643146039439_cumplean%CC%83osOpcion2.jpg"
+},{
+  "_id": {
+    "$oid": "61fcb1b6ed250698f89c6617"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "… ESTOS SON LOS RESULTADOS”",
+  "subtitleNews": "",
+  "textNews": "<div>MelisaJohnson, un perfil que nace y se hace en Models1A-Bogotá, con tan solo 1 año y 8 meses de experiencia logra el segundo lugar de uno de los concursos más anhelados y el que promete ser el viaje de los viajes, HONG KONG 2022. Adicionalmente, Melisa fue una de las ganadoras del viaje a DUBAI 2021.</div><div><br></div><div>Se forma y se desarrolla en tiempos de pandemia donde el factor distracción no estuvo presente, lo que le ayudó a posicionar y fortalecer su cuenta.&nbsp;</div><div><br></div><div>La sede de Bogotá,&nbsp; actualmente las más grande de Models1A, cuenta con 24 habitaciones Premium, sala de reuniones con capacidad de más de 50 personas, oficina gerencial, administrativa y de diseño, 6 parqueaderos privados al interior de unas instalaciones totalmente remodeladas. Con tan solo 2 años y medio desde su apertura se ha convertido en una de las sedes más competitivas y de mayor crecimiento. Nos llena de mucho orgullo ver cómo expandimos y llevamos la fórmula ganadora, logrando resultados exponenciales fuera de nuestra casa natal, Medellín.</div><div><br></div><div>Con esto reiteramos que tener objetivos claros, disciplina, enfoque, pasión, visión, las ganas y el hambre de éxito son los ingredientes principales para alcanzarlo.</div><div><br></div><div>¡Models1A te reta a ser mejor!</div><div><br></div><div>The Red Fashion Gala</div><div>Awards Ceremony</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1643950518107"
+    }
+  },
+  "__v": 0,
+  "thumbnail": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fcb1b6ed250698f89c6617/1643950524038_Captura%20de%20Pantalla%202022-02-03%20a%20la%28s%29%2011.49.02%20p.m..png",
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fcb1b6ed250698f89c6617/1643950518116_MELISA+JOHNSON.mp4"
+},{
+  "_id": {
+    "$oid": "61fcb533ed250698f89c6950"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "TBT - OCTUBRE 2020",
+  "subtitleNews": "\"CUANDO LOS OBJETIVOS ESTÁN CLAROS...",
+  "textNews": "MelisaJohnson - 5 meses<div><br></div><div>(Ver siguiente historia)</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1643951411281"
+    }
+  },
+  "__v": 0,
+  "thumbnail": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fcb533ed250698f89c6950/1643951412495_Captura%20de%20Pantalla%202022-02-04%20a%20la%28s%29%2012.08.23%20a.m..png",
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fcb533ed250698f89c6950/1643951908178_IMG_1275.mov"
+},{
+  "_id": {
+    "$oid": "61fcb7b5ed250698f89c6ab7"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "",
+  "subtitleNews": "\"CUANDO LOS OBJETIVOS ESTÁN CLAROS...",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1643952053369"
+    }
+  },
+  "__v": 0,
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fcb7b5ed250698f89c6ab7/1643952053379_IMG_1275.mov"
+},{
+  "_id": {
+    "$oid": "61fd6379ed250698f89cb4a4"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "...ESTOS SON LOS RESULTADOS” ",
+  "subtitleNews": "",
+  "textNews": "<div>MelisaJohnson, un perfil que nace y se hace en Models1A-Bogotá, con tan solo 1 año y 8 meses de experiencia logra el segundo lugar de uno de los concursos más competitivos y el que promete ser el viaje de los viajes, HONG KONG 2022. Adicionalmente, Melisa fue una de las ganadoras del viaje a DUBAI 2021.</div><div><br></div><div>Se forma y se desarrolla en tiempos de pandemia donde el factor distracción no estuvo presente, lo que le ayudó a posicionar y fortalecer su cuenta.&nbsp;</div><div><br></div><div>La sede de Bogotá,&nbsp; actualmente la más grande de Models1A, cuenta con 24 habitaciones Premium, sala de reuniones con capacidad de más de 50 personas, oficina gerencial, administrativa y de diseño, 6 parqueaderos privados al interior de unas instalaciones totalmente remodeladas. Con tan solo 2 años y medio desde su apertura, se ha convertido en una de las sedes más competitivas y de mayor crecimiento, esto nos llena de mucho orgullo ver cómo expandimos y llevamos la fórmula ganadora a otras ciudades, logrando así resultados exponenciales fuera de nuestra casa natal, Medellín.</div><div><br></div><div>Con esto reiteramos que tener objetivos claros, disciplina, enfoque, pasión, visión, las ganas y el hambre de éxito son los ingredientes para convertirte en una ganadora de talla internacional.</div><div><br></div><div>¡Models1A te reta a ser mejor!</div><div><br></div><div>The Red Fashion Gala</div><div>Awards Ceremony</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1643996025922"
+    }
+  },
+  "__v": 0,
+  "thumbnail": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fd6379ed250698f89cb4a4/1643996031456_Captura%20de%20Pantalla%202022-02-03%20a%20la%28s%29%2011.49.02%20p.m..png",
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fd6379ed250698f89cb4a4/1643996025931_MELISA+JOHNSON.mp4"
+},{
+  "_id": {
+    "$oid": "61fd6432ed250698f89cb4fb"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "TBT - OCTUBRE 2020",
+  "subtitleNews": "\"CUANDO LOS OBJETIVOS ESTÁN CLAROS...",
+  "textNews": "<span id=\"docs-internal-guid-0e655fea-7fff-e3e3-dcf8-aaa9fd2e5133\"><span style=\"font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Melisa Johnson - 5 meses </span></span><div><span><span style=\"font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br></span></span></div><div><span><span style=\"font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">(Ver siguiente historia)</span></span></div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1643996210963"
+    }
+  },
+  "__v": 0,
+  "thumbnail": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fd6432ed250698f89cb4fb/1643996212085_Captura%20de%20Pantalla%202022-02-04%20a%20la%28s%29%2012.08.23%20a.m..png",
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fd6432ed250698f89cb4fb/1643996210969_IMG_1275.mp4"
+},{
+  "_id": {
+    "$oid": "61fee22eed250698f89da4be"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "THE RED FASHION GALA - The full video",
+  "subtitleNews": "Celebrando lo que fuimos, somos y SEREMOS.",
+  "textNews": "<div>La Gran Familia de Models1A se viste de Gala para recibir a todos nuestros grandes talentos de diferentes ciudades del país en una alfombra roja llena de elegancia, sueños y muchas metas cumplidas y otras por cumplir, Models1A siempre se ha caracterizado por llevar LA EXPERIENCIA 1A a otro nivel y este año no fue la excepción.&nbsp;</div><div><br></div><div>Han sido más de 9 años de impecable trayectoria haciendo lo que mejor sabemos hacer: cambiar y mejorar el estilo de vida de muchas personas. Ha sido un camino largo de mucho aprendizaje y de muchas adversidades, pero también de momentos de gloria e historia como estos.</div><div><br></div><div>Models1A es una familia de grandes ganadoras, en donde aprenderás a pensar de manera EXPONENCIAL, a romper con lo SOCIAL, el \"qué dirán\" y así subir rápidamente al nivel PRESIDENCIAL.&nbsp;</div><div><br></div><div>Es un orgullo liderar a este grupo de estrellas que depositaron su confianza en nuestro proceso de creación, formación y expansión; personas que decidieron salir de la zona de confort, que apostaron sin temor, pero con mucha convicción y hoy son grandes GANADORAS.&nbsp;</div><div><br></div><div>En Models1A solo hay un \"plan A\", porque cuando existe un plan B o C, sencillamente no logras los objetivos para cambiar y mejorar tu estilo de vida y la tan anhelada independencia económica, debido al factor DISTRACCIÓN. \"Enfócate y verás los resultados\".&nbsp;</div><div><br></div><div>Se unen dos generaciones de modelos altamente competitivas, donde la apuesta es siempre lograr un GANAR/GANAR y el requisito principal para lograrlo es el “nunca rendirse”.</div><div><br></div><div>Recuerda que cuando piensas de manera exponencial entiendes que no se trata de trabajar fuerte, si no de trabajar inteligentemente con estrategias de ventas, con un equipo altamente calificado, disponible las 24/7 y sobre todo, con el liderazgo, pasión y visión que nos caracterizan para hacer que cosas como estas sucedan.&nbsp;</div><div><br></div><div>The Red Fashion Gala&nbsp;</div><div>Awards Winners Ceremony</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1644093998460"
+    }
+  },
+  "__v": 0,
+  "thumbnail": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fee22eed250698f89da4be/1644094004010_DSC01285.jpg",
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/61fee22eed250698f89da4be/1644093998466_Guetta+Fiesta+Colosal+2021+Final.mp4"
+},{
+  "_id": {
+    "$oid": "62086fee3a7d33f83f140d0e"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "superadmin",
+    "coordinator",
+    "monitor"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "",
+  "subtitleNews": "",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1644720110439"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/62086fee3a7d33f83f140d0e/1644720110441_cumplean%CC%83os%20feb.jpg"
+},{
+  "_id": {
+    "$oid": "62089d613a7d33f83f14287f"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "superadmin",
+    "coordinator",
+    "monitor"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "",
+  "subtitleNews": "",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1644731745737"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208a4043a7d33f83f142a91"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [
+    {
+      "$oid": "618f2612f7a3414300faebe8"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebe9"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf0"
+    },
+    {
+      "$oid": "618eeab59afe5a5e3b065395"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebea"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebec"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebed"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebee"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebef"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf1"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf2"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf3"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf4"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf5"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf6"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf7"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf8"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf9"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebfa"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebfb"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebfc"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec07"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec08"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec09"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec0b"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec0c"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec01"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec02"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec03"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec05"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec06"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebfd"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebfe"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebff"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec00"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec68"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec12"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec50"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec6c"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec2e"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec51"
+    },
+    {
+      "$oid": "61b2402fb1020f767bae1c3a"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec31"
+    },
+    {
+      "$oid": "618f2c5ff7a3414300faec37"
+    }
+  ],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Bono de Streamate - valentine's day",
+  "subtitleNews": "",
+  "textNews": "STREAMATE te da la oportunidad para que disfrutes de un 30% más de ganancias en los ingresos de los días 13 y 14 de Febrero (GMT).&nbsp;<div>Acompaña a tus usuarios en este día lleno de romance y sensualidad dejando en ellos una experiencia inolvidable y llena de ganancias para tí.</div><div><br></div><div>Requisitos:</div><div>- Transmitir durante los días 13 y 14 de Febrero.</div><div>- Ganar al menos 25 USD.</div><div><br></div><div>Al final de la semana se verán reflejadas las ganancias extras de ambos días. Recuerda que entre más horas de conexión hagas, mayores serán los ingresos que aplicarán al bono del 30% extra.</div><div><br></div><div>Adicional a esto, al estar conectada entre el 13 y el 19 de Febrero tienes la posibilidad de recibir dinero adicional de acuerdo a tu posición en el ranking de la semana. Recuerda, los primeros 1.000 puestos obtienen regalos que van desde 100USD hasta 7.500USD extra.</div><div><br></div><div>Nuestro equipo de trabajo Models1A está siempre listo para apoyarte en todo este proceso y ayudarte a llegar más allá.</div><div><br></div><div><br></div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1644733444703"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/6208a4043a7d33f83f142a91/1644733444706_Captura%20de%20Pantalla%202022-02-13%20a%20la%28s%29%2012.53.44%20a.m..png"
+},{
+  "_id": {
+    "$oid": "620aa6c03a7d33f83f14b5f9"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "superadmin",
+    "coordinator",
+    "monitor"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Feliz Cumpleaños",
+  "subtitleNews": "",
+  "textNews": "Feliz Cumpleaños en nombre de la empresa a todos aquellos que cumplen en este mes de febrero; deseándoles muchos éxitos y crecimiento en compañía de la familia Models1A.<br><br>¡Juntos hacemos la diferencia!",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1644865216763"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/620aa6c03a7d33f83f14b5f9/1644865216767_cumplean%CC%83os%20feb.jpg"
+},{
+  "_id": {
+    "$oid": "620c68483a7d33f83f15e602"
+  },
+  "city": [
+    "Medellín"
+  ],
+  "userType": [
+    "coordinator",
+    "monitor"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "reunión monitores",
+  "subtitleNews": "",
+  "textNews": "When we have no option but to succeed!",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1644980296891"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/620c68483a7d33f83f15e602/1644980296893_Invitacion%20Monitores%20MED.jpg"
+},{
+  "_id": {
+    "$oid": "620c68d03a7d33f83f15e66f"
+  },
+  "city": [
+    "Cúcuta"
+  ],
+  "userType": [
+    "monitor"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "reunión monitores",
+  "subtitleNews": "",
+  "textNews": "<span style=\"color: rgb(0, 0, 0);\">When we have no option but to succeed!</span>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1644980432958"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/620c68d03a7d33f83f15e66f/1644980432960_Invitacion%20Monitores%20Cu%CC%81cuta.jpg"
+},{
+  "_id": {
+    "$oid": "6217bdf1de2d9ccd2201d79d"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Felicitaciones al Hall of Fame - Primer semestre 2022",
+  "subtitleNews": "",
+  "textNews": "Llegó el momento de dar reconocimiento a la gran labor de todo el equipo de Models1A que resultó en una operación exitosa y que se llevó a cabo durante del mes de diciembre del 2021, donde rompimos todos los records, tanto individuales como globales, lo cual es un indicativo y demuestra que “lo estamos haciendo muy bien”. Con esto reafirmamos que diciembre es sin duda el mes más competitivo y de mayores resultados y es por eso que Models1A presenta y premia, por tercer año consecutivo, con el plato fuerte de la casa: un viaje sin precedentes, lleno de momentos inolvidables que generan “el efecto WOW” como sucedió en París, Luxemburgo, Frankfurt, Austria, Amsterdam,  Budapest, Rumania y Dubai 2018-2021, donde 12 modelos han tenido la oportunidad de vivir LA EXPERIENCIA 1A en todo su esplendor. Cosas como estás te harán pensar diferente y te convertirán en una modelo ganadora y de talla internacional.\r\n\r\n\r\nA continuación les presentamos las 7 ganadoras del concurso Hong Kong 2022:&nbsp;<div><br></div><div>1. AlejandraRoa&nbsp;</div><div>Con casi 4 años de formación, disciplina y alto nivel de compromiso demostró ser una ganadora de ganadoras al llevarse el Primer Lugar de la competencia, lo que automáticamente la nómina a la categoría más importante de la industria: “Female Model of the Year, 2022”, luego de haber sido galardonada 2 veces como “Best Colombian Model, 2019 y 2021” en tarima internacional, esta nueva nominación la convertiría en la modelo latina con la mayor cantidad de nominaciones y galardones. En Models1A, juntos hemos hecho Historia y la seguiremos haciendo, porque para ganar hay que estar con ganadores.&nbsp;</div><div><br></div><div>2. MelisaJohnson&nbsp;</div><div>De la ciudad de Bogotá, con tan solo 1 año y 8 meses, con inteligencia, alto nivel de compromiso y competitividad estuvo muy cerca de llevarse el Primer Lugar. Esto nos hace sentir muy orgullosos ya que la Fórmula Ganadora traspasó las fronteras de nuestra ciudad natal, Medellín. Tuvo la oportunidad de disfrutar de LA EXPERIENCIA 1A en Dubai 2021, lo que la motivó a prepararse para darlo todo en este nuevo concurso.&nbsp;</div><div><br></div><div>3. RuddyRodriguez</div><div>Con 2 años y medio de experiencia logra un tercer lugar y se posiciona como otra ganadora de ganadoras. Luego de la invitación a Rumania 2021 por parte de la empresa, se encuentra en el epicentro de la industria webcam y rodeada de grandes modelos internacionales lo cual despertó en ella ganas de “ir por más” y lo logró. ¡Bienvenida a bordo!&nbsp;</div><div><br></div><div>4. GabrielaParisi</div><div>Nace y se hace en Models1A, con tan solo 9 meses de experiencia logra un impresionante cuarto lugar. En el último día de la competencia el factor “luchar hasta el final” la hizo ascender de la posición siete a la posición cuatro, demostrando que la disciplina supera al talento, ya que no se trata del tiempo sino de hacer un buen entretenimiento y es lo que Models1A viene haciendo por los últimos 9 años. Parisi rompe con el estereotipo de “siempre van las mismas” y manda un mensaje a todas de que “el querer es poder”.&nbsp;</div><div><br></div><div>5. AntonellaBosch&nbsp;</div><div>Es la segunda ganadora de la sede de Bogotá y con 10 meses de experiencia, de manera sorprendente se posiciona en el quinto lugar, otro claro ejemplo de que “el mañana se construye con ganas”. Verse dentro del top 10, rodeada de modelos altamente competitivas desde el inicio del concurso fue la motivación y el factor determinante que generó resultados impresionantes. Antonella es parte de la nueva generación de ganadoras de Models1A, que se sube al avión ganador.&nbsp;</div><div><br></div><div>6. TefyRodriguez</div><div>A punto de cumplir 4 años este febrero de 2022 y después de vivir la experiencia Ferrari y Lamborghini en Dubai 2021, llega a Medellín a su máxima velocidad, demostrando su capacidad de Top Model y logra así su segundo viaje con la empresa.<u><font color=\"#000000\"> En 4 años muchas cosas pasarán, cambios vendrán, muchas te dirán “no lo vas a lograr y no vas a durar”, pero la clave del éxito está en “nunca abandonar” tu proceso</font></u> porque “rendirse jamás será una opción”. <b><font color=\"#000000\">Muchas se han ido pero Tefy nunca se ha rendido.</font></b>&nbsp;</div><div><br></div><div>7. GabyPastori</div><div>Con 3 años de experiencia y galardonada como “Mejor Modelo Emergente 2020” y “Best Ambassador 2021”, Gaby se sube por primera vez al avión ganador y vivirá la EXPERIENCIA ASIÁTICA en el viaje que promete ser el mejor de los mejores. ¡En Models1A we love challenges! ya que los retos nos impulsan y nos motivan a sacar la mejor versión de nosotros mismos, a ser disciplinados, competitivos, a perder los miedos y romper con los tabús.&nbsp;</div><div><br></div><div>Todo esto y mucho más lo aprenderás en Models1A</div><div><br></div><div>We are always hungry for more&nbsp;</div><div><br></div><div>La Gerencia\r\n</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1645723121179"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/6217bdf1de2d9ccd2201d79d/1645723121184_Wallpaper.jpeg"
+},{
+  "_id": {
+    "$oid": "621982bcde2d9ccd220378fb"
+  },
+  "city": [
+    "Bogotá"
+  ],
+  "userType": [
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "JORNADA DE MANTENIMIENTO PREVENTIVO SEDE BOGOTÁ",
+  "subtitleNews": "",
+  "textNews": "Desde el domingo 27 de febrero a las 6:00 am hasta el lunes 28 de febrero a las 6:00 am, la sede Bogotá estará en jornada de mantenimiento preventivo a todo nuestro sistema  de internet y equipos de computación. Por este motivo no tendremos horario de conexión entre estas horas.&nbsp;<div><br></div><div>Recuerda, detenemos labores el domingo a las 6 de la mañana y retomamos el lunes a las 6 de la mañana de manera normal.&nbsp;</div><div><br></div><div>Juntos hacemos la diferencia&nbsp;</div><div><br></div><div>Models1A</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1645839036813"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621982bcde2d9ccd220378fb/1645839036816_manteni_Mesa%20de%20trabajo%201.jpeg"
+},{
+  "_id": {
+    "$oid": "62198b3bde2d9ccd22037cba"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "coordinator",
+    "monitor"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "JORNADA DE MANTENIMIENTO PREVENTIVO SEDE BOGOTÁ",
+  "subtitleNews": "",
+  "textNews": "Desde el domingo 27 de febrero a las 6:00 am hasta el lunes 28 de febrero a las 6:00 am, la sede Bogotá estará en jornada de mantenimiento preventivo a todo nuestro sistema de internet y equipos de computación. Por este motivo no tendremos horario de conexión entre estas horas.&nbsp;<div><br></div><div>Recuerda, detenemos labores el domingo a las 6 de la mañana y retomamos el lunes a las 6 de la mañana de manera normal.&nbsp;</div><div><br></div><div>Juntos hacemos la diferencia&nbsp;</div><div><br></div><div>Models1A</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1645841211133"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/62198b3bde2d9ccd22037cba/1645841211137_manteni_Mesa%20de%20trabajo%201.jpeg"
+},{
+  "_id": {
+    "$oid": "621a62b7de2d9ccd2203fe67"
+  },
+  "city": [
+    "Bogotá"
+  ],
+  "userType": [
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "JORNADA DE MANTENIMIENTO PREVENTIVO SEDE BOGOTÁ",
+  "subtitleNews": "",
+  "textNews": "Desde el domingo 27 de febrero a las 6:00 am hasta el lunes 28 de febrero a las 6:00 am, la sede Bogotá estará en jornada de mantenimiento preventivo a todo nuestro sistema de internet y equipos de computación. Por este motivo no tendremos horario de conexión entre estas horas.&nbsp;<div><br></div><div>Recuerda, detenemos labores el domingo a las 6 de la mañana y retomamos el lunes a las 6 de la mañana de manera normal.&nbsp;</div><div><br></div><div>Juntos hacemos la diferencia \r\n</div><div><br></div><div>Models1A</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1645896375250"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621a62b7de2d9ccd2203fe67/1645896375253_manteni_Mesa%20de%20trabajo%201.jpeg"
+},{
+  "_id": {
+    "$oid": "621d36a8301ee1fef8a6d02d"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "THE DUBAI EXPERIENCE By Models1A",
+  "subtitleNews": "Beyond Expectations",
+  "textNews": "Porque hay niveles de niveles, y éste es el nivel más alto que la industria en Colombia haya visto en cuanto a producciones audiovisuales y de talla internacional se refiere.\r\n\r\nEs un orgullo y nos llena de mucha satisfacción ver el resultado final y decir: \"WOW\".<div><br></div><div>Models1A, la empresa que ha demostrado un gran liderazgo, buenas estrategias, mucha creatividad, originalidad y un alto nivel de compromiso y competitividad. Además, un equipo de primera que está siempre disponible para tu desarrollo 24/7/365.&nbsp;</div><div><br></div><div>Líderes y #1 en el formato de plataformas privadas en toda América Latina. Galardonados por más de 4 años consecutivos como \"La Mejor Empresa del Entretenimiento Web\".\r\n\r\nActualmente, Models1A es una referencia mundial dentro de la industria, es la “Universidad” donde nacen y se hacen grandes profesionales y se convierten rápidamente en estrellas digitales. Es el lugar que rompe con el molde, donde aprenderás a salir de tu zona de confort; te brindarán una excelente formación y guía que te hará alcanzar niveles nunca antes visto.&nbsp;</div><div><br></div><div>Models1A viene cambiando y mejorando vidas desde el 2013, y lo seguiremos haciendo por muchos años más, ya que nuestra sed de éxito y el hambre de querer llegar más alla es insaciable. Mientras tanto seguimos innovando y mejorando la fórmula GANADORA.&nbsp;<br></div><div><br></div><div>Únete a este equipo de ganadoras y conviértete tú también en la próxima top model. Te llevaremos al siguiente nivel y generaremos en ti ese efecto wow que tanto diferencia a nuestras modelos.&nbsp;<br></div><div><br></div><div>Models1A&nbsp;</div><div>Beyond Expectations<br></div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1646081704362"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621d36a8301ee1fef8a6d02d/1646081704365_new%20dubai.jpg",
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621d36a8301ee1fef8a6d02d/1646081704521_Dubai+Instagram+%281%29.mp4"
+},{
+  "_id": {
+    "$oid": "621d3ba8301ee1fef8a6d24b"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "THE DUBAI EXPERIENCE By Models1A",
+  "subtitleNews": "Beyond Expectations",
+  "textNews": "<div style=\"text-align: left;\">Porque hay niveles de niveles, y éste es el nivel más alto que la industria en Colombia haya visto en cuanto a producciones audiovisuales y de talla internacional se refiere.&nbsp;</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Es un orgullo y nos llena de mucha satisfacción ver el resultado final y decir: \"WOW\".</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Models1A, la empresa que ha demostrado un gran liderazgo, buenas estrategias, mucha creatividad, originalidad y un alto nivel de compromiso y competitividad. Además, un equipo de primera que está siempre disponible para tu desarrollo 24/7/365.&nbsp;</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Líderes y #1 en el formato de plataformas privadas en toda América Latina. Galardonados por más de 4 años consecutivos como \"La Mejor Empresa del Entretenimiento Web\".&nbsp;</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Actualmente, Models1A es una referencia mundial dentro de la industria, es la “Universidad” donde nacen y se hacen grandes profesionales y se convierten rápidamente en estrellas digitales. Es el lugar que rompe con el molde, donde aprenderás a salir de tu zona de confort; te brindarán una excelente formación y guía que te hará alcanzar niveles nunca antes visto.&nbsp;</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Models1A viene cambiando y mejorando vidas desde el 2013, y lo seguiremos haciendo por muchos años más, ya que nuestra sed de éxito y el hambre de querer llegar más alla es insaciable. Mientras tanto seguimos innovando y mejorando la fórmula GANADORA.&nbsp;<br></div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Únete a este equipo de ganadoras y conviértete tú también en la próxima top model. Te llevaremos al siguiente nivel y generaremos en ti ese efecto wow que tanto diferencia a nuestras modelos.&nbsp;<br></div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">&nbsp;Models1A&nbsp;</div><div style=\"text-align: left;\">&nbsp;Beyond Expectations<br></div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1646082984191"
+    }
+  },
+  "__v": 0,
+  "thumbnail": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621d3ba8301ee1fef8a6d24b/1646082989392_new%20dubai.jpg",
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621d3ba8301ee1fef8a6d24b/1646082984198_Dubai+Instagram+%281%29.mp4"
+},{
+  "_id": {
+    "$oid": "621d5fd6aa2cd101d0b6bbf0"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "THE DUBAI EXPERIENCE By: Models1A",
+  "subtitleNews": "Beyond Expectations",
+  "textNews": "<div>Porque hay niveles de niveles, y éste es el nivel más alto que la industria en Colombia haya visto en cuanto a producciones audiovisuales y de talla internacional se refiere.<br></div><div><br></div><div>Es un orgullo y nos llena de mucha satisfacción ver el resultado final y decir: \"WOW\".</div><div><br></div><div>Models1A, la empresa que ha demostrado un gran liderazgo, buenas estrategias, mucha creatividad, originalidad y un alto nivel de compromiso y competitividad. Además, un equipo de primera que está siempre disponible para tu desarrollo 24/7/365.</div><div><br></div><div>Líderes y #1 en el formato de plataformas privadas en toda América Latina. Galardonados por más de 4 años consecutivos como \"La Mejor Empresa del Entretenimiento Web\".</div><div><br></div><div>Actualmente, Models1A es una referencia mundial dentro de la industria, es la “Universidad” donde nacen y se hacen grandes profesionales y se convierten rápidamente en estrellas digitales. Es el lugar que rompe con el molde, donde aprenderás a salir de tu zona de confort; te brindarán una excelente formación y guía que te hará alcanzar niveles nunca antes visto.</div><div><br></div><div>Models1A viene cambiando y mejorando vidas desde el 2013, y lo seguiremos haciendo por muchos años más, ya que nuestra sed de éxito y el hambre de querer llegar más alla es insaciable. Mientras tanto seguimos innovando y mejorando la fórmula GANADORA.</div><div><br></div><div>Conviértete tú también en la próxima <b><font color=\"#000000\">TOP MODEL </font></b>y disfruta de grandes beneficios como la oportunidad de viajar con expertos y conocer el mundo desde otra perspectiva. Súbete al jet del progreso y cambia tu manera de pensar, la zona de confort es un estado de complacencia y de poco avance.&nbsp;</div><div><br></div><div>Recuerda que para ser los numeros #1 no podemos hacer lo que los otros 99 estan haciendo. Creemos en tu potencial y estamos seguros que trabajando juntos haremos la gran diferencia.&nbsp;</div><div><br></div><div>Models1A</div><div>Beyond Expectations\r\n</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1646092246439"
+    }
+  },
+  "__v": 0,
+  "thumbnail": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621d5fd6aa2cd101d0b6bbf0/1646092252145_GRANDEIMG_5814.jpg",
+  "videoNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621d5fd6aa2cd101d0b6bbf0/1646092246450_Dubai+Instagram+%281%29.mp4"
+},{
+  "_id": {
+    "$oid": "621d9973aa2cd101d0b6e8af"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": false,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "test",
+  "subtitleNews": "",
+  "textNews": "test",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1646106995417"
+    }
+  },
+  "__v": 0,
+  "thumbnail": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621d9973aa2cd101d0b6e8af/1646106995419_Portada.gif"
+},{
+  "_id": {
+    "$oid": "621eefeaaa2cd101d0b81a2c"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "feliz cumpleaños",
+  "subtitleNews": "",
+  "textNews": "Models1A le desea un FELIZ CUMPLEAÑOS a quienes cumplieron en el mes de febrero. Que este sea un año más para alcanzar grandes metas en compañía de los mejores.<div><br></div><div>¡Juntos hacemos la diferencia!</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1646194666250"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/621eefeaaa2cd101d0b81a2c/1646194666253_cumplea%C3%B1osmodelsFebrero.jpg"
+},{
+  "_id": {
+    "$oid": "6223c2f940a5654007e18a26"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "",
+  "subtitleNews": "Este cambio se hace efectivo a partir de lunes 7 de marzo del 2022.",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1646510841555"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/6223c2f940a5654007e18a26/1646510841558_WhatsApp%20Image%202022-03-05%20at%2011.58.43%20AM%20%281%29.jpeg"
+},{
+  "_id": {
+    "$oid": "6223c4f440a5654007e18c78"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "BONO DE DESARROLLO - MODELS1A ",
+  "subtitleNews": "",
+  "textNews": "¡Models1A siempre apuesta a ganar y es por eso que el Welcome Bonus se extiende por los primeros 2 meses!<div><br></div><div>Ahora tienes la oportunidad de generar dinero adicional garantizado y así poder invertir, semana a semana, en lo que tu perfil necesita para impulsarte y convertirte en una modelo top.</div><div><br></div><div>Models1A presenta la tabla de \"bonos de desarrollo\" como factor diferencial, que te ayuda a proyectarte a alcanzar tus metas más rápido y de manera más efectiva. Recuerda que son varios elementos necesarios para ser una modelo de talla internacional, invertir en tu proceso es uno y Models1A te acompaña y te brinda lo mejor para que lo logres.</div><div><br></div><div>Este cambio se hace efectivo a partir del lunes 7 de marzo del 2022.</div><div><br></div><div>A continuación podrás ver la distribución del Welcome Bonus y los bonos habituales por mes.&nbsp;</div><div><br></div><div>Models1A, ¡fábrica de ganadoras!</div><div><br></div><div>¡Donde nacen y se hacen!</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1646511348305"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/6223c4f440a5654007e18c78/1646511348307_WhatsApp%20Image%202022-03-05%20at%2011.58.43%20AM.jpeg"
+},{
+  "_id": {
+    "$oid": "6226d54140a5654007e2e216"
+  },
+  "city": [
+    "Bogotá"
+  ],
+  "userType": [
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "calendario de registro de huellas",
+  "subtitleNews": "",
+  "textNews": "Bogotá estrena nueva forma de acceder a la sede. Solo con tu huella podrás ingresar de forma automática, rápida y más segura.<div><br></div><div>Para esto hemos programado una jornada de registro de huellas en la oficina de administración, en los siguientes días:&nbsp;</div><div><br></div><div><ul><li>Martes 8 de Marzo de 9:30 am a 4:30 pm&nbsp; &amp;&nbsp; de 9:30 pm a 10:20 pm.</li><li>Miércoles y Jueves&nbsp;\r\n\r\n<!--StartFragment-->de 9:30 am a 4:30 pm.<!--EndFragment--></li></ul><div><br></div></div><div>No te quedes sin registrar tu huella.<br><br>Models1A</div><div><br></div><div>¡Always hungry for more!</div>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1646712129727"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/6226d54140a5654007e2e216/1646712129729_jornada_Mesa%20de%20trabajo%201.jpg",
+  "archive": false
+},{
+  "_id": {
+    "$oid": "622a4d0140a5654007e553c4"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "FELICITACIONES NEWBIES",
+  "subtitleNews": "Semana del 28 de febrero al 07 de marzo",
+  "textNews": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"p1\">Felicidades a esta nueva generación de ganadoras que lograron destacarse dentro de las mejores Top 100 de la plataforma LiveJasmin, una de las más exclusivas, glamurosa y exigente a nivel mundial.<span class=\"Apple-converted-space\">&nbsp;</span></p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">Es muy importante que todos entendamos que los dos primeros meses de la modelo son fundamentales en cuanto a tráfico y crecimiento se refiere. Es por eso que hacemos un llamado a todas aquellas modelos que estén por debajo de los dos meses y que estén dentro de la categoría de <b><font color=\"#000000\">NEWBIES</font></b> y quieran cambiar su vida rápidamente, a que se unan y participen en el concurso semanal, el cual las ayudará a posicionarse entre las mejores del mundo, atrayendo usuarios de alto perfil que se verán motivados a gastar mucho más en ti.</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">Models1A nunca para de sorprenderte y hace efectiva, a partir de esta semana (del 7 al 14 de marzo), una nueva tabla de bonos adicionales que se pagarán<span class=\"Apple-converted-space\">&nbsp;</span>semanalmente de acuerdo al posicionamiento final.<span class=\"Apple-converted-space\">&nbsp;</span></p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">1er <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>puesto<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp;$&nbsp;&nbsp;</span>1'000.000</p>\r\n<p class=\"p1\">2do<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp;</span>puesto<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; $&nbsp;&nbsp;</span>750.000</p>\r\n<p class=\"p1\">3er <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp;</span>puesto<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; $&nbsp;&nbsp;</span>550.000</p>\r\n<p class=\"p1\">4-20<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp;</span>puesto<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;$&nbsp;</span>400.000</p>\r\n<p class=\"p1\">21-50 <span class=\"Apple-converted-space\">&nbsp; &nbsp;</span>puesto <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; $&nbsp;&nbsp;</span>300.000</p>\r\n<p class=\"p1\">51-75 <span class=\"Apple-converted-space\">&nbsp; &nbsp; </span>puesto <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp;$&nbsp; &nbsp;</span>200.000</p>\r\n<p class=\"p1\">76-100 <span class=\"Apple-converted-space\">&nbsp;</span>puesto <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp;$&nbsp; &nbsp;</span>100.000</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">NOTA: Recordemos que LiveJasmin es una pagina europea y trabajamos dentro del horario europeo, es decir que el concurso inicia cada lunes a las 6:00am y termina el siguiente lunes a las 5:59 am (hora Colombia).&nbsp;</p>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1646939393193"
+    }
+  },
+  "__v": 0,
+  "imageNews": "https://new-web-site-bucket.s3.amazonaws.com/autologin/news/622a4d0140a5654007e553c4/1646963858505_Newbies+v4.jpeg",
+  "archive": true
+},{
+  "_id": {
+    "$oid": "623142e01c44695b4c70511c"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Felicitaciones ganadoras",
+  "subtitleNews": "semana del 07 al 14 de marzo",
+  "textNews": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"p1\">Felicidades a esta nueva generación de ganadoras que lograron destacarse dentro de las mejores Top 100 en las diferentes categorías de la plataforma LiveJasmin, una de las más exigentes, glamurosa y competitiva a nivel mundial.</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">A continuación presentamos el cuadro ganador de la semana del 07 al 14 de marzo, las cuales se destacaron por su alto nivel de compromiso, disciplina, exigencia y buen trabajo en equipo, factores determinantes en la ruta para alcanzar el éxito y ser una <b><font color=\"#000000\" size=\"4\"><u>Modelo Top</u></font></b>.</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">En la categoría Newbies, debido a la alta exigencia que ésta demanda y a la importancia que presenta durante el proceso inicial de la modelo, Models1A se complace en entregar estos bonos adicionales en efectivo con el propósito de motivar e incentivar a estas modelos en Desarrollo.</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">Es importante mencionar que las otras categorías tales como Goodie basket y Fan Club, son una herramienta de exposición fundamental que abren e impulsan nuevos canales de tráfico, ventas y fidelización de los usuarios.</p><p class=\"p1\"><br></p>\r\n<p class=\"p1\">¡Models1A siempre<span class=\"Apple-converted-space\">&nbsp; </span>creando, formando y desarrollando nuevos y mejores talentos!</p><p class=\"p1\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\" size=\"4\">Ranking Newbies <span class=\"Apple-converted-space\" style=\"\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>Premios en efectivo By Models1A</font></b></p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"># 05 GabySalvatore <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>$400.000</p>\r\n<p class=\"p1\"># 19&nbsp; VivianBasset <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>$400.000<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>\r\n<p class=\"p1\"># 27 CarlaCusack<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>$300.000</p>\r\n<p class=\"p1\"># 37 AlejandraBahamon<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>$300.000</p>\r\n<p class=\"p1\"># 46 MirandaBarinova<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>$300.000</p>\r\n<p class=\"p1\"># 95 MarlaSoto<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>$100.000</p><p class=\"p1\"><br></p><p class=\"p1\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\">Ranking Goodie Basket</font></b></p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"># 01&nbsp; GabrielaCapone</p>\r\n<p class=\"p1\"># 07 JannaMiranda</p>\r\n<p class=\"p1\"># 09 AlejandraBahamon</p>\r\n<p class=\"p1\"># 30 MarianaBallack</p>\r\n<p class=\"p1\"># 41&nbsp; ValentinaLima</p>\r\n<p class=\"p1\"># 43 KataStone</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\">Ranking Fan Club</font></b></p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"># 43 GabySalvatore</p>\r\n<p class=\"p1\"># 85 ValentinaLima</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">¡Únete al cuadro ganador y disfruta de más beneficios!</p>",
+  "undefinedTime": "handmade",
+  "imageNews": "https://cdn.models1a.com/autologin/news/8aede0ed-9cdc-ea2c-208d-c74f75789aae/1647395540177_7 - 14 marzo final-05.jpeg",
+  "filesId": "8aede0ed-9cdc-ea2c-208d-c74f75789aae",
+  "date": {
+    "$date": {
+      "$numberLong": "1647395552749"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623e0a6c1c44695b4c78f218"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Motivational Friday",
+  "subtitleNews": "Seguimos ganando - Top 100 semana del 14 al 21 de marzo",
+  "textNews": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">EL OBJETIVO #1 es crear, formar y desarrollar nuevos y mejores talentos.&nbsp;</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Acá les presentamos el cuadro ganador de la semana del 14 al 21 de marzo de las diferentes ciudades del país, que con apenas 2 meses de experiencia ya están posicionadas entre las mejores 100 modelos a nivel mundial en la categoría de Newbies (modelos recientes).&nbsp;</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:13.999999999999998pt;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Ranking Newbies&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Premios en efectivo By Models1A</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#03 GabySalvatore&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 550.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#07 VivianBasset &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#16 GabrielaCaprice&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#20 AlejandraBahamon&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#30 CamilaKing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 300.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#32 MirandaBarinova &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 300.000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#37 CarlaCusack&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 300.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:13.999999999999998pt;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Ranking Fan Club</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#01 GabrielaCaprice</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#18 KathiaMendoza</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:13.999999999999998pt;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Ranking Goodie Basket</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#02 Marlathompson</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#15 GabrielaCapone</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#24 KarenFernandez</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#36 ArianaMendoza</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#53 MarianaBallack</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#68 GabySalvatore</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#96 KassandraKano</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:13.999999999999998pt;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Ranking Videos</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#5b5957;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#83 ErikaHoffman</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">En la categoría Newbies, debido a la alta exigencia que ésta demanda y a la importancia que presenta durante el proceso inicial de la modelo, Models1A se complace en entregar estos bonos adicionales en efectivo con el propósito de motivar e incentivar a estas modelos en Desarrollo.</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\"><span style=\"white-space: pre-wrap;\">Recordatorio tabla de bonos adicionales \"por tiempo limitado\":</span></font></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">1er &nbsp; &nbsp; &nbsp; &nbsp; puesto &nbsp; &nbsp; $&nbsp; 1'000.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">2do &nbsp; &nbsp; &nbsp; puesto&nbsp; &nbsp; &nbsp; &nbsp; $&nbsp; 750.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">3er&nbsp; &nbsp; &nbsp; &nbsp; puesto&nbsp; &nbsp; &nbsp; &nbsp; $&nbsp; 550.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">4-20 &nbsp; &nbsp; puesto &nbsp; &nbsp; &nbsp; &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">21-50&nbsp; &nbsp; puesto &nbsp; &nbsp; &nbsp; &nbsp; $&nbsp; 300.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">51-75 &nbsp; &nbsp; puesto&nbsp; &nbsp; &nbsp; &nbsp; $ &nbsp;200.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:12pt;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">76-100&nbsp; puesto&nbsp; &nbsp; &nbsp; &nbsp; $ &nbsp; 100.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\"><span style=\"white-space: pre-wrap;\"><br></span></font></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\"><span style=\"white-space: pre-wrap;\">Models1A</span></font></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\"><span style=\"white-space: pre-wrap;\"><br></span></font></p><p dir=\"ltr\" style=\"line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\"><span style=\"white-space: pre-wrap;\">Beyond expectations</span></font></p>",
+  "undefinedTime": "handmade",
+  "imageNews": "https://cdn.models1a.com/autologin/news/845e2901-bee3-1ab3-736d-f1ab9e62c117/1648233057895__14 21 marzo-06.jpeg",
+  "filesId": "845e2901-bee3-1ab3-736d-f1ab9e62c117",
+  "date": {
+    "$date": {
+      "$numberLong": "1648233068533"
+    }
+  },
+  "__v": 0,
+  "archive": true
+},{
+  "_id": {
+    "$oid": "624dc0a8bfc0b52dfb1ff5fe"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Cuadro de ganadoras finales de marzo e inicios de abril",
+  "subtitleNews": "Seguimos haciendo lo que sabemos hacer - Top 100 semana del 28 de marzo al 4 de abril",
+  "textNews": "<span id=\"docs-internal-guid-3f5583f4-7fff-ebcb-1afa-07d1ac494e99\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Sin lugar a dudas los dos primeros meses de una cuenta trazan gran parte del camino al éxito, por eso Models1A sigue motivando e incentivando aquellos perfiles que con su compromiso y dedicación se encuentran posicionadas entre las mejores 100 modelos a nivel mundial en la categoría de Newbies.</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">El que te dijo que ser una modelo top de reconocimiento mundial era fácil, te mintió. Para ser las mejores se necesita disciplina, hambre de éxito, tener los objetivos claros y estar con el mejor equipo. En Models1A nacen, crecen y se forman modelos de talla mundial.</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">¡Cuando los objetivos son claros, no hay límites!</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">A continuación les presentamos el cuadro ganador de la semana del 28 de marzo al 4 de abril:</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><font color=\"#000000\"><b>Ranking Newbies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Premios en efectivo By Models1A</b></font></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#05 GabySalvatore &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#06 VivianBasset&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#11 GabrielaCaprice &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#60 MirandaBarinova &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $ 200.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#61 AlejandraBahamon&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; $ 200.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#66 CamilaKing&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; $ 200.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#97 BrianaMartins&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 100.000</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ranking Fan Club</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#54 CarlaColucci</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#60 KathiaMendoza</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ranking Goodie Basket</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#66 AntonellaFerro</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#85 MarianaBallack</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ranking Stories</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#13 CamilaCaprice</span></p><br><br><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">A continuación la tabla de ganadoras de la semana del 21 al 28 de marzo:</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ranking Newbies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Premios en efectivo By Models1A</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#05 GabySalvatore&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#19 VivianBasset &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#20 CarlaCusack &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; $ 400.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#24 GabrielaCaprice&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $ 300.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#56 AlejandraBahamon &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; $ 200.000</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#99 CamilaKing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  $ 100.000</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ranking Fan Club</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#03 GabrielaCaprice</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#25 GabrielaParisi</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#95 RafaelaKovalenko</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ranking Goodie Basket</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#63 MarianaBallack</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#100 VivianBasset</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Ranking Videos</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#36 GabySalvatore</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">#89 VivianBasset</span></p><br><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">¡Únete al cuadro ganador y disfruta de más beneficios!</span></p><div><span style=\"font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br></span></div></span>",
+  "undefinedTime": "handmade",
+  "imageNews": "https://cdn.models1a.com/autologin/news/ca8b55f5-6455-d4bd-6417-69482c88d703/1649262758574_001 Newbies Marzo 28 - Abril 4.jpg",
+  "filesId": "ca8b55f5-6455-d4bd-6417-69482c88d703",
+  "date": {
+    "$date": {
+      "$numberLong": "1649262760635"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6254c99bce4be52826d89f50"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": true,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "FELICITACIONES A GABY SALVATORE QUE OBTIENE EL PRIMER LUGAR ",
+  "subtitleNews": "\"Winners never quit and quitters never win\"",
+  "textNews": "GabySalvatore con menos de 2 meses de experiencia logra el tan anhelado primer lugar a nivel mundial de la competencia <font color=\"#000000\" style=\"\"><b>Newbies, </b>a</font>ctualmente una de las más difíciles.&nbsp; La empresa nunca para de invertir en tu desarrrollo y en crear las condiciones óptimas para competir con las grandes y ganarles. Algo que nos llena de mucha satisfacción ya que es un buen indicativo de que en Models1A el crecimiento es inevitable. Recuerda que la especialidad de la casa y el objetivo #1 ha sido, es y siempre será crear, formar y desarrollar nuevos y mejores talentos.&nbsp;<div><br></div><div>¿ Cómo se logra ?&nbsp;</div><div><br></div><div>Con mucha disciplina, horas de conexión, paciencia, constancia, ganas, determinación y un ingrediente fundamental: \" El hambre de querer llegar más allá que las demás\" Eso y mucho mas es lo que aprenderás en Models1A.</div><div><br></div><div>¿ Y por qué unas lo logran y otras no ?</div><div><br></div><div>De la misma manera que en la universidad entran 300 personas a estudiar medicina o derecho y solo un pequeño % se gradúa lo mismo pasa en esta industria. Es decir, que tú decides en que parte de la estadística quieres estar.&nbsp;</div><div><br></div><div>Felicitaciones nuevamente a Gaby que se lleva no solo un bono por cumplimiento de horas, sino que también alcanza un bono adicional de $1.000.000 de pesos para seguir desarrollando su perfil y convertirse rápidamente en una top.&nbsp;</div><div><br></div><div>El camino casi siempre es caluroso pero en días como hoy se siente una brisita sabrosa y con aroma ganador.</div><div><br></div><div><br></div><div>Models1A&nbsp;</div><div>Fábrica de Ganadoras&nbsp;</div>",
+  "undefinedTime": "handmade",
+  "imageNews": "https://cdn.models1a.com/autologin/news/b2631251-b737-8f3d-c53a-4629c4995ba3/1649723800782_GabySalvatore Newbies Awards.jpg",
+  "filesId": "b2631251-b737-8f3d-c53a-4629c4995ba3",
+  "date": {
+    "$date": {
+      "$numberLong": "1649723803797"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62639bd95db7d1370848af67"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Cuadro ganadoras semana del 11 al 18 de abril",
+  "subtitleNews": "Felicitaciones a Alejandra Bahamon por su 3er lugar",
+  "textNews": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<p class=\"p1\">Models1A sigue haciendo historia en la categoría de NEWBIES siendo así la única empresa en todo Colombia en lograrlo. Actualmente seguimos sumando nuevos talentos a la competencia más fuerte de LiveJasmin. GabySalvatore después de obtener el primer lugar la semana pasada, en esta sigue estando dentro del top 100, lo cual demuestra un gran compromiso, mientras que AlejandraBahamon consigue esta semana el <b><font color=\"#000000\">tercer lugar</font></b> en modelos recientes y el <b><font color=\"#000000\">primer lugar</font></b> en otras cinco categorías, obteniendo un bono adicional de $ 550,000 pesos.</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">Recuerden modelos nuevas, esta es la autopista para rápidamente alcanzar una mayor velocidad dentro de la categoría de <b><font color=\"#000000\">newbies</font></b> que solo dura las primeras 8 semanas de la cuenta, en las que si logras estar dentro del top 100 en múltiples semanas lograrás posicionar tu cuenta y generar ventas exponenciales que te fortalecerán.&nbsp;</p><p class=\"p1\"><br></p><p class=\"p1\">Como empresa tenemos sobre la mesa los incentivos más altos disponibles para ti de hasta $ 1’000.000 de pesos semanal en bonos adicionales y solo por tiempo limitado. No pierdas esta gran oportunidad de hacer dinero extra y de obtener un gran reconocimiento al estar entre las 100 mejores del mundo de la categoría de modelos recientes (Newbies).</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\">Cuadro de ganadoras semana del 11 al 18 de abril:</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\">Ranking Newbies <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>Premios en efectivo By Models1A</font></b></p>\r\n<p class=\"p1\">#3<span class=\"Apple-tab-span\">&nbsp; &nbsp;&nbsp;</span>AlejandraBahamon<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>$ 550.000</p>\r\n<p class=\"p1\">#40<span class=\"Apple-tab-span\">\t</span>GabySalvatore <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>$ 300.000</p>\r\n<p class=\"p1\">#51<span class=\"Apple-tab-span\">&nbsp;&nbsp;</span>GabrielaCaprice <span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>$ 200.000</p>\r\n<p class=\"p1\">#66<span class=\"Apple-tab-span\">\t</span>AntonellaFerro<span class=\"Apple-converted-space\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>$ 200.000</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\">Ranking Messenger</font></b><span class=\"Apple-tab-span\">\t</span></p>\r\n<p class=\"p1\">#1<span class=\"Apple-tab-span\">&nbsp;&nbsp;</span>AlejandraBahamon</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\">Ranking Fan Club</font></b><span class=\"Apple-tab-span\">\t</span></p>\r\n<p class=\"p1\">#1<span class=\"Apple-tab-span\">&nbsp; &nbsp; &nbsp;</span>AlejandraBahamon</p>\r\n<p class=\"p1\">#49<span class=\"Apple-tab-span\">\t</span>KathiaMendoza</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\">Ranking Goodie Basket</font></b></p>\r\n<p class=\"p1\">#34<span class=\"Apple-tab-span\">\t</span>CatalinaCavalli</p>\r\n<p class=\"p1\">#35<span class=\"Apple-tab-span\">\t</span>SaraValentino</p>\r\n<p class=\"p1\">#45<span class=\"Apple-tab-span\">\t</span>MarianaBallack</p>\r\n<p class=\"p1\">#61<span class=\"Apple-tab-span\">\t</span>GabyPastori</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\">Ranking Stories</font></b><span class=\"Apple-tab-span\">\t</span></p>\r\n<p class=\"p1\">#1<span class=\"Apple-tab-span\">&nbsp; &nbsp; </span>AlejandraBahamon</p>\r\n<p class=\"p1\">#23<span class=\"Apple-tab-span\">\t</span>VivianBasset</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\">Ranking Photos</font></b><span class=\"Apple-tab-span\">\t</span></p>\r\n<p class=\"p1\">#1<span class=\"Apple-tab-span\">&nbsp; &nbsp;</span>AlejandraBahamon</p>\r\n<p class=\"p2\"><br></p>\r\n<p class=\"p1\"><b><font color=\"#000000\">Ranking Videos</font></b><span class=\"Apple-tab-span\">\t</span></p>\r\n<p class=\"p1\">#1<span class=\"Apple-tab-span\">&nbsp; &nbsp;</span>AlejandraBahamon</p><p class=\"p1\"><br></p><p class=\"p1\">¡Models1A siempre contigo!</p>",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1650695129883"
+    }
+  },
+  "__v": 0,
+  "archive": true,
+  "filesId": "2b4bdde8-1768-7f7d-fffb-dc2da81f121d",
+  "imageNews": "https://cdn.models1a.com/autologin/news/2b4bdde8-1768-7f7d-fffb-dc2da81f121d/1650695263973_001 Newbies Abril 11-Abril 18 2022.jpg"
+},{
+  "_id": {
+    "$oid": "6264b9155db7d13708499872"
+  },
+  "city": [
+    "Bogotá"
+  ],
+  "userType": [
+    "coordinator"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [
+    {
+      "$oid": "618f2612f7a3414300faec07"
+    },
+    {
+      "$oid": "618f2612f7a3414300faec09"
+    },
+    {
+      "$oid": "625d63e786cc4027d77d0e0c"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebed"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf2"
+    },
+    {
+      "$oid": "618f2612f7a3414300faebf9"
+    }
+  ],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Guía caja de repuestos habitaciones",
+  "subtitleNews": "",
+  "textNews": "Buenas tardes.<br><br><div>En pro del correcto funcionamiento de la operación sin interrupciones, sin congestionamientos por la confusión del uso de elementos de una habitación en otra y con el fin de mantener los estándares de calidad a tomar en cuenta en las herramientas para el trabajo, se ha enviado una caja con elementos como: Cables USB, kit de teclado, fuentes de poder, entre otros a la ciudad de Bogotá.&nbsp;</div><div><br></div><div>Estos elementos han de ser usados de manera responsable, teniendo en cuenta las recomendaciones y directrices realizadas en ocasiones anteriores con respecto a no intercambiar materiales entre habitaciones, entre otro tipo de inconvenientes resultado de la falta de control y autogestión cuando se tienen herramientas que presentan fallas.</div><div><br></div><div><b><font color=\"#000000\">NOTA:&nbsp;</font></b>&nbsp;De manera temporal esta caja de elementos en la ciudad de Bogotá será administrada por Adriana la coordinadora de sede, es decir, no está autorizado que nadie (monitor, modelo y otro) saque ningún elemento de esta caja sin la previa autorización y supervisión de la coordinadora de sede.<br><br>Gracias!</div>",
+  "undefinedTime": "handmade",
+  "videoNews": "https://cdn.models1a.com/autologin/news/f83c2e04-5072-7aff-c51b-bff732090a7e/1650768147628_OMG.mp4",
+  "thumbnail": "https://cdn.models1a.com/autologin/news/f83c2e04-5072-7aff-c51b-bff732090a7e/1650768149348_thumbnail.png",
+  "filesId": "f83c2e04-5072-7aff-c51b-bff732090a7e",
+  "date": {
+    "$date": {
+      "$numberLong": "1650768149837"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626712bdf811cc7565fbae78"
+  },
+  "city": [
+    "Medellín"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "la app de reservas ya está aquí",
+  "subtitleNews": "Agenda tus horas extras desde cualquier lugar en el que estés",
+  "textNews": "¡Por fin lo que esperabas! <br><br><div>Models1a ha venido desarrollando tecnología propia para tu comodidad y agilidad al momento de agendar tus horas extras. Recuerda que a mayor tiempo de conexión tengas, mayor será tu exposición en la página para lograr posicionar mejor tu cuenta y generar más y mejores ganancias, incluidos los bonos de desarrollo que solo Models1a te ofrece.</div><div>&nbsp;<br>Ahora puedes agendar tus horas y turnos extra desde la comodidad de tu casa o desde cualquier lugar donde estés. Solo debes entrar a apps.models1a.com, <font color=\"#000000\" style=\"\"><b><i>Log in</i>&nbsp;</b></font>con tu usuario y contraseña de siempre y en la app de \"RESERVAS\" encontrarás la disponibilidad de habitación y el horario que se ajuste a lo que buscas.<font color=\"#000000\"><br></font><div><br></div><div>El equipo de Models1a está a tu disposición para resolver cualquier duda y ayudarte a agendar tus horas extras mucho más fácil de lo que esperabas.</div></div><div><br></div><div>¡Models1a beyond expectations!</div>",
+  "undefinedTime": "handmade",
+  "imageNews": "https://cdn.models1a.com/autologin/news/ccb6e8c7-59f2-5da7-e4b2-6483c5ffa25e/1650922172936_reservas WhatsApp Image 2022-04-25 at 3.48.06 PM.jpeg",
+  "filesId": "ccb6e8c7-59f2-5da7-e4b2-6483c5ffa25e",
+  "date": {
+    "$date": {
+      "$numberLong": "1650922173096"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626c88fe8e7b4d2f3d88f9d4"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "feliz cumpleaños a todos los que cumplen en abril",
+  "subtitleNews": "",
+  "textNews": "Se termina abril, un mes lleno de éxitos donde nuevamente rompemos récords de nuevos talentos que se suman a la&nbsp;<b><font color=\"#000000\">Evolución 1A</font></b>. Actualmente vemos muchas modelos destacándose en muchos aspectos y eso pronóstica un futuro aún más brillante para la empresa.<div><br></div><div>Aprovechamos la oportunidad para felicitar de forma especial a nuestras modelos y equipo de trabajo, que cumplen un año más de vida y lo hacen con nosotros al mejor estilo 1A.</div><div><br></div><div>Seguimos en marcha y con toda la energía para seguir siendo los número 1 de la industria en Colombia gracias a todo nuestro equipo humano y de modelos.</div><div><br></div><div>¡Juntos hacemos la diferencia!<br></div>",
+  "undefinedTime": "handmade",
+  "imageNews": "https://cdn.models1a.com/autologin/news/9366727d-f034-a879-15dc-d5cc36ce1fee/1651505229638_WhatsApp Image 2022-04-29 at 8.04.19 PM.jpeg",
+  "filesId": "9366727d-f034-a879-15dc-d5cc36ce1fee",
+  "date": {
+    "$date": {
+      "$numberLong": "1651280126740"
+    }
+  },
+  "__v": 0,
+  "archive": true
+},{
+  "_id": {
+    "$oid": "6273e9c6ab6e116a233b70a4"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "employee",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Titulo",
+  "subtitleNews": "Subtitulo",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1651763654553"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273ea10ab6e116a233b7301"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "employee",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Titulo",
+  "subtitleNews": "Subtitulo",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1651763728258"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273f1e9ab6e116a233b7577"
+  },
+  "city": [
+    "allcity",
+    "Medellín",
+    "Bogotá",
+    "Cúcuta",
+    "Pereira"
+  ],
+  "userType": [
+    "allusers",
+    "employee",
+    "superadmin",
+    "coordinator",
+    "monitor",
+    "model"
+  ],
+  "isEnable": true,
+  "featured": false,
+  "forUser": [],
+  "dateFrom": null,
+  "dateTo": null,
+  "titleNews": "Titulo",
+  "subtitleNews": "Subtitulo",
+  "textNews": "",
+  "undefinedTime": "handmade",
+  "date": {
+    "$date": {
+      "$numberLong": "1651765737573"
+    }
+  },
+  "__v": 0
+}]

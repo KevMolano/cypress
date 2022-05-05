@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6130d34da89ae28f22c6ed4b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1630571773000"
+    }
+  },
+  "provider": "google",
+  "email": "luis.hurtado@models1a.com",
+  "id": "104087038856323802526",
+  "name": "Luis Carlos Hurtado",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61310e6dd68cf4d5a64437c9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1630586908000"
+    }
+  },
+  "provider": "google",
+  "email": "dev@models1a.com",
+  "id": "115640233629652388201",
+  "name": "Desarrollo OneGroup",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61311288d68cf4d5a64437d1"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1630587960000"
+    }
+  },
+  "provider": "facebook",
+  "email": "luiscarloshurtado@live.com",
+  "id": "10226611973754653",
+  "name": "Luis Carlos Hurtado",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6160f750f8fa9c237f796524"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633726720000"
+    }
+  },
+  "provider": "google",
+  "email": "gelier.moreno@models1a.com",
+  "id": "112639557185910388155",
+  "name": "Gelier Moreno",
+  "__v": 0
+}]

@@ -1,0 +1,2378 @@
+[{
+  "_id": {
+    "$oid": "61329addd40296107861886b"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "userNameModel": "modelo",
+  "userNameMonitor": "Monitor",
+  "turnOfTransmition": "06:00 Am - 02:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": false,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "prueba",
+  "statusRoom": "notSuccess",
+  "date": {
+    "$date": {
+      "$numberLong": "1630706397101"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false,
+  "descriptionMantenience": [],
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424138631"
+    }
+  },
+  "photosReviewMantenience": [],
+  "shower": false
+},{
+  "_id": {
+    "$oid": "61329f9cd402961078618e41"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/61329f9cd402961078618e41/logo.jpg"
+  ],
+  "descriptionPhotos": [
+    "prueba22"
+  ],
+  "userNameModel": "modelo",
+  "userNameMonitor": "Monitor",
+  "turnOfTransmition": "06:00 Am - 02:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "prueba22",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1630707612984"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1631121186959"
+    }
+  },
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6132d557cc4bb314817e9368"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6132d557cc4bb314817e9368/16307212307172320856705692543804.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6132d557cc4bb314817e9368/16307213027486093152093254522344.jpg"
+  ],
+  "descriptionPhotos": [
+    "Mesa1 ",
+    "Mesa2"
+  ],
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "MonitorDos",
+  "turnOfTransmition": "06:00 Am - 02:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1630721367222"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6137e13fa33ba4a8c8ff1efc"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6137e13fa33ba4a8c8ff1efc/16310520024161646634082530323327.jpg"
+  ],
+  "descriptionPhotos": [
+    "Mesa quebrada"
+  ],
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "Monitor",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": false,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Jsjsjs",
+  "statusRoom": "notSuccess",
+  "date": {
+    "$date": {
+      "$numberLong": "1631052095849"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6138e709a33ba4a8c8ff22b4"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6138e709a33ba4a8c8ff22b4/sm1.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6138e709a33ba4a8c8ff22b4/16311190527298714178090622340376.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6138e709a33ba4a8c8ff22b4/16311190827374726819117193612385.jpg"
+  ],
+  "descriptionPhotos": [
+    "Prueba 2",
+    "Prueba 3",
+    "prueba 1"
+  ],
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "Monitor",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": false,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Prueba RC Formulario en EDICIÓN",
+  "statusRoom": "notSuccess",
+  "date": {
+    "$date": {
+      "$numberLong": "1631119113054"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1631223463897"
+    }
+  },
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6138ead7293007c1eb8b79cd"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1631120087637"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6138edba293007c1eb8b79fa"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6138edba293007c1eb8b79fa/16311190527298714178090622340376.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6138edba293007c1eb8b79fa/16311190827374726819117193612385.jpg"
+  ],
+  "descriptionPhotos": [
+    "Prueba 1",
+    "Prueba 2"
+  ],
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "Monitor",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1631120826686"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6138eea5293007c1eb8b7a18"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6138eea5293007c1eb8b7a18/logo.jpg"
+  ],
+  "descriptionPhotos": [
+    "prueba1"
+  ],
+  "userNameModel": "AdrianaAkerman",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1631121061620"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6138eeaf293007c1eb8b7a26"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "userNameModel": "modelo",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "06:00 Am - 02:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1631121071754"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6138eeb5293007c1eb8b7a34"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6138eeb5293007c1eb8b7a34/16311215694617686608585472097582.jpg"
+  ],
+  "descriptionPhotos": [
+    "Puff"
+  ],
+  "userNameModel": "NataliaFoster",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "10:00 Pm - 06:00 Am",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Prueba",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1631121077577"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1631121605649"
+    }
+  },
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6138eeef293007c1eb8b7a43"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6138eeef293007c1eb8b7a43/logo.jpg"
+  ],
+  "descriptionPhotos": [
+    "preuba2"
+  ],
+  "userNameModel": "DanielaAlvarado",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "06:00 Am - 02:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "prueba",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1631121135480"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1631121378213"
+    }
+  },
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "61391366293007c1eb8b7ff5"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/61391366293007c1eb8b7ff5/16311303134191531133418795151004.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/61391366293007c1eb8b7ff5/16311303722286403072184197272274.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/61391366293007c1eb8b7ff5/1631130423150554739955459809242.jpg"
+  ],
+  "descriptionPhotos": [
+    "Prueba 1",
+    "Prueba 2",
+    "Prueba 3"
+  ],
+  "userNameModel": "Erika Hoffman",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1631130470325"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "61394854293007c1eb8b8364"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/61394854293007c1eb8b8364/0-05.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/61394854293007c1eb8b8364/s7.jpg"
+  ],
+  "descriptionPhotos": [
+    "Prueba 1",
+    "Prueba 2"
+  ],
+  "userNameModel": "zoedosantos",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": false,
+  "webcam": true,
+  "observation": "Esta es la revisión Zoe",
+  "statusRoom": "notSuccess",
+  "date": {
+    "$date": {
+      "$numberLong": "1631144020477"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "613a7374a2a34aeafe999f26"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "userNameModel": "Ruddy",
+  "userNameMonitor": "monitorCucuta",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "La habitación está en muy buen estado",
+  "statusRoom": "success",
+  "date": {
+    "$date": {
+      "$numberLong": "1631220596093"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "613a739ba2a34aeafe999f8e"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/613a739ba2a34aeafe999f8e/image-fondo.png"
+  ],
+  "descriptionPhotos": [
+    "Foto de la modelo"
+  ],
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "monitorCucuta",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": false,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Hay Todas",
+  "statusRoom": "notSuccess",
+  "date": {
+    "$date": {
+      "$numberLong": "1631220635808"
+    }
+  },
+  "__v": 0,
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6140f709c55e5c0478f44625"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6140f709c55e5c0478f44625/9a2e008cab0a070c88923a7e4df64e28.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6140f709c55e5c0478f44625/R.jpg"
+  ],
+  "descriptionPhotos": [
+    "foto prueba espejo",
+    "foto prueba sabana"
+  ],
+  "userNameModel": "modelo",
+  "userNameMonitor": "samanthaPrueba",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": false,
+  "bed": false,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": false,
+  "airConditioner": false,
+  "functionalAir": false,
+  "tripod": true,
+  "webcam": true,
+  "observation": "sabana manchada, espejo sucio",
+  "statusRoom": "notSuccess",
+  "date": {
+    "$date": {
+      "$numberLong": "1631647497575"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1631672888170"
+    }
+  },
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "6140f824c55e5c0478f446c3"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6140f824c55e5c0478f446c3/R.jpg"
+  ],
+  "descriptionPhotos": [
+    "tv malo"
+  ],
+  "userNameModel": "modelo",
+  "userNameMonitor": "samanthaPrueba",
+  "turnOfTransmition": "06:00 Am - 02:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": false,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "la modelo entro a su habitacion a las 10 pm y reporto tv con pantalla mala<br>",
+  "statusRoom": "notSuccess",
+  "date": {
+    "$date": {
+      "$numberLong": "1631647780188"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1631711239716"
+    }
+  },
+  "statusMantenienceRoom": false
+},{
+  "_id": {
+    "$oid": "614254548a1a9507f7a7a767"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "AdrianaAkerman",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": false,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "prueba",
+  "date": {
+    "$date": {
+      "$numberLong": "1631736916764"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424122111"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "614254708a1a9507f7a7a778"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "Ruddy",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": false,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "prueba",
+  "date": {
+    "$date": {
+      "$numberLong": "1631736944956"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424114353"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "61439c08aaedfa194376f030"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "zoedosantos",
+  "userNameMonitor": "samanthaPrueba",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Estuvo muy bien la habitación",
+  "date": {
+    "$date": {
+      "$numberLong": "1631820808611"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6144ff1aa76cca32e6ee244f"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6144ff1aa76cca32e6ee244f/image.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6144ff1aa76cca32e6ee244f/image.jpg"
+  ],
+  "descriptionMantenience": [
+    "Baño malo",
+    "Falta un tornillo"
+  ],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "Emma Cox",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1631911706472"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61450101a76cca32e6ee2495"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "Emma Cox",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": false,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": false,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1631912193515"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424104615"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "61450744a76cca32e6ee261f"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "zoedosantos",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Prueba",
+  "date": {
+    "$date": {
+      "$numberLong": "1631913796056"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424096879"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "61450796a76cca32e6ee2646"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Todo correcto",
+  "date": {
+    "$date": {
+      "$numberLong": "1631913878919"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424089096"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "61450ab1a76cca32e6ee284a"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "Emma Cox",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Prueba iphone",
+  "date": {
+    "$date": {
+      "$numberLong": "1631914673046"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424081368"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "614518b2a76cca32e6ee2d7b"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "MeganFox",
+  "userNameMonitor": "JaGarciaM",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": false,
+  "floor": false,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "El suelo está sucio necesita mantenimiento",
+  "date": {
+    "$date": {
+      "$numberLong": "1631918258648"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424071855"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "61451a1da76cca32e6ee2e05"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "MeganFox",
+  "userNameMonitor": "JaGarciaM",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1631918621375"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614522c9d01a7d3c5e1dda88"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Prueba",
+  "date": {
+    "$date": {
+      "$numberLong": "1631920841017"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424059446"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "61452946d01a7d3c5e1ddbf7"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "AdrianaAkerman",
+  "userNameMonitor": "AlejandroSantos",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": false,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1631922502208"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424051135"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "614891dbd01a7d3c5e1de1d6"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "AdrianaAkerman",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1632145883925"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632170312535"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6148ccb3a8ee3459cb4232b6"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "estefita",
+  "userNameMonitor": "samanthaPrueba",
+  "turnOfTransmition": "06:00 Am - 02:00 Pm",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Habitación en perfecto estado...<br>",
+  "date": {
+    "$date": {
+      "$numberLong": "1632160947694"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6148ce91a8ee3459cb4233e1"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6148ce91a8ee3459cb4233e1/1632424416101_image.jpg"
+  ],
+  "descriptionMantenience": [
+    "Audífonos requieren mantenimiento"
+  ],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "paulis",
+  "userNameMonitor": "samanthaPrueba",
+  "turnOfTransmition": "1am - 3am",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1632161425796"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424416225"
+    }
+  },
+  "shower": false
+},{
+  "_id": {
+    "$oid": "614a55c5f8f4c25f5f8858c1"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614a55c5f8f4c25f5f8858c1/1632424384626_image.jpg"
+  ],
+  "descriptionPhotos": [
+    "Prueba edición en revisiones"
+  ],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": true,
+  "userNameModel": "AlexaNovoa",
+  "userNameMonitor": "LuisRamirez",
+  "turnOfTransmition": "02:00 Pm - 10:00 Pm",
+  "room": "CH1",
+  "city": "Cúcuta",
+  "office": "C01",
+  "mirror": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": false,
+  "tripod": false,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1632261573843"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424384797"
+    }
+  },
+  "shower": true
+},{
+  "_id": {
+    "$oid": "614b9bab6a0b9e82f29e720f"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614b9bab6a0b9e82f29e720f/1632424343673_image.jpg"
+  ],
+  "descriptionPhotos": [
+    "Escritorio probando camara"
+  ],
+  "photosReviewMantenience": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614b9bab6a0b9e82f29e720f/1632424343887_image.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614b9bab6a0b9e82f29e720f/1632424344044_image.jpg"
+  ],
+  "descriptionMantenience": [
+    "Necesita mantenimiento",
+    "Cpu "
+  ],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "MeganFox",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "10:00 PM - 06:00 AM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": false,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": false,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": false,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Probando un comentario extenso en la revisión de de la habitación para observar cómo queda dicho comentario en el dashboard de revisiones&nbsp;",
+  "date": {
+    "$date": {
+      "$numberLong": "1632345003775"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424344133"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614ccb486a0b9e82f29e797f"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614ccb486a0b9e82f29e797f/image.jpg"
+  ],
+  "descriptionPhotos": [
+    "Aire acondicionado prendido"
+  ],
+  "photosReviewMantenience": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614ccb486a0b9e82f29e797f/1632424219323_image.jpg"
+  ],
+  "descriptionMantenience": [
+    "Teclado sucio"
+  ],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "modelo",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "10:00 PM - 06:00 AM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": false,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": false,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Se encontraron varios daños causados por la modelo y se requiere mantenimiento en la habitacion",
+  "date": {
+    "$date": {
+      "$numberLong": "1632422728800"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632424219443"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "614ccd0ba4939c91e882ff42"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614ccd0ba4939c91e882ff42/1632423179094_image.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614ccd0ba4939c91e882ff42/1632423179277_image.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614ccd0ba4939c91e882ff42/1632423179425_image.jpg"
+  ],
+  "descriptionPhotos": [
+    "Televisor sucio y en mal estado",
+    "Puf arrugado",
+    "Aire acondicionado encendido"
+  ],
+  "photosReviewMantenience": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614ccd0ba4939c91e882ff42/1632423179698_image.jpg",
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614ccd0ba4939c91e882ff42/1632423179810_image.jpg"
+  ],
+  "descriptionMantenience": [
+    "Silla requiere mantenimiento",
+    "Requiere mantenimiento"
+  ],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "DanielaAlvarado",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "10:00 PM - 06:00 AM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": false,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Se observaron varios daños y se requiere mantenimiento",
+  "date": {
+    "$date": {
+      "$numberLong": "1632423179082"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614df1df305f6498d32956f0"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614df1df305f6498d32956f0/1632498143818_image.jpg"
+  ],
+  "descriptionPhotos": [
+    "Espejo como uña miércoles"
+  ],
+  "photosReviewMantenience": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/614df1df305f6498d32956f0/1632498144018_image.jpg"
+  ],
+  "descriptionMantenience": [
+    "Lámpara dañada"
+  ],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "paulis",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 PM - 10:00 PM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": false,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1632498143813"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6154e22b3ae5376f2bbc7a54"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6154e22b3ae5376f2bbc7a54/1632952875301_image.jpg"
+  ],
+  "descriptionPhotos": [
+    "Espejo roto"
+  ],
+  "photosReviewMantenience": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6154e22b3ae5376f2bbc7a54/1632952875500_image.jpg"
+  ],
+  "descriptionMantenience": [
+    "Lámpara quemada"
+  ],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1632952875283"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1632953031518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "615b1ace0e6beac903b5fb48"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "Ruddy",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "10:00 PM - 06:00 AM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": false,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633360590028"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1b050e6beac903b5fba6"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "Ruddy",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "10:00 PM - 06:00 AM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633360645841"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1cbe0e6beac903b5fc20"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "clementina",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "02:00 PM - 10:00 PM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361086085"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1cc40e6beac903b5fc2b"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "paulis",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": false,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361092038"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1ccc0e6beac903b5fc36"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "estefita",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "10:00 PM - 06:00 AM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361100939"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1cd20e6beac903b5fc41"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "MeganFox",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "10:00 PM - 06:00 AM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361106531"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1cd60e6beac903b5fc4c"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "DanielaAlvarado",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "10:00 PM - 06:00 AM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361110203"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1cd90e6beac903b5fc57"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "Erika Hoffman",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361113819"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1cdd0e6beac903b5fc62"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "Ruddy",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "10:00 PM - 06:00 AM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361117667"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1ce30e6beac903b5fc6d"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "AdrianaAkerman",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361123659"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1cea0e6beac903b5fc78"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "NataliaFoster",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "02:00 PM - 10:00 PM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": false,
+  "bed": true,
+  "floor": true,
+  "nightOwl": false,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": false,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361130108"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1cef0e6beac903b5fc83"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "modelo",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "02:00 PM - 10:00 PM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": false,
+  "shower": true,
+  "bed": false,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361135050"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b1cfb0e6beac903b5fc8e"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "Emma Cox",
+  "userNameMonitor": "CoorPruebas",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": false,
+  "cpu": false,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1633361147558"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615f743ae766c5fbbf85d013"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/615f743ae766c5fbbf85d013/1633645626255_16336455535375097587677731760677.jpg"
+  ],
+  "descriptionPhotos": [
+    "Espejo sucio y quebrado"
+  ],
+  "photosReviewMantenience": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/615f743ae766c5fbbf85d013/1633645626560_16336455837206320966459404331800.jpg"
+  ],
+  "descriptionMantenience": [
+    "Teclado malo"
+  ],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "AlejandraRoa",
+  "userNameMonitor": "CoordinadorMedellin",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "MED21",
+  "city": "Medellín",
+  "office": "BULE",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "El teclado está malo.&nbsp;<div><br></div><div>Se limpia el espejo y lo arregla</div>",
+  "date": {
+    "$date": {
+      "$numberLong": "1633645626237"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1633645677595"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6169f6cacb615183fb52f7fc"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6169f6cacb615183fb52f7fc/1634334410942_federico-di-dio-photography-g3yfdBEAjdg-unsplash.jpg"
+  ],
+  "descriptionMantenience": [
+    "El paisaje estropeó las herramientas"
+  ],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "paulis",
+  "userNameMonitor": "samanthaPrueba",
+  "turnOfTransmition": "02:00 PM - 10:00 PM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1634334410939"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170347e9430c4caf3c62bbc"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "paulis",
+  "userNameMonitor": "samanthaPrueba",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "MED01 ",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Genial",
+  "date": {
+    "$date": {
+      "$numberLong": "1634743422466"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1636674016806"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61704e0ac0683dcd771b8585"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/61704e0ac0683dcd771b8585/1634749962175_image.jpg"
+  ],
+  "descriptionPhotos": [
+    "Botón de no/off dañado"
+  ],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "carolinaandujar",
+  "userNameMonitor": "juancardona",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "BOG04",
+  "city": "Bogotá",
+  "office": "BOG",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": false,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "Carolina dice que lo había sentido suelto y cuando lo iba a apagar se cayó la cubierta del botón.",
+  "date": {
+    "$date": {
+      "$numberLong": "1634749962158"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617064ecc0683dcd771b86a1"
+  },
+  "photosReview": [],
+  "descriptionPhotos": [],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "success",
+  "statusMantenienceRoom": false,
+  "userNameModel": "zoedosantos",
+  "userNameMonitor": "MonitorMedellin",
+  "turnOfTransmition": "02:00 PM - 10:00 PM",
+  "room": "MED02",
+  "city": "Medellín",
+  "office": "L1",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1634755820376"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170c4a4fa85f2d34c484084"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/6170c4a4fa85f2d34c484084/1634780324289_image.jpg"
+  ],
+  "descriptionPhotos": [
+    "1 luz del techo quemada y otra parpadeando"
+  ],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": false,
+  "userNameModel": "AngieFox",
+  "userNameMonitor": "AlejandroSantos",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "MED32",
+  "city": "Medellín",
+  "office": "L4",
+  "mirror": false,
+  "shower": true,
+  "bed": true,
+  "floor": false,
+  "nightOwl": true,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": false,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1634780324283"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1637986972795"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "618dfbbd66ee4388b594abfa"
+  },
+  "photosReview": [
+    "https://new-web-site-bucket.s3.amazonaws.com/autologin/reviewsImg/618dfbbd66ee4388b594abfa/1636694973078_image.jpg"
+  ],
+  "descriptionPhotos": [
+    "Rueda de la mesa dañaba"
+  ],
+  "photosReviewMantenience": [],
+  "descriptionMantenience": [],
+  "statusRoom": "notSuccess",
+  "statusMantenienceRoom": true,
+  "userNameModel": "Emma Cox",
+  "userNameMonitor": "juancardona",
+  "turnOfTransmition": "06:00 AM - 02:00 PM",
+  "room": "MED33",
+  "city": "Medellín",
+  "office": "L4",
+  "mirror": true,
+  "shower": true,
+  "bed": true,
+  "floor": true,
+  "nightOwl": false,
+  "tv": true,
+  "cpu": true,
+  "accessoriesPc": true,
+  "cabling": true,
+  "softbotx": true,
+  "airConditioner": true,
+  "functionalAir": true,
+  "tripod": true,
+  "webcam": true,
+  "observation": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1636694973072"
+    }
+  },
+  "__v": 0,
+  "editDate": {
+    "$date": {
+      "$numberLong": "1639680889371"
+    }
+  }
+}]

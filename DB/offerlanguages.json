@@ -1,0 +1,321 @@
+[{
+  "_id": {
+    "$oid": "606c9298bb590319e5721850"
+  },
+  "offerId": {
+    "$oid": "606c9298bb590319e572184e"
+  },
+  "language": "en",
+  "title": "TRAINING AND EDUCATION",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9298bb590319e572184f"
+  },
+  "offerId": {
+    "$oid": "606c9298bb590319e572184e"
+  },
+  "language": "es",
+  "title": "CAPACITACIÓN Y FORMACIÓN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c93a6bb590319e5721852"
+  },
+  "offerId": {
+    "$oid": "606c93a6bb590319e5721851"
+  },
+  "language": "es",
+  "title": "MONITOREO Y ACOMPAÑAMIENTO 24/7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c93a6bb590319e5721853"
+  },
+  "offerId": {
+    "$oid": "606c93a6bb590319e5721851"
+  },
+  "language": "en",
+  "title": "MONITORING AND SUPPORT 24/7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9421bb590319e5721855"
+  },
+  "offerId": {
+    "$oid": "606c9421bb590319e5721854"
+  },
+  "language": "es",
+  "title": "TRAFICO Y POSICIONAMIENTO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9421bb590319e5721856"
+  },
+  "offerId": {
+    "$oid": "606c9421bb590319e5721854"
+  },
+  "language": "en",
+  "title": "TRAFFIC AND POSITIONING",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c94a5bb590319e5721858"
+  },
+  "offerId": {
+    "$oid": "606c94a5bb590319e5721857"
+  },
+  "language": "es",
+  "title": "SEGURIDAD Y PRIVACIDAD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c94a5bb590319e5721859"
+  },
+  "offerId": {
+    "$oid": "606c94a5bb590319e5721857"
+  },
+  "language": "en",
+  "title": "SECURITY AND PRIVACY",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9562bb590319e572185b"
+  },
+  "offerId": {
+    "$oid": "606c9562bb590319e572185a"
+  },
+  "language": "es",
+  "title": "INSTALACIONES DE ALTO PERFIL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9562bb590319e572185c"
+  },
+  "offerId": {
+    "$oid": "606c9562bb590319e572185a"
+  },
+  "language": "en",
+  "title": "HIGH PROFILE FACILITIES",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c95d9bb590319e572185e"
+  },
+  "offerId": {
+    "$oid": "606c95d9bb590319e572185d"
+  },
+  "language": "es",
+  "title": "PORTAFOLIO PROFESIONAL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c95d9bb590319e572185f"
+  },
+  "offerId": {
+    "$oid": "606c95d9bb590319e572185d"
+  },
+  "language": "en",
+  "title": "PROFESSIONAL PORTAFOLIO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9644bb590319e5721861"
+  },
+  "offerId": {
+    "$oid": "606c9644bb590319e5721860"
+  },
+  "language": "es",
+  "title": "VIAJES",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c9644bb590319e5721862"
+  },
+  "offerId": {
+    "$oid": "606c9644bb590319e5721860"
+  },
+  "language": "en",
+  "title": "TRAVELS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c96a7bb590319e5721864"
+  },
+  "offerId": {
+    "$oid": "606c96a7bb590319e5721863"
+  },
+  "language": "es",
+  "title": "HORARIOS FLEXIBLES",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c96a7bb590319e5721865"
+  },
+  "offerId": {
+    "$oid": "606c96a7bb590319e5721863"
+  },
+  "language": "en",
+  "title": "FLEXIBLE SCHEDULES",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c96fbbb590319e5721867"
+  },
+  "offerId": {
+    "$oid": "606c96fbbb590319e5721866"
+  },
+  "language": "es",
+  "title": "PAGOS SEMANALES",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c96fbbb590319e5721868"
+  },
+  "offerId": {
+    "$oid": "606c96fbbb590319e5721866"
+  },
+  "language": "en",
+  "title": "WEEKLY PAYMENTS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60807aea4fd06a185d7b0ff3"
+  },
+  "offerId": {
+    "$oid": "60807aea4fd06a185d7b0ff2"
+  },
+  "language": "es",
+  "title": "BONOS E INCENTIVOS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60807aea4fd06a185d7b0ff4"
+  },
+  "offerId": {
+    "$oid": "60807aea4fd06a185d7b0ff2"
+  },
+  "language": "en",
+  "title": "BONUSES AND INCENTIVES",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610845b86b22adc1c996cf77"
+  },
+  "offerId": {
+    "$oid": "610846296b22adc1c996cf86"
+  },
+  "language": "es",
+  "title": "Coaching motivacional\t",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610845ce6b22adc1c996cf78"
+  },
+  "offerId": {
+    "$oid": "610846296b22adc1c996cf86"
+  },
+  "language": "en",
+  "title": "Motivational Coaching",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610845d46b22adc1c996cf79"
+  },
+  "offerId": {
+    "$oid": "610846a16b22adc1c996cf8c"
+  },
+  "language": "es",
+  "title": "Reconocimiento internacional\t",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610845d96b22adc1c996cf7a"
+  },
+  "offerId": {
+    "$oid": "610846a16b22adc1c996cf8c"
+  },
+  "language": "en",
+  "title": "International recognition",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610845dd6b22adc1c996cf7b"
+  },
+  "offerId": {
+    "$oid": "610846e56b22adc1c996cf91"
+  },
+  "language": "es",
+  "title": "Asesoría Financiera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610845e36b22adc1c996cf7c"
+  },
+  "offerId": {
+    "$oid": "610846e56b22adc1c996cf91"
+  },
+  "language": "en",
+  "title": "Financial Advisory",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610845e86b22adc1c996cf7d"
+  },
+  "offerId": {
+    "$oid": "6108472e6b22adc1c996cf96"
+  },
+  "language": "es",
+  "title": "Planeación de metas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610845eb6b22adc1c996cf7e"
+  },
+  "offerId": {
+    "$oid": "6108472e6b22adc1c996cf96"
+  },
+  "language": "en",
+  "title": "Goal planning",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c34cea1443475fa151af0"
+  },
+  "offerId": {
+    "$oid": "610c3444a1443475fa151ae6"
+  },
+  "language": "es",
+  "title": "Inversiones",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c3520a1443475fa151af1"
+  },
+  "offerId": {
+    "$oid": "610c3444a1443475fa151ae6"
+  },
+  "language": "en",
+  "title": "Investments",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6138f18883b3294f51e80c25"
+  },
+  "offerId": {
+    "$oid": "6138f11083b3294f51e80c1e"
+  },
+  "language": "es",
+  "title": "Fidelidad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6138f53883b3294f51e80c26"
+  },
+  "offerId": {
+    "$oid": "6138f11083b3294f51e80c1e"
+  },
+  "language": "en",
+  "title": "Loyaltyfee",
+  "__v": 0
+}]

@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "60df441ebe13cfc4d37f28b7"
+  },
+  "alt": "Promo Sept 2021",
+  "imageLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/images/img_promo.png",
+  "videoLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/videos/vid_promoSept_2021.mp4",
+  "isNewVideo": true,
+  "isShow": true,
+  "priority": 1,
+  "modo": "manual",
+  "timeNewVideo": null
+},{
+  "_id": {
+    "$oid": "60df4452be13cfc4d37f28b8"
+  },
+  "alt": "Alejandra",
+  "imageLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/images/img_alejandraRoa.png",
+  "videoLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/videos/vid_alejandraRoa.mp4",
+  "isNewVideo": true,
+  "isShow": true,
+  "priority": 4,
+  "modo": "date",
+  "timeNewVideo": {
+    "$date": {
+      "$numberLong": "1635137999000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60df445dbe13cfc4d37f28b9"
+  },
+  "alt": "Gabriela",
+  "imageLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/images/img_gabrielaCaponeTt.png",
+  "videoLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/videos/vid_gabrielaCaponeTikTok.mp4",
+  "isNewVideo": true,
+  "isShow": true,
+  "priority": 8,
+  "modo": "default",
+  "timeNewVideo": {
+    "$date": {
+      "$numberLong": "1636174799000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60df4468be13cfc4d37f28ba"
+  },
+  "alt": "Martina",
+  "imageLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/images/img_martina.png",
+  "videoLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/videos/vid_martina.mp4",
+  "isNewVideo": false,
+  "isShow": true,
+  "priority": 2
+},{
+  "_id": {
+    "$oid": "60e4d9901db0171e116f2fa0"
+  },
+  "alt": "Susana",
+  "imageLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/images/img_susanaLorens.png",
+  "videoLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/videos/vid_susanaLorens.mp4",
+  "isNewVideo": false,
+  "isShow": true,
+  "priority": 0
+},{
+  "_id": {
+    "$oid": "60e77fa644bed1887a785503"
+  },
+  "alt": "Alessandra",
+  "imageLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/images/img_alessandra.png",
+  "videoLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/videos/vid_alessandra",
+  "isNewVideo": false,
+  "isShow": true,
+  "priority": 3
+},{
+  "_id": {
+    "$oid": "611ff80cb68de43b81ba5bd4"
+  },
+  "alt": "Aleska",
+  "imageLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/images/img_aleska_tik.png",
+  "videoLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/videos/vid_rifa_Aleska",
+  "isNewVideo": false,
+  "isShow": true,
+  "priority": 5
+},{
+  "_id": {
+    "$oid": "611ff83fb68de43b81ba5bd5"
+  },
+  "alt": "Nina",
+  "imageLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/images/img_ninaMalkovich_n.png",
+  "videoLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/videos/vid_ninaMalkovich.mp4",
+  "isNewVideo": false,
+  "isShow": true,
+  "priority": 6
+},{
+  "_id": {
+    "$oid": "611ff8acb68de43b81ba5bd6"
+  },
+  "alt": "Sede Medellin",
+  "imageLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/images/img_aleska.png",
+  "videoLink": "https://new-web-site-bucket.s3.amazonaws.com/website/shortvideos/videos/vid_aleska.mp4",
+  "isNewVideo": true,
+  "isShow": true,
+  "priority": 7,
+  "modo": "date",
+  "timeNewVideo": {
+    "$date": {
+      "$numberLong": "1635224399000"
+    }
+  }
+}]

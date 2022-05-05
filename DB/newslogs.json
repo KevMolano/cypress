@@ -1,0 +1,191 @@
+[{
+  "_id": {
+    "$oid": "6272e629f6a25de3a23a3373"
+  },
+  "count": 1,
+  "user": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "news": {
+    "$oid": "626ab28ab1a6352948859c10"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651697193001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6272eb229d5ec0af7907f58b"
+  },
+  "count": 4,
+  "user": {
+    "$oid": "60de3ef6ec3263b71f037685"
+  },
+  "news": {
+    "$oid": "6272eb139d5ec0af7907f4d4"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651698466934"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6272f1a594b12ce5a7475cc9"
+  },
+  "count": 2,
+  "user": {
+    "$oid": "61b28560999ddc9e549a233c"
+  },
+  "news": {
+    "$oid": "626ab28ab1a6352948859c10"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651700133147"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6272f1dd94b12ce5a7475ce3"
+  },
+  "count": 2,
+  "user": {
+    "$oid": "61b28560999ddc9e549a233c"
+  },
+  "news": {
+    "$oid": "6254c99bce4be52826d89f50"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651700189171"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273e53cab6e116a233b6b59"
+  },
+  "count": 4,
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "news": {
+    "$oid": "6273df4170bf9dedd3306ca2"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651762492714"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273e770ab6e116a233b6f45"
+  },
+  "count": 2,
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "news": {
+    "$oid": "6273009f94b12ce5a7476ade"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651763056567"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273e772ab6e116a233b6f4d"
+  },
+  "count": 2,
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "news": {
+    "$oid": "6272ffc194b12ce5a74769eb"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651763058789"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273e784ab6e116a233b6f64"
+  },
+  "count": 1,
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "news": {
+    "$oid": "6272ff3494b12ce5a747680f"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651763076463"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273e786ab6e116a233b6f6c"
+  },
+  "count": 1,
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "news": {
+    "$oid": "6272fec794b12ce5a747672b"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651763078439"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273e787ab6e116a233b6f74"
+  },
+  "count": 1,
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "news": {
+    "$oid": "6272fe4e94b12ce5a74765e8"
+  },
+  "type": "read",
+  "details": "Se ha leído la noticia",
+  "date": {
+    "$date": {
+      "$numberLong": "1651763079915"
+    }
+  },
+  "__v": 0
+}]

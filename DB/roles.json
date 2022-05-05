@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5fc72eb2dc677e93f1e80fae"
+  },
+  "roleName": "model",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc72eb9dc677e93f1e80faf"
+  },
+  "roleName": "monitor",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc72ec5dc677e93f1e80fb0"
+  },
+  "roleName": "coordinator",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc72ecedc677e93f1e80fb1"
+  },
+  "roleName": "superadmin",
+  "__v": 0
+}]

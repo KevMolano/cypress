@@ -1,0 +1,409 @@
+[{
+  "_id": {
+    "$oid": "61fc55aa28fd67609182d257"
+  },
+  "modelId": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "5fba7301583b3d9d827e8098"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1643986800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1644001200000"
+    }
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "10:00 AM - 02:00 PM"
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643927047720"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61f97ed66bb8040eb8ecca03"
+  },
+  "modelId": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "5fba7301583b3d9d827e8098"
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1644001200000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1644030000000"
+    }
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643927047726"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61fc55be28fd67609182d275"
+  },
+  "modelId": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "5fba7301583b3d9d827e8098"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1644030000000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1644040800000"
+    }
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 01:00 AM"
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643927047728"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61fc556a28fd67609182d07f"
+  },
+  "modelId": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "5fba7301583b3d9d827e8098"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1643943600000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1643958000000"
+    }
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 02:00 AM"
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "6148cd90a8ee3459cb4232e6"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643927485432"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61fd344628fd67609182db15"
+  },
+  "modelId": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "isDayWork": false,
+  "roomId": {
+    "$oid": "615643e4c9243e8401cb0a1b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1644202800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1644231600000"
+    }
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643984888666"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61fd341728fd67609182dac2"
+  },
+  "modelId": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "615643e4c9243e8401cb0a1b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1644058800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1644073200000"
+    }
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 10:00 AM"
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643984917726"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61fd342728fd67609182dae0"
+  },
+  "modelId": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "615643e4c9243e8401cb0a1b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1644102000000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1644116400000"
+    }
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "06:00 PM - 10:00 PM"
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643984917727"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61f97ed76bb8040eb8eccb08"
+  },
+  "modelId": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "61564422c9243e8401cb0a51"
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1644116400000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1644145200000"
+    }
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643984917728"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61fd340c28fd67609182da8d"
+  },
+  "modelId": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "615643e4c9243e8401cb0a1b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1644001200000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1644030000000"
+    }
+  },
+  "workShift": {
+    "name": "late",
+    "schedule": "02:00 PM - 10:00 PM"
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643985092179"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61f97ed76bb8040eb8eccb05"
+  },
+  "modelId": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "61564422c9243e8401cb0a51"
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1644030000000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1644058800000"
+    }
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "619ec36c2b41462eb4be3371"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1643985092180"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620d1ce37bdae27741740ba4"
+  },
+  "modelId": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "5fba7301583b3d9d827e8098"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1645066800000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1645095600000"
+    }
+  },
+  "workShift": {
+    "name": "night",
+    "schedule": "10:00 PM - 06:00 AM"
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1645026763233"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620bb248d98a353af13e7131"
+  },
+  "modelId": {
+    "$oid": "6203f9070bdbdbe74e53d41f"
+  },
+  "isDayWork": true,
+  "roomId": {
+    "$oid": "615642afc9243e8401cb0964"
+  },
+  "workShift": {
+    "name": "morning",
+    "schedule": "06:00 AM - 02:00 PM"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1645095600000"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1645124400000"
+    }
+  },
+  "__v": 0,
+  "whoCancel": {
+    "$oid": "60f1f067f2f2fb76b081d06c"
+  },
+  "dateCancel": {
+    "$date": {
+      "$numberLong": "1645041598275"
+    }
+  }
+}]

@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "6272ea6d9d5ec0af7907f150"
+  },
+  "files": [],
+  "idUser": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "idRelation": {
+    "$oid": "6272ea4d9d5ec0af7907eff8"
+  },
+  "description": "Respuesta de prueba",
+  "type": "helpMessage",
+  "date": {
+    "$date": {
+      "$numberLong": "1651698285474"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6272ea7c9d5ec0af7907f262"
+  },
+  "files": [
+    {
+      "link": "https://cdn.models1a.com/dev/autologin/cases/messages/dfc607cf-2b5d-7d12-e81d-463aa20d0506/1651698299700_265512942_394128559079970_7423994331452044004_n_preview_rev_1.png",
+      "name": "1651698299700_265512942_394128559079970_7423994331452044004_n_preview_rev_1.png",
+      "type": "image/png"
+    }
+  ],
+  "idUser": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "idRelation": {
+    "$oid": "6272ea4d9d5ec0af7907eff8"
+  },
+  "description": "Respuesta de prueba con archivo ",
+  "type": "helpMessage",
+  "date": {
+    "$date": {
+      "$numberLong": "1651698300299"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6272ed7a9d5ec0af7907fc9d"
+  },
+  "files": [
+    {
+      "link": "https://cdn.models1a.com/dev/autologin/cases/messages/14c1c4c7-2771-35e3-8aa7-e6a59feb2289/1651699066512_265512942_394128559079970_7423994331452044004_n_preview_rev_1.png",
+      "name": "1651699066512_265512942_394128559079970_7423994331452044004_n_preview_rev_1.png",
+      "type": "image/png"
+    }
+  ],
+  "idUser": {
+    "$oid": "627295a7e598584cc65df1a5"
+  },
+  "idRelation": {
+    "$oid": "6272ec369d5ec0af7907f9f2"
+  },
+  "description": "Esta es la solucion a tu problema",
+  "type": "helpMessage",
+  "date": {
+    "$date": {
+      "$numberLong": "1651699066991"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6272eef79d5ec0af7907ff35"
+  },
+  "files": [
+    {
+      "link": "https://cdn.models1a.com/dev/autologin/cases/messages/8629ca31-fa9c-3e68-d517-14bfc5a98b4f/1651699447272_249534303_689782915328815_7910678291339293307_n 3.jpg",
+      "name": "1651699447272_249534303_689782915328815_7910678291339293307_n 3.jpg",
+      "type": "image/jpeg"
+    }
+  ],
+  "idUser": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "idRelation": {
+    "$oid": "6272ec8d9d5ec0af7907fa89"
+  },
+  "description": "Con este archivo revisan ",
+  "type": "helpMessage",
+  "date": {
+    "$date": {
+      "$numberLong": "1651699447986"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627306288a1b0d11914a5da0"
+  },
+  "files": [
+    {
+      "link": "https://cdn.models1a.com/dev/autologin/cases/messages/dcd5f96b-5045-571e-cc6b-1b32f053e908/1651705383501_worldOnegroup.mp4",
+      "name": "1651705383501_worldOnegroup.mp4",
+      "type": "video/mp4"
+    }
+  ],
+  "idUser": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "idRelation": {
+    "$oid": "627305cf8a1b0d11914a5d1e"
+  },
+  "description": "ergregtrhyt",
+  "type": "helpMessage",
+  "date": {
+    "$date": {
+      "$numberLong": "1651705384267"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6273069a8a1b0d11914a5e4c"
+  },
+  "files": [],
+  "idUser": {
+    "$oid": "60df3a99ec3263b71f07390f"
+  },
+  "idRelation": {
+    "$oid": "6272ec8d9d5ec0af7907fa89"
+  },
+  "description": "OE dev",
+  "type": "helpMessage",
+  "date": {
+    "$date": {
+      "$numberLong": "1651705498934"
+    }
+  },
+  "__v": 0
+}]

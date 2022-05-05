@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  },
+  "officeName": "L1",
+  "cityName": "Medellín",
+  "__v": 0,
+  "isEnable": true,
+  "cityId": {
+    "$oid": "5fba5cb7e9239d7b04639c3b"
+  }
+},{
+  "_id": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  },
+  "isEnable": true,
+  "officeName": "L2",
+  "cityName": "Medellín",
+  "__v": 0,
+  "cityId": {
+    "$oid": "5fba5cb7e9239d7b04639c3b"
+  }
+},{
+  "_id": {
+    "$oid": "6156421c3980bd80e22395e6"
+  },
+  "isEnable": true,
+  "officeName": "L3",
+  "cityName": "Medellín",
+  "__v": 0,
+  "cityId": {
+    "$oid": "5fba5cb7e9239d7b04639c3b"
+  }
+},{
+  "_id": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  },
+  "isEnable": true,
+  "officeName": "L4",
+  "cityName": "Medellín",
+  "__v": 0,
+  "cityId": {
+    "$oid": "5fba5cb7e9239d7b04639c3b"
+  }
+},{
+  "_id": {
+    "$oid": "613232a1680f71db47ebefc9"
+  },
+  "isEnable": true,
+  "officeName": "CUC",
+  "cityName": "Cúcuta",
+  "__v": 0,
+  "cityId": {
+    "$oid": "5fba5ce4e9239d7b04639c3f"
+  }
+},{
+  "_id": {
+    "$oid": "615642353980bd80e22395ef"
+  },
+  "isEnable": true,
+  "officeName": "BOG",
+  "cityName": "Bogotá",
+  "__v": 0,
+  "cityId": {
+    "$oid": "5fba5ccae9239d7b04639c3d"
+  }
+},{
+  "_id": {
+    "$oid": "615642579a745482ac6847f3"
+  },
+  "isEnable": true,
+  "officeName": "P1",
+  "cityName": "Pereira",
+  "__v": 0,
+  "cityId": {
+    "$oid": "5fba5cd8e9239d7b04639c3e"
+  }
+},{
+  "_id": {
+    "$oid": "6156425f9a745482ac6847fb"
+  },
+  "isEnable": true,
+  "officeName": "P2",
+  "cityName": "Pereira",
+  "__v": 0,
+  "cityId": {
+    "$oid": "5fba5cd8e9239d7b04639c3e"
+  }
+},{
+  "_id": {
+    "$oid": "61c3898d17ef8809ebd1e798"
+  },
+  "isEnable": true,
+  "cityName": "PRUEBA",
+  "cityId": {
+    "$oid": "61c3898017ef8809ebd1e791"
+  },
+  "officeName": "p21",
+  "__v": 0
+}]

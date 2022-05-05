@@ -1,0 +1,365 @@
+[{
+  "_id": {
+    "$oid": "6160ce26f8fa9c237f7963cf"
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1633716182000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "6160ce26f8fa9c237f7963cd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633716182000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61610231f8fa9c237f7965ec"
+  },
+  "user": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1633729505000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "61610231f8fa9c237f7965ea"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633729505000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6161027ef8fa9c237f796625"
+  },
+  "user": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1633729582000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "6161027ef8fa9c237f796623"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633729582000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6161029ef8fa9c237f796646"
+  },
+  "user": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "creator": {
+    "$oid": "615efebd5362a43b1060be6e"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1633729614000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "6161029ef8fa9c237f796644"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633729614000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616102c5f8fa9c237f79667a"
+  },
+  "user": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "creator": {
+    "$oid": "615cb5125cd32426ec0f8dc9"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1633729653000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "616102c5f8fa9c237f796678"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633729653000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616117a4f8fa9c237f796762"
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1633734996000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "616117a4f8fa9c237f796760"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633734996000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616a2079ce6187876d475e72"
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1634327081000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "616a2079ce6187876d475e70"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634327081000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616a6185ce6187876d475fa8"
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "creator": {
+    "$oid": "615cb5125cd32426ec0f8dc9"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1634343733000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "616a6185ce6187876d475fa6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634343733000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170a9af6a8768d36392fdb3"
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "creator": {
+    "$oid": "615efebd5362a43b1060be6e"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1634755423000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "6170a9af6a8768d36392fdb1"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634755423000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61745bd9d66c641486f160ca"
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "creator": {
+    "$oid": "615cb5125cd32426ec0f8dc9"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1634997641000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "61745bd9d66c641486f160c8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634997641000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174aa2bd66c641486f168e9"
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1635017691000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "6174aa2bd66c641486f168e7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017691000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174ab0dd66c641486f16947"
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1635017917000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "6174ab0dd66c641486f16945"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017917000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61755292d66c641486f16c5d"
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "creator": {
+    "$oid": "615efebd5362a43b1060be6e"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1635060802000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "61755292d66c641486f16c5b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635060802000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61755b21d66c641486f16cfd"
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "activated": {
+    "$date": {
+      "$numberLong": "1635062993000"
+    }
+  },
+  "period": "monthly",
+  "status": "active",
+  "transaction": {
+    "$oid": "61755b21d66c641486f16cfb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635062993000"
+    }
+  },
+  "__v": 0
+}]

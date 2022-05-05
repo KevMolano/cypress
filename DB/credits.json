@@ -1,0 +1,1475 @@
+[{
+  "_id": {
+    "$oid": "614d0baf1986ce98c7c38a7a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632421215000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 800,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614d13e21986ce98c7c38ad2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632423314000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 1600,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614d17591986ce98c7c38ae2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632424201000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "reload",
+  "mount": 1400,
+  "balance": 3000,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614d1c3b1986ce98c7c38af8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632425451000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "reload",
+  "mount": 1400,
+  "balance": 4400,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614e28566e156cc0719db4b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632494086000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 5200,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614e4764665a12c3930b33dd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632502036000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "reload",
+  "mount": 50,
+  "balance": 50,
+  "details": "Welcome gift",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614e6c95665a12c3930b3497"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632511557000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 850,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614e780b4f858cd0da87bf65"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632514491000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "reload",
+  "mount": 3000,
+  "balance": 3850,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614f802b4f858cd0da87bfb6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632582107000"
+    }
+  },
+  "user": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 800,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6153a893ba20f74d8ba8ebc0"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632854595000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "reload",
+  "mount": 1400,
+  "balance": 6600,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6153c7a0ba20f74d8ba8f3b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632862544000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "reload",
+  "mount": 3000,
+  "balance": 9600,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6154f05b719b986f3e7fe390"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632938507000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 4650,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6154f6f2719b986f3e7fe3bb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632940194000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "reload",
+  "mount": 3000,
+  "balance": 7650,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6155d5d8719b986f3e7fe40f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1632997256000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 8450,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6155e17350a80f7a4df7fd55"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633000227000"
+    }
+  },
+  "user": {
+    "$oid": "6155e17350a80f7a4df7fd51"
+  },
+  "type": "reload",
+  "mount": 50,
+  "balance": 50,
+  "details": "Welcome gift",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615bdd31663d8cd14799151a"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633392353000"
+    }
+  },
+  "user": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 1600,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ce23415791cdf77019025"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633459172000"
+    }
+  },
+  "user": {
+    "$oid": "6155e17350a80f7a4df7fd51"
+  },
+  "type": "pay",
+  "mount": 5,
+  "balance": 45,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615f4ef8e97a5cfbd2e05a6e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633618088000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 9592,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6160ce26f8fa9c237f7963cd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633716182000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 8442,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6161021ef8fa9c237f7965d8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633729486000"
+    }
+  },
+  "user": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 800,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61610231f8fa9c237f7965ea"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633729505000"
+    }
+  },
+  "user": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 792,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6161027ef8fa9c237f796623"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633729582000"
+    }
+  },
+  "user": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 784,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6161029ef8fa9c237f796644"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633729614000"
+    }
+  },
+  "user": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 776,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616102c5f8fa9c237f796678"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633729653000"
+    }
+  },
+  "user": {
+    "$oid": "60dddbe9838628007d206721"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 768,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616117a4f8fa9c237f796760"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1633734996000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 8434,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616a2079ce6187876d475e70"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634327081000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 9584,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616a6185ce6187876d475fa6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634343733000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 9576,
+  "details": "Pay subscription",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170a8156a8768d36392fd22"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634755013000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 800,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170a8386a8768d36392fd40"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634755048000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 799,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615efebd5362a43b1060be6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170a8e16a8768d36392fd77"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634755217000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 798,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6170a9af6a8768d36392fdb1"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634755423000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 790,
+  "details": "Pay subscription",
+  "creator": {
+    "$oid": "615efebd5362a43b1060be6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617327cf6a8768d36392ff34"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634918783000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 6,
+  "balance": 8428,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617328716a8768d36392ff40"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634918945000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 50,
+  "balance": 8378,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617328f36a8768d36392ff50"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634919075000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "reload",
+  "mount": 800,
+  "balance": 9178,
+  "details": "Buy credits",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617333d5fd0d6b09fd616b56"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634921861000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 9177,
+  "details": "Unlock content",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "post": {
+    "$oid": "61732a596a8768d36392ff74"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617365c7d66c641486f15b7c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634934647000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 50,
+  "balance": 9127,
+  "details": "Unlock content",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "post": {
+    "$oid": "61733554fd0d6b09fd616bc5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61742743d66c641486f15c97"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634984179000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 4,
+  "balance": 786,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61742747d66c641486f15ca5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634984183000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 6,
+  "balance": 780,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174274bd66c641486f15cb1"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634984187000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 779,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174274ed66c641486f15cbf"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634984190000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 4,
+  "balance": 775,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61742752d66c641486f15ccb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634984194000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 774,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61742763d66c641486f15ce5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634984211000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 50,
+  "balance": 724,
+  "details": "Unlock content",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "post": {
+    "$oid": "61733554fd0d6b09fd616bc5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617427c3d66c641486f15d14"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634984307000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 723,
+  "details": "Unlock content",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "post": {
+    "$oid": "61732a596a8768d36392ff74"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61745bd9d66c641486f160c8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1634997641000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 715,
+  "details": "Pay subscription",
+  "creator": {
+    "$oid": "615cb5125cd32426ec0f8dc9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174a720d66c641486f16853"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635016912000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 714,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174a72fd66c641486f16861"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635016927000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 2,
+  "balance": 712,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174a7bcd66c641486f16885"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017068000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 6,
+  "balance": 706,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174a82ad66c641486f16891"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017178000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 705,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174a8d6d66c641486f168ab"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017350000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 2,
+  "balance": 703,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174a9a6d66c641486f168bd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017558000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 4,
+  "balance": 699,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb5125cd32426ec0f8dc9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174a9afd66c641486f168cb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017567000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 2,
+  "balance": 697,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb5125cd32426ec0f8dc9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174aa2bd66c641486f168e7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017691000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 689,
+  "details": "Pay subscription",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174aaadd66c641486f16912"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017821000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 2,
+  "balance": 687,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6174ab0dd66c641486f16945"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635017917000"
+    }
+  },
+  "user": {
+    "$oid": "612518c93da127e95a003af2"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 679,
+  "details": "Pay subscription",
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6175520fd66c641486f16bd5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635060671000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 9575,
+  "details": "Unlock content",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "post": {
+    "$oid": "61732a596a8768d36392ff74"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61755227d66c641486f16be7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635060695000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 4,
+  "balance": 9571,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6175522ed66c641486f16bf5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635060702000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 4,
+  "balance": 9567,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6175524cd66c641486f16c16"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635060732000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 50,
+  "balance": 9517,
+  "details": "Unlock content",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "post": {
+    "$oid": "61733554fd0d6b09fd616bc5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61755292d66c641486f16c5b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635060802000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 9509,
+  "details": "Pay subscription",
+  "creator": {
+    "$oid": "615efebd5362a43b1060be6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61755ae2d66c641486f16ce0"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635062930000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 9508,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61755ae4d66c641486f16cee"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635062932000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 4,
+  "balance": 9504,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61755b21d66c641486f16cfb"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635062993000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 8,
+  "balance": 9496,
+  "details": "Pay subscription",
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61755cabd66c641486f17570"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635063387000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 2,
+  "balance": 9494,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61755d7ed66c641486f175aa"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635063598000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 4,
+  "balance": 9490,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61770a3178b22a3bc28e000f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635173345000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 250,
+  "balance": 8877,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61789177070b0c4e31ef1f43"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635273511000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 9489,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb5125cd32426ec0f8dc9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61794b0c070b0c4e31ef207f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635321020000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 9488,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c16690ce06f7369f17b0e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635504153000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 9487,
+  "details": "Send gift",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c16e00ce06f7369f17b4c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635504272000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 9486,
+  "details": "Send gift",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c16f60ce06f7369f17b6b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635504294000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 9485,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c16fd0ce06f7369f17b79"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635504301000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 6,
+  "balance": 9479,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c17030ce06f7369f17b87"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635504307000"
+    }
+  },
+  "user": {
+    "$oid": "61115fec912ac409d4a65310"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 9478,
+  "details": "Send gift",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c7731fda87288d8bb2e3e"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635528929000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 4,
+  "balance": 8873,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c775bfda87288d8bb2e4c"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1635528971000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 1,
+  "balance": 8872,
+  "details": "Send gift",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61845ab3982805d436abeb5f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1636045923000"
+    }
+  },
+  "user": {
+    "$oid": "614e4764665a12c3930b33d9"
+  },
+  "type": "pay",
+  "mount": 50,
+  "balance": 8822,
+  "details": "Unlock content",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "post": {
+    "$oid": "617c8f22fda87288d8bb2f54"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6185746dbf8212e20afd4d29"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1636118045000"
+    }
+  },
+  "user": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "type": "pay",
+  "mount": 4,
+  "balance": 1596,
+  "details": "Send flowers",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "618893085d6d02ea781759dd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1636322488000"
+    }
+  },
+  "user": {
+    "$oid": "60de3c66ec3263b71f03459a"
+  },
+  "type": "pay",
+  "mount": 150,
+  "balance": 1446,
+  "details": "Send tip",
+  "creator": {
+    "$oid": "615cb4de5cd32426ec0f8dbd"
+  },
+  "__v": 0
+}]

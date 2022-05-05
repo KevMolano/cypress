@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "606df4b4360e1d2938942cd7"
+  },
+  "newsId": {
+    "$oid": "606df4b4360e1d2938942cd5"
+  },
+  "language": "en",
+  "title": "EXPERIENCE MODELS1A",
+  "describe": "Experience have you seen yourself in Dubai, Romania, Paris, Frankfurt, Budapest? mega cities marked by history, glamor, prestige and activities to share. Models1A, the only agency in the country that gives you the opportunity to visit and learn about new cultures, escape from everyday life and immerse yourself in experiences that will mark your life.",
+  "btnSignupText": "Sign up",
+  "btnMoreInfText": "More information",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df4b4360e1d2938942cd6"
+  },
+  "newsId": {
+    "$oid": "606df4b4360e1d2938942cd5"
+  },
+  "language": "es",
+  "title": "EXPERIENCIA MODELS1A",
+  "describe": "¿Te has visto en Dubai, Rumania, París, Frankfurt, Budapest? mega ciudades marcadas de historia, glamour, prestigio y actividades para compartir. Models1A, la única agencia del país que le brinda la oportunidad de visitar y conocer nuevas culturas, escaparte de la cotidianidad y sumergirse en experiencias que marcarán tu vida.",
+  "btnSignupText": "Registrarme",
+  "btnMoreInfText": "Más información",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df5f9360e1d2938942cd9"
+  },
+  "newsId": {
+    "$oid": "606df5f9360e1d2938942cd8"
+  },
+  "language": "es",
+  "title": "FIESTA DE FIN DE AÑO MODELS1A 2019",
+  "describe": "Una noche llena de estrellas, gritos de alegría, anécdotas y risas donde reconocemos y valoramos el trabajo incansable de cada una de las personas que forman parte de esta gran familia 1A. Una noche donde todos nos reunimos para celebrar el éxito obtenido este 2019.",
+  "btnSignupText": "Registrarme",
+  "btnMoreInfText": "Más información",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df5f9360e1d2938942cda"
+  },
+  "newsId": {
+    "$oid": "606df5f9360e1d2938942cd8"
+  },
+  "language": "en",
+  "title": "END OF YEAR PARTY MODELS1A 2019",
+  "describe": "A night full of stars, shouts of joy, anecdotes and laughter where we recognize and value the tireless work of each of the people who are part of this great 1A family. An evening where we all came together to celebrate the success achieved in 2019.",
+  "btnSignupText": "Sign up",
+  "btnMoreInfText": "More information",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df6b5360e1d2938942cdc"
+  },
+  "newsId": {
+    "$oid": "606df6b5360e1d2938942cdb"
+  },
+  "language": "es",
+  "title": "MODELS1A EN DUBAI",
+  "describe": "Models1A crea experiencias que marcan la diferencia. Somos una empresa en crecimiento, muy competitiva, visionaria, dedicada y comprometida, no solo en generar resultados, sino también en premiar y valorar tu esfuerzo y tu desempeño como ninguna otra empresa es capaz de hacerlo.",
+  "btnSignupText": "Registrarme",
+  "btnMoreInfText": "Más información",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df6b5360e1d2938942cdd"
+  },
+  "newsId": {
+    "$oid": "606df6b5360e1d2938942cdb"
+  },
+  "language": "en",
+  "title": "MODELS1A IN DUBAI",
+  "describe": "Models1A creates experiences that make a difference. We are a growing company, very competitive, visionary, dedicated and committed, not only in generating results, but also in rewarding and valuing your effort and performance like no other company is capable of doing.",
+  "btnSignupText": "Sign up",
+  "btnMoreInfText": "More information",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df85f360e1d2938942cdf"
+  },
+  "newsId": {
+    "$oid": "606df85f360e1d2938942cde"
+  },
+  "language": "es",
+  "title": "MODELS1A EN BUCAREST",
+  "describe": "Mira a través de los ojos de Models1A a Bucarest, ciudad donde las empresas mas prestigiosas y productivas del mundo se encuentran. Nuestro eslogan es \"Se el mejor entre los mejores\". Así que únete a nuestro gran equipo de GANADORAS.",
+  "btnSignupText": "Registrarme",
+  "btnMoreInfText": "Más información",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df85f360e1d2938942ce0"
+  },
+  "newsId": {
+    "$oid": "606df85f360e1d2938942cde"
+  },
+  "language": "en",
+  "title": "MODELS1A IN BUCHAREST",
+  "describe": "Models1A visited one of the most ostentatious and luxurious cities in Eastern Europe. A spectacular city with a lot o f Latin influence that, believe it or not, They speak perfect Spanish, something very normal in all of Romania. Look through the eyes of Models1A at Bucharest, the city where the most prestigious and productive companies in the world meet. Our slogan is \"Be the best of the best\". So join our great team of WINNERS.",
+  "btnSignupText": "Sign up",
+  "btnMoreInfText": "More information",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df91c360e1d2938942ce2"
+  },
+  "newsId": {
+    "$oid": "606df91c360e1d2938942ce1"
+  },
+  "language": "es",
+  "title": "PARA ASIA CON MODELS1A",
+  "describe": "8 GANADORAS se van para Thailandia, China y Singapur con todos los gastos pagos. Nosotros creamos experiencias, valoramos y premiamos tu gran desempeño como ninguna otra empresa lo hace. Prepárate porque este 2020 está lleno de sorpresas, incentivos, viajes, regalos, lujos, apartamentos, carros nuevos y mucha diversión.",
+  "btnSignupText": "Registrarme",
+  "btnMoreInfText": "Más información",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606df91c360e1d2938942ce3"
+  },
+  "newsId": {
+    "$oid": "606df91c360e1d2938942ce1"
+  },
+  "language": "en",
+  "title": "TO ASIA WITH MODELS1A",
+  "describe": "8 WINNERS ARE GOING to Thailand, China and Singapore with all expenses paid. We create experiences, value and reward your great performance like no other company does. Get ready because this 2020 is full of surprises, incentives, trips, gifts, luxuries, apartments, new cars and a lot of fun.",
+  "btnSignupText": "Sign up",
+  "btnMoreInfText": "More information",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606dfbc9360e1d2938942ce5"
+  },
+  "newsId": {
+    "$oid": "606dfbc9360e1d2938942ce4"
+  },
+  "language": "es",
+  "title": "PREMIOS 2018",
+  "describe": "Models1A siempre está reconociendo su equipo de trabajo, integrandolo y llevándolo a su más alto desempeño gracias al constante agradecimiento hacia ellos. En esta ocasión vive los mejores momentos de la premiación 2018.",
+  "btnSignupText": "Registrarme",
+  "btnMoreInfText": "Más información",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606dfbc9360e1d2938942ce6"
+  },
+  "newsId": {
+    "$oid": "606dfbc9360e1d2938942ce4"
+  },
+  "language": "en",
+  "title": "2018 AWARDS",
+  "describe": "Models1A is always recognizing its task force, integrating it and taking it to its highest performance thanks to the constant gratitude towards them. On this occasion, the best moments are lived in the 2018 awards.",
+  "btnSignupText": "Sign up",
+  "btnMoreInfText": "More information",
+  "__v": 0
+}]

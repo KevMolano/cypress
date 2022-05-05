@@ -1,0 +1,6196 @@
+[{
+  "_id": {
+    "$oid": "60760758e06c3571a29a2b19"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv1.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295261001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760773e06c3571a29a2b1a"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv10.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295321001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076078be06c3571a29a2b1b"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv11.jpeg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295381001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076079ce06c3571a29a2b1c"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv12.jpeg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295441001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607607ace06c3571a29a2b1d"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv13.jpeg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295501001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607607c5e06c3571a29a2b1e"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv15.jpeg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295561001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607607d2e06c3571a29a2b1f"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv16.jpeg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295621001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607607e1e06c3571a29a2b20"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv17.jpeg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295681001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607607f6e06c3571a29a2b21"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv2.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295741001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607607fde06c3571a29a2b22"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv3.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295801001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760804e06c3571a29a2b23"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv4.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295861001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076080ce06c3571a29a2b24"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv5.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295921001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760815e06c3571a29a2b25"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv6.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620295981001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076081ce06c3571a29a2b26"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv7.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620296041001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760823e06c3571a29a2b27"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv8.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620296101001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076084de06c3571a29a2b28"
+  },
+  "alt": "Models1A - Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv9.jpg",
+  "categoryId": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620296161001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760c145bcc8f71f70bb945"
+  },
+  "alt": "Models1A - CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts1.jpg",
+  "categoryId": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620468061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760c235bcc8f71f70bb946"
+  },
+  "alt": "Models1A - CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts2.jpg",
+  "categoryId": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620468121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760c2b5bcc8f71f70bb947"
+  },
+  "alt": "Models1A - CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts3.jpg",
+  "categoryId": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620468181001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760c325bcc8f71f70bb948"
+  },
+  "alt": "Models1A - CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts4.jpg",
+  "categoryId": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620468241001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760c395bcc8f71f70bb949"
+  },
+  "alt": "Models1A - CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts5.jpg",
+  "categoryId": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620468301001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760c795bcc8f71f70bb94a"
+  },
+  "alt": "Models1A - CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts6.jpg",
+  "categoryId": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620468361001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760c7f5bcc8f71f70bb94b"
+  },
+  "alt": "Models1A - CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts7.jpg",
+  "categoryId": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620468421001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760c865bcc8f71f70bb94c"
+  },
+  "alt": "Models1A - CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts8.jpg",
+  "categoryId": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620468481001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760c8e5bcc8f71f70bb94d"
+  },
+  "alt": "Models1A - CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts9.jpg",
+  "categoryId": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620468541001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760ce45bcc8f71f70bb94e"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/eu1.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620640861001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760cf75bcc8f71f70bb94f"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_0402.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620640921001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d085bcc8f71f70bb950"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_0405.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620640981001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d145bcc8f71f70bb951"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1174.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641041001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d235bcc8f71f70bb952"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1186.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641101001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d325bcc8f71f70bb953"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1411.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641161001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d475bcc8f71f70bb954"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1613.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641221001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d515bcc8f71f70bb955"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1651.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641281001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d615bcc8f71f70bb956"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1663.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641341001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d705bcc8f71f70bb957"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1729.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641401001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d7d5bcc8f71f70bb958"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1752.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641461001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760d915bcc8f71f70bb959"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1829.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641521001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760db05bcc8f71f70bb95a"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1834.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641581001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760dbc5bcc8f71f70bb95b"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1843.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641641001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760dc95bcc8f71f70bb95c"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1960.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641701001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760dd55bcc8f71f70bb95d"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1967.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641761001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760de15bcc8f71f70bb95e"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_1983.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641821001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760e045bcc8f71f70bb95f"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_2033.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641881001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760e295bcc8f71f70bb960"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_2035.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620641941001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760e4c5bcc8f71f70bb961"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/Europa_M1A_2113.jpg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642001001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760e5c5bcc8f71f70bb962"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-1.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760e6b5bcc8f71f70bb963"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-13.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760e785bcc8f71f70bb964"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-14.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642181001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760e8b5bcc8f71f70bb965"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-2.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642241001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760e925bcc8f71f70bb966"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-3.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642301001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760e985bcc8f71f70bb967"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-4.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642361001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760ea25bcc8f71f70bb968"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-5.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642421001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760eab5bcc8f71f70bb969"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-6.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642481001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760eb35bcc8f71f70bb96a"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-7.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642541001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760eba5bcc8f71f70bb96b"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-8.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642601001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60760f3f5bcc8f71f70bb96c"
+  },
+  "alt": "Models1A - Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/europa-9.jpeg",
+  "categoryId": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620642661001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607614a75bcc8f71f70bb993"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re1.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620122461001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607614c45bcc8f71f70bb994"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re10.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620122521001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607614d15bcc8f71f70bb995"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re11.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620122581001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607614fc5bcc8f71f70bb996"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re3.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620122641001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607615075bcc8f71f70bb997"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re4.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620122701001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076150d5bcc8f71f70bb998"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re5.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620122761001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607615135bcc8f71f70bb999"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re6.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620122821001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076151d5bcc8f71f70bb99a"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re7.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620122881001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607615295bcc8f71f70bb99b"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re8.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620122941001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607615305bcc8f71f70bb99c"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re9.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620123001001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607615615bcc8f71f70bb99d"
+  },
+  "alt": "Models1A - Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re2.jpg",
+  "categoryId": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620123061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609553d862d67f864350ba34"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r48.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620986461001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609553ed62d67f864350ba35"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r47.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620986521001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609553f462d67f864350ba36"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r46.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620986581001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095568d62d67f864350ba37"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r45.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620986641001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095569862d67f864350ba38"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r44.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620986701001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095569e62d67f864350ba39"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r43.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620986761001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556a262d67f864350ba3a"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r42.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620986821001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556a562d67f864350ba3b"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r41.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620986881001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556ba62d67f864350ba3c"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r40.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620986941001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556be62d67f864350ba3d"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r39.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987001001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556c362d67f864350ba3e"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r38.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556c662d67f864350ba3f"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r37.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556c962d67f864350ba40"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r36.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987181001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556cc62d67f864350ba41"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r35.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987241001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556cf62d67f864350ba42"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r34.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987301001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556d262d67f864350ba43"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r33.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987361001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556d562d67f864350ba44"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r32.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987421001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556d762d67f864350ba45"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r31.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987481001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556dc62d67f864350ba46"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r30.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987541001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609556eb62d67f864350ba47"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r29.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987601001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095571d62d67f864350ba48"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r28.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987661001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095572062d67f864350ba49"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r27.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987721001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095572362d67f864350ba4a"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r26.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987781001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095572562d67f864350ba4b"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r25.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987841001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095572862d67f864350ba4c"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r24.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987901001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095572b62d67f864350ba4d"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r23.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620987961001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095572e62d67f864350ba4e"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r22.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988021001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095573162d67f864350ba4f"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r21.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988081001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095573462d67f864350ba50"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r20.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988141001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095573862d67f864350ba51"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r19.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988201001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095578962d67f864350ba52"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r18.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988261001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095578c62d67f864350ba53"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r17.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988321001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095579a62d67f864350ba54"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r16.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988381001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095579d62d67f864350ba55"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r15.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988441001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095579f62d67f864350ba56"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r14.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988501001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609557a162d67f864350ba57"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r13.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988561001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609557a462d67f864350ba58"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r12.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988621001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609557a762d67f864350ba59"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r11.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988681001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609557a962d67f864350ba5a"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r10.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988741001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609557b962d67f864350ba5b"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r09.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988801001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609557e962d67f864350ba5c"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r08.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988861001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609557ed62d67f864350ba5d"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r07.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988921001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609557f562d67f864350ba5e"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r06.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620988981001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095580162d67f864350ba5f"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r05.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620989041001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095581b62d67f864350ba60"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r04.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620989101001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095581e62d67f864350ba61"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r03.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620989161001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095582162d67f864350ba62"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r02.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620989221001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6095582362d67f864350ba63"
+  },
+  "alt": "Models1A - Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/r01.jpg",
+  "categoryId": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620989281001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609558da62d67f864350ba64"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a94.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620813661001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609558e462d67f864350ba65"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a93.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620813721001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609558e762d67f864350ba66"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a92.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620813781001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609558ea62d67f864350ba67"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a91.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620813841001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609558ed62d67f864350ba68"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a90.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620813901001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a1b62d67f864350ba69"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a89.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620813961001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a2362d67f864350ba6a"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a88.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814021001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a3162d67f864350ba6b"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a87.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814081001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a3462d67f864350ba6c"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a86.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814141001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a3762d67f864350ba6d"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a85.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814201001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a3a62d67f864350ba6e"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a84.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814261001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a3d62d67f864350ba6f"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a83.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814321001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a4062d67f864350ba70"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a82.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814381001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a4362d67f864350ba71"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a81.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814441001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a4562d67f864350ba72"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a80.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814501001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a4962d67f864350ba73"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a79.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814561001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a4c62d67f864350ba74"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a78.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814621001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a4e62d67f864350ba75"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a77.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814681001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a5262d67f864350ba76"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a76.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814741001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a5562d67f864350ba77"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a75.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814801001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a5762d67f864350ba78"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a74.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814861001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a5a62d67f864350ba79"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a73.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814921001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a5d62d67f864350ba7a"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a72.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620814981001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a5f62d67f864350ba7b"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a71.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815041001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955a6562d67f864350ba7c"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a70.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815101001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d2b62d67f864350ba7d"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a69.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815161001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d2e62d67f864350ba7e"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a68.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815221001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d3162d67f864350ba7f"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a67.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815281001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d3362d67f864350ba80"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a66.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815341001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d3662d67f864350ba81"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a65.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815401001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d3962d67f864350ba82"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a64.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815461001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d3c62d67f864350ba83"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a63.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815521001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d3f62d67f864350ba84"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a62.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815581001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d4262d67f864350ba85"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a61.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815641001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d4562d67f864350ba86"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a60.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815701001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d4a62d67f864350ba87"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a59.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815761001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d4d62d67f864350ba88"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a58.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815821001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d4f62d67f864350ba89"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a57.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815881001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d5462d67f864350ba8a"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a56.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620815941001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d5762d67f864350ba8b"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a55.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816001001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d5a62d67f864350ba8c"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a54.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d5c62d67f864350ba8d"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a53.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d5f62d67f864350ba8e"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a52.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816181001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d6262d67f864350ba8f"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a51.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816241001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d6562d67f864350ba90"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a50.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816301001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d9c62d67f864350ba91"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a49.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816361001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955d9f62d67f864350ba92"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a48.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816421001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955da162d67f864350ba93"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a47.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816481001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955da462d67f864350ba94"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a46.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816541001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955da662d67f864350ba95"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a45.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816601001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955da962d67f864350ba96"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a44.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816661001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dab62d67f864350ba97"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a43.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816721001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dae62d67f864350ba98"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a42.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816781001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955db062d67f864350ba99"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a41.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816841001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955db362d67f864350ba9a"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a40.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816901001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955db662d67f864350ba9b"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a39.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620816961001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955db962d67f864350ba9c"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a38.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817021001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dbc62d67f864350ba9d"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a37.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817081001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dbe62d67f864350ba9e"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a36.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817141001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dc162d67f864350ba9f"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a35.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817261001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dc662d67f864350baa0"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a34.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817321001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dc962d67f864350baa1"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a33.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817381001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dcc62d67f864350baa2"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a32.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817441001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dcf62d67f864350baa3"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a31.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817501001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dd162d67f864350baa4"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a30.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817561001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dd562d67f864350baa5"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a29.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817621001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dd762d67f864350baa6"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a28.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817681001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dda62d67f864350baa7"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a27.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817741001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955ddd62d67f864350baa8"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a26.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817801001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955de062d67f864350baa9"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a25.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817861001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955de262d67f864350baaa"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a24.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817921001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955de562d67f864350baab"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a23.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620817981001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955de762d67f864350baac"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a22.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818041001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dea62d67f864350baad"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a21.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818101001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955ded62d67f864350baae"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a20.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818161001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955df062d67f864350baaf"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a19.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818221001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955df362d67f864350bab0"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a18.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818281001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955df662d67f864350bab1"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a17.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818341001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955df962d67f864350bab2"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a16.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818401001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dfc62d67f864350bab3"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a15.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818461001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955dff62d67f864350bab4"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a14.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818521001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e0262d67f864350bab5"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a13.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818581001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e0562d67f864350bab6"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a12.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818641001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e0762d67f864350bab7"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a11.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818701001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e0a62d67f864350bab8"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a10.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818761001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e0e62d67f864350bab9"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a09.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818821001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e1162d67f864350baba"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a08.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818881001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e1462d67f864350babb"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a07.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620818941001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e1662d67f864350babc"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a06.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620819001001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e1962d67f864350babd"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a05.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620819061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e1b62d67f864350babe"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a04.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620819121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e1d62d67f864350babf"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a03.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620819181001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e2062d67f864350bac0"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a02.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620819241001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60955e2262d67f864350bac1"
+  },
+  "alt": "Models1A - Awards2019",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a01.jpg",
+  "categoryId": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1620819301001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f17162d67f864350bac2"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m52.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f19362d67f864350bac3"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m51.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f19662d67f864350bac4"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m50.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332181001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f19c62d67f864350bac5"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m49.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332241001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f19f62d67f864350bac6"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m48.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332301001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1a362d67f864350bac7"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m47.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332361001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1a662d67f864350bac8"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m46.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332421001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1aa62d67f864350bac9"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m45.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332481001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1ad62d67f864350baca"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m44.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332541001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1b062d67f864350bacb"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m43.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332601001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1b362d67f864350bacc"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m42.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332661001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1b962d67f864350bacd"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m41.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332721001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1bc62d67f864350bace"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m40.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332781001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1da62d67f864350bacf"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m39.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332841001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1dc62d67f864350bad0"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m38.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332901001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1df62d67f864350bad1"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m37.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621332961001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1e162d67f864350bad2"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m36.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333021001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1e562d67f864350bad3"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m35.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333081001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1e862d67f864350bad4"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m34.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333141001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1eb62d67f864350bad5"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m33.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333201001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1ee62d67f864350bad6"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m32.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333261001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1f162d67f864350bad7"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m31.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333321001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f1f462d67f864350bad8"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m30.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333381001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f23b62d67f864350bad9"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m29.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333441001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f23e62d67f864350bada"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m28.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333501001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f24262d67f864350badb"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m27.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333561001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f24562d67f864350badc"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m26.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333621001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f24762d67f864350badd"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m25.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333681001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f24962d67f864350bade"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m24.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333741001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f24d62d67f864350badf"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m23.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333801001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f24f62d67f864350bae0"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m22.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333861001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f25562d67f864350bae1"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m21.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333921001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f25862d67f864350bae2"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m20.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621333981001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f27162d67f864350bae3"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m19.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334041001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f27362d67f864350bae4"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m18.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334101001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f27662d67f864350bae5"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m17.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334161001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f27a62d67f864350bae6"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m16.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334221001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f27d62d67f864350bae7"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m15.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334281001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f28062d67f864350bae8"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m14.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334341001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f28362d67f864350bae9"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m13.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334401001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f28662d67f864350baea"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m12.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334461001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f28962d67f864350baeb"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m11.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334521001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f28b62d67f864350baec"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m10.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334581001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f2a262d67f864350baed"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m9.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334641001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f2a462d67f864350baee"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m8.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334701001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f2a662d67f864350baef"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m7.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334761001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f2a962d67f864350baf0"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m6.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334821001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f2ac62d67f864350baf1"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m5.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334881001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f2af62d67f864350baf2"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m4.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621334941001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f2b262d67f864350baf3"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m3.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621335001001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f2b462d67f864350baf4"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m2.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621335061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3f2b762d67f864350baf5"
+  },
+  "alt": "Models1A - Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m1.jpg",
+  "categoryId": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621335121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41a9f62d67f864350baf6"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D153.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159261001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41aa862d67f864350baf7"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D152.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159321001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41aab62d67f864350baf8"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D151.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159381001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41aaf62d67f864350baf9"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D150.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159441001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b2262d67f864350bafa"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D149.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159501001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b2662d67f864350bafb"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D148.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159561001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b2962d67f864350bafc"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D147.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159621001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b2c62d67f864350bafd"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D146.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159681001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b2e62d67f864350bafe"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D145.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159741001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b3162d67f864350baff"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D144.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159801001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b3462d67f864350bb00"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D143.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159861001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b3662d67f864350bb01"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D142.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159921001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b3962d67f864350bb02"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D141.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621159981001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b3c62d67f864350bb03"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D140.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160041001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b4062d67f864350bb04"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D139.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160101001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b4362d67f864350bb05"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D138.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160161001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b4862d67f864350bb06"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D137.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160221001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b4a62d67f864350bb07"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D136.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160281001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b4d62d67f864350bb08"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D135.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160341001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b5062d67f864350bb09"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D134.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160401001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b5362d67f864350bb0a"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D133.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160461001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b5662d67f864350bb0b"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D132.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160521001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b5862d67f864350bb0c"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D131.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160581001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41b5b62d67f864350bb0d"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D130.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160641001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41bc462d67f864350bb0e"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D129.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160701001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41bc662d67f864350bb0f"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D128.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160761001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41bca62d67f864350bb10"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D127.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160821001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41bcc62d67f864350bb11"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D126.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160881001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41bcf62d67f864350bb12"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D125.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621160941001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41bd162d67f864350bb13"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D124.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161001001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41bd562d67f864350bb14"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D123.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41c8262d67f864350bb18"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D122.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41c8f62d67f864350bb19"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D121.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161181001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41c9162d67f864350bb1a"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D120.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161241001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41c9462d67f864350bb1b"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D119.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161301001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41c9d62d67f864350bb1c"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D118.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161361001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41cad62d67f864350bb1d"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D117.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161421001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41cb062d67f864350bb1e"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D116.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161481001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41cb362d67f864350bb1f"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D115.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161541001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41cb562d67f864350bb20"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D114.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161601001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41cb862d67f864350bb21"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D113.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161661001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41cba62d67f864350bb22"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D112.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161721001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41cbd62d67f864350bb23"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D111.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161781001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41cbf62d67f864350bb24"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D110.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161841001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d0462d67f864350bb25"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D109.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161901001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d0d62d67f864350bb26"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D108.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621161961001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d1062d67f864350bb27"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D107.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162021001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d1362d67f864350bb28"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D106.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162081001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d1662d67f864350bb29"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D105.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162141001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d1862d67f864350bb2a"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D104.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162201001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d1b62d67f864350bb2b"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D103.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162261001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d1f62d67f864350bb2c"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D102.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162321001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d2162d67f864350bb2d"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D101.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162381001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d2462d67f864350bb2e"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D100.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162441001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d7962d67f864350bb2f"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D99.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162501001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d7d62d67f864350bb30"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D98.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162561001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d9a62d67f864350bb31"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D97.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162621001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41d9d62d67f864350bb32"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D96.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162681001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41da062d67f864350bb33"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D95.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162741001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41da262d67f864350bb34"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D94.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162861001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41da562d67f864350bb35"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D93.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162921001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41da762d67f864350bb36"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D92.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621162981001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41daa62d67f864350bb37"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D91.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163041001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41dae62d67f864350bb38"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D90.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163101001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41dd362d67f864350bb39"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D89.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163161001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41dd662d67f864350bb3a"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D88.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163221001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41dd862d67f864350bb3b"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D87.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163281001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41ddb62d67f864350bb3c"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D86.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163341001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41ddd62d67f864350bb3d"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D85.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163401001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41de062d67f864350bb3e"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D84.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163461001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41de362d67f864350bb3f"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D83.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163521001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41de562d67f864350bb40"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D82.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163581001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41de862d67f864350bb41"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D81.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163641001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41dea62d67f864350bb42"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D80.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163701001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e1162d67f864350bb43"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D79.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163761001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e1462d67f864350bb44"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D78.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163821001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e1762d67f864350bb45"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D77.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163881001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e1a62d67f864350bb46"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D76.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621163941001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e1d62d67f864350bb47"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D75.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164001001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e1f62d67f864350bb48"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D74.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e2262d67f864350bb49"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D73.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e2562d67f864350bb4a"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D72.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164181001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e2762d67f864350bb4b"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D71.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164241001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a41e2a62d67f864350bb4c"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D70.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164301001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4219562d67f864350bb4d"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D69.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164361001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4219862d67f864350bb4e"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D68.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164421001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a421a562d67f864350bb4f"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D67.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164481001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a421a962d67f864350bb50"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D66.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164541001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a421ab62d67f864350bb51"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D65.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164601001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a421ae62d67f864350bb52"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D64.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164661001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4227e62d67f864350bb53"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D63.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164721001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4228262d67f864350bb54"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D62.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164781001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4228462d67f864350bb55"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D61.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164841001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4228862d67f864350bb56"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D60.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164901001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4228b62d67f864350bb57"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D59.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621164961001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4228e62d67f864350bb58"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D58.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165021001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4229162d67f864350bb59"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D57.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165081001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4229462d67f864350bb5a"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D56.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165141001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a423b062d67f864350bb63"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D54.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165201001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a423c462d67f864350bb64"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D53.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165261001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424d062d67f864350bb65"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D52.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165321001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424d262d67f864350bb66"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D51.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165381001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424d662d67f864350bb67"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D50.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165441001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424d962d67f864350bb68"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D49.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165501001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424db62d67f864350bb69"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D48.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165561001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424de62d67f864350bb6a"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D47.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165621001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424e162d67f864350bb6b"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D46.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165681001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424e462d67f864350bb6c"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D45.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165741001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424e762d67f864350bb6d"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D44.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165801001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424ea62d67f864350bb6e"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D43.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165861001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424ec62d67f864350bb6f"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D42.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165921001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424ef62d67f864350bb70"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D41.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621165981001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424f262d67f864350bb71"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D40.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166041001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a424fe62d67f864350bb72"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D39.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166101001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4253362d67f864350bb73"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D38.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166161001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4253662d67f864350bb74"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D37.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166221001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4253862d67f864350bb75"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D36.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166281001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4253c62d67f864350bb76"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D35.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166341001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4253f62d67f864350bb77"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D34.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166461001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4254162d67f864350bb78"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D33.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166521001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4254462d67f864350bb79"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D32.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166581001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4254662d67f864350bb7a"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D31.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166641001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4254962d67f864350bb7b"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D30.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166701001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4254b62d67f864350bb7c"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D29.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166761001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4254e62d67f864350bb7d"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D28.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166821001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4255162d67f864350bb7e"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D27.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166881001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4255962d67f864350bb7f"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D26.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621166941001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4255c62d67f864350bb80"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D25.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167001001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4255f62d67f864350bb81"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D24.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167061001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4256162d67f864350bb82"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D23.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167121001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4256462d67f864350bb83"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D22.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167181001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4256662d67f864350bb84"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D21.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167241001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425a962d67f864350bb85"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D20.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167301001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425ac62d67f864350bb86"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D19.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167361001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425af62d67f864350bb87"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D18.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167421001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425b162d67f864350bb88"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D17.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167481001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425b462d67f864350bb89"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D16.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167541001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425b662d67f864350bb8a"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D15.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167601001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425b962d67f864350bb8b"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D14.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167661001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425bb62d67f864350bb8c"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D13.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167721001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425be62d67f864350bb8d"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D12.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167781001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425c162d67f864350bb8e"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D11.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167841001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425e662d67f864350bb8f"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D10.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167901001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425e962d67f864350bb90"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D09.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621167961001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a425ec62d67f864350bb91"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D08.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621168021001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4263c62d67f864350bb93"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D07.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621168081001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4264c62d67f864350bb94"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D06.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621168141001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4264f62d67f864350bb95"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D05.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621168201001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4265262d67f864350bb96"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D04.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621168261001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4265562d67f864350bb97"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D03.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621168321001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4265862d67f864350bb98"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D02.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621168381001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4265a62d67f864350bb99"
+  },
+  "alt": "Models1A - Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D01.jpg",
+  "categoryId": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1621168441001"
+    }
+  },
+  "__v": 0
+}]

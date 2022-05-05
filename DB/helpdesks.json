@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "6272ea4d9d5ec0af7907eff8"
+  },
+  "files": [],
+  "status": "await",
+  "isOpen": false,
+  "priority": "low",
+  "name": "",
+  "ticket": 1,
+  "area": {
+    "$oid": "626aa80887b4a30ccbd18746"
+  },
+  "city": "Pereira",
+  "description": "Hola como estas",
+  "otherDetail": "",
+  "typeRequirement": {
+    "$oid": "626ab35887b4a30ccbd18757"
+  },
+  "whoCreate": {
+    "$oid": "60df3c17ec3263b71f073a9f"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651698253800"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1651698253800"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6272ec369d5ec0af7907f9f2"
+  },
+  "files": [],
+  "status": "close",
+  "isOpen": true,
+  "priority": "urgent",
+  "name": "",
+  "ticket": 2,
+  "area": {
+    "$oid": "626aa7d087b4a30ccbd18745"
+  },
+  "city": "Medellín",
+  "description": "Hola soy clementina necesito ayuda en la habitacion med007 ",
+  "otherDetail": "",
+  "typeRequirement": {
+    "$oid": "626ab35887b4a30ccbd18757"
+  },
+  "whoCreate": {
+    "$oid": "614e3c66b22be8c3a3db314b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651698742664"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1651698742664"
+    }
+  },
+  "__v": 0,
+  "asignament": {
+    "$oid": "627295a7e598584cc65df1a5"
+  }
+},{
+  "_id": {
+    "$oid": "6272ec8d9d5ec0af7907fa89"
+  },
+  "files": [],
+  "status": "process",
+  "isOpen": false,
+  "priority": "medium",
+  "name": "",
+  "ticket": 3,
+  "area": {
+    "$oid": "626aa84887b4a30ccbd18748"
+  },
+  "city": "Medellín",
+  "description": "Buen dia coordinadores necesito que por favor me valides las actividad de las modelos ",
+  "otherDetail": "",
+  "typeRequirement": {
+    "$oid": "626abfff1bccb73b9432b0aa"
+  },
+  "whoCreate": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651698829106"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1651698829106"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6272ed0a9d5ec0af7907fad9"
+  },
+  "files": [],
+  "status": "close",
+  "isOpen": false,
+  "priority": "low",
+  "name": "",
+  "ticket": 4,
+  "area": {
+    "$oid": "626aa632d0d67de28c1c1a37"
+  },
+  "city": "Medellín",
+  "description": "Personas de ti Por favor  validar el porque cuando creo algo no da \r\nPersonas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da Personas De Ti Por Favor  Validar El Porque Cuando Creo Algo No Da ",
+  "otherDetail": "",
+  "typeRequirement": {
+    "$oid": "626ab93453056ef76686f164"
+  },
+  "whoCreate": {
+    "$oid": "612644c5cba84cf8785d59cd"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651698954425"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1651698954425"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627305cf8a1b0d11914a5d1e"
+  },
+  "files": [
+    {
+      "link": "https://cdn.models1a.com/dev/autologin/cases/9d859768-104b-3e13-0026-d6fd0b6652a7/1651705295213_m4.png",
+      "name": "1651705295213_m4.png",
+      "type": "image/png"
+    },
+    {
+      "link": "https://cdn.models1a.com/dev/autologin/cases/9d859768-104b-3e13-0026-d6fd0b6652a7/1651705295530_women3.jpg",
+      "name": "1651705295530_women3.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "link": "https://cdn.models1a.com/dev/autologin/cases/9d859768-104b-3e13-0026-d6fd0b6652a7/1651705295636_women2.jpg",
+      "name": "1651705295636_women2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "link": "https://cdn.models1a.com/dev/autologin/cases/9d859768-104b-3e13-0026-d6fd0b6652a7/1651705295785_women1.jpg",
+      "name": "1651705295785_women1.jpg",
+      "type": "image/jpeg"
+    }
+  ],
+  "status": "close",
+  "isOpen": false,
+  "priority": "low",
+  "name": "",
+  "ticket": 5,
+  "area": {
+    "$oid": "626aa80887b4a30ccbd18746"
+  },
+  "city": "Medellín",
+  "description": "ytutyutyrutyuhdfghfdghgf",
+  "otherDetail": "",
+  "typeRequirement": {
+    "$oid": "62702e0e50caf8169a63d37e"
+  },
+  "whoCreate": {
+    "$oid": "619ec1aa2b41462eb4be333f"
+  },
+  "asignament": {
+    "$oid": "614baa846a0b9e82f29e753b"
+  },
+  "date": {
+    "$date": {
+      "$numberLong": "1651705295989"
+    }
+  },
+  "dateTo": {
+    "$date": {
+      "$numberLong": "1651705295989"
+    }
+  },
+  "__v": 0
+}]

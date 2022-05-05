@@ -1,0 +1,1741 @@
+[{
+  "_id": {
+    "$oid": "5fba7301583b3d9d827e8098"
+  },
+  "roomName": "MED01",
+  "officeName": "L1",
+  "__v": 0,
+  "isEnable": true,
+  "qualification": "3",
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642568127"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "613232af680f71db47ebefd1"
+  },
+  "isEnable": false,
+  "qualification": "5",
+  "roomName": "CUC01",
+  "officeName": "CUC",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1646777627286"
+    }
+  },
+  "repairStatus": "repair",
+  "officeId": {
+    "$oid": "613232a1680f71db47ebefc9"
+  }
+},{
+  "_id": {
+    "$oid": "613a7670a2a34aeafe99a45b"
+  },
+  "isEnable": false,
+  "qualification": "4",
+  "roomName": "CUC02",
+  "officeName": "CUC",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "613232a1680f71db47ebefc9"
+  }
+},{
+  "_id": {
+    "$oid": "614e5c86b22be8c3a3db3513"
+  },
+  "isEnable": null,
+  "qualification": "3",
+  "roomName": "MED32",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1639411123201"
+    }
+  },
+  "repairStatus": "repair",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "61564297c9243e8401cb0952"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED02",
+  "officeName": "L1",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "Mantenimiento listo",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1634334457417"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "6156429fc9243e8401cb0958"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED03",
+  "officeName": "L1",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "615642a6c9243e8401cb095e"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED04",
+  "officeName": "L1",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "615642afc9243e8401cb0964"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED05",
+  "officeName": "L1",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "615642b7c9243e8401cb096a"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED06",
+  "officeName": "L1",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "615642c2c9243e8401cb0970"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED07",
+  "officeName": "L1",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "615642c9c9243e8401cb0976"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED08",
+  "officeName": "L1",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "615642d0c9243e8401cb097c"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED09",
+  "officeName": "L1",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "615642d9c9243e8401cb0982"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED10",
+  "officeName": "L1",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "5fba6a43f96f1691369b295c"
+  }
+},{
+  "_id": {
+    "$oid": "615642f3c9243e8401cb0988"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED11",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "615642fac9243e8401cb098e"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED12",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "61564303c9243e8401cb0994"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED13",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "61564309c9243e8401cb099a"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED14",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "6156430fc9243e8401cb09a0"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED15",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "61564316c9243e8401cb09a6"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED16",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "6156431fc9243e8401cb09ac"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED17",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "61564325c9243e8401cb09b2"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED18",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "6156432cc9243e8401cb09b8"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED19",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "61564334c9243e8401cb09be"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED20",
+  "officeName": "L2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6144f152acfdb12dfe94c386"
+  }
+},{
+  "_id": {
+    "$oid": "61564366c9243e8401cb09ca"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED33",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": true,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "noRepair",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "61564370c9243e8401cb09d0"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED34",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "61564378c9243e8401cb09d9"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED35",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "6156437ec9243e8401cb09df"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED36",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "61564384c9243e8401cb09e5"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED37",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "6156438bc9243e8401cb09eb"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED38",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "61564392c9243e8401cb09f1"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED39",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "61564399c9243e8401cb09f7"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED40",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "615643a2c9243e8401cb09fd"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED41",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "615643acc9243e8401cb0a03"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED42",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "615643b6c9243e8401cb0a09"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED43",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "615643bec9243e8401cb0a0f"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED44",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "615643c6c9243e8401cb0a15"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED45",
+  "officeName": "L4",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  }
+},{
+  "_id": {
+    "$oid": "615643e4c9243e8401cb0a1b"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED21",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "Se arregla el teclado",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633645725348"
+    }
+  },
+  "repairStatus": "repair",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "615643ebc9243e8401cb0a21"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED22",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "615643f2c9243e8401cb0a27"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED23",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "615643f8c9243e8401cb0a2d"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED24",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "615643fec9243e8401cb0a33"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED25",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "61564405c9243e8401cb0a39"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED26",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "6156440dc9243e8401cb0a3f"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED27",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "61564413c9243e8401cb0a45"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED28",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "6156441ac9243e8401cb0a4b"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED29",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "61564422c9243e8401cb0a51"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED30",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "6156442ec9243e8401cb0a57"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "MED31",
+  "officeName": "L3",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156421c3980bd80e22395e6"
+  }
+},{
+  "_id": {
+    "$oid": "6156446fc9243e8401cb0a5f"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "PER01",
+  "officeName": "P2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156425f9a745482ac6847fb"
+  }
+},{
+  "_id": {
+    "$oid": "61564476c9243e8401cb0a65"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "PER02",
+  "officeName": "P2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156425f9a745482ac6847fb"
+  }
+},{
+  "_id": {
+    "$oid": "6156447dc9243e8401cb0a6b"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "PER03",
+  "officeName": "P2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156425f9a745482ac6847fb"
+  }
+},{
+  "_id": {
+    "$oid": "61564484c9243e8401cb0a71"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "PER04",
+  "officeName": "P2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156425f9a745482ac6847fb"
+  }
+},{
+  "_id": {
+    "$oid": "6156448bc9243e8401cb0a77"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "PER05",
+  "officeName": "P2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156425f9a745482ac6847fb"
+  }
+},{
+  "_id": {
+    "$oid": "61564493c9243e8401cb0a7d"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "PER06",
+  "officeName": "P2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156425f9a745482ac6847fb"
+  }
+},{
+  "_id": {
+    "$oid": "6156449ac9243e8401cb0a83"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "PER07",
+  "officeName": "P2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156425f9a745482ac6847fb"
+  }
+},{
+  "_id": {
+    "$oid": "615644a2c9243e8401cb0a89"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "PER08",
+  "officeName": "P2",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "6156425f9a745482ac6847fb"
+  }
+},{
+  "_id": {
+    "$oid": "615644d7c9243e8401cb0a90"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG01",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "dfdsfsdf",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1639414787699"
+    }
+  },
+  "repairStatus": "repair",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "615644e4c9243e8401cb0a96"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG02",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "615644ebc9243e8401cb0a9c"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG03",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "615644f2c9243e8401cb0aa2"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG04",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "615644fbc9243e8401cb0aa8"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG05",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564501c9243e8401cb0aae"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG06",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564508c9243e8401cb0ab4"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG07",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "6156450ec9243e8401cb0aba"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG08",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564514c9243e8401cb0ac0"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG09",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "6156451cc9243e8401cb0ac6"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG10",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564524c9243e8401cb0acc"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG11",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "6156452cc9243e8401cb0ad2"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG12",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564536c9243e8401cb0ad8"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG13",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "6156453ec9243e8401cb0ade"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG14",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564544c9243e8401cb0ae4"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG15",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "6156454ac9243e8401cb0aea"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG16",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564551c9243e8401cb0af0"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG17",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564557c9243e8401cb0af6"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG18",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "6156455ec9243e8401cb0afc"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG19",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564567c9243e8401cb0b02"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG20",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "Se realizó correctamente el mantenimiento",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1634334502134"
+    }
+  },
+  "repairStatus": "repair",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564572c9243e8401cb0b08"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG21",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564581c9243e8401cb0b0f"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG22",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "6156458ac9243e8401cb0b15"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG23",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "61564595c9243e8401cb0b1b"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "BOG24",
+  "officeName": "BOG",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "615642353980bd80e22395ef"
+  }
+},{
+  "_id": {
+    "$oid": "615645bfc9243e8401cb0b2d"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "CUC03",
+  "officeName": "CUC",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "613232a1680f71db47ebefc9"
+  }
+},{
+  "_id": {
+    "$oid": "615645c6c9243e8401cb0b33"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "CUC04",
+  "officeName": "CUC",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "613232a1680f71db47ebefc9"
+  }
+},{
+  "_id": {
+    "$oid": "615645cdc9243e8401cb0b39"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "CUC05",
+  "officeName": "CUC",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "613232a1680f71db47ebefc9"
+  }
+},{
+  "_id": {
+    "$oid": "615645d4c9243e8401cb0b3f"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "CUC06",
+  "officeName": "CUC",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "613232a1680f71db47ebefc9"
+  }
+},{
+  "_id": {
+    "$oid": "615645dbc9243e8401cb0b45"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "CUC07",
+  "officeName": "CUC",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "613232a1680f71db47ebefc9"
+  }
+},{
+  "_id": {
+    "$oid": "615645e2c9243e8401cb0b4b"
+  },
+  "isEnable": true,
+  "qualification": "3",
+  "roomName": "CUC08",
+  "officeName": "CUC",
+  "__v": 0,
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1633642028906"
+    }
+  },
+  "repairStatus": "",
+  "officeId": {
+    "$oid": "613232a1680f71db47ebefc9"
+  }
+},{
+  "_id": {
+    "$oid": "61c389a817ef8809ebd1e7a0"
+  },
+  "isEnable": true,
+  "qualification": "5",
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "repairStatus": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1640204248543"
+    }
+  },
+  "officeName": "p21",
+  "officeId": {
+    "$oid": "61c3898d17ef8809ebd1e798"
+  },
+  "roomName": "pru201",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62311ad4fbefeb434b5efcef"
+  },
+  "isEnable": true,
+  "qualification": "4",
+  "statusMaintenence": false,
+  "comentMaintenence": "",
+  "repairStatus": "",
+  "lastUpdateState": {
+    "$date": {
+      "$numberLong": "1647385225726"
+    }
+  },
+  "officeName": "L4",
+  "officeId": {
+    "$oid": "614e5c65b22be8c3a3db350b"
+  },
+  "roomName": "MED46",
+  "__v": 0
+}]

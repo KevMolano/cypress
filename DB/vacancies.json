@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "6102b8e51d1a235d4aa6b06b"
+  },
+  "requirements": [
+    "Edad entre 18 y 30 años",
+    "Compromiso",
+    "Buen registro",
+    "Disponibilidad de tiempo",
+    "Tener cédula original o pasaporte"
+  ],
+  "requirements_en": [
+    "Age between 18 and 30 years old",
+    "Commitment",
+    "Good track record",
+    "Availability of time",
+    "Have original identity card or passport"
+  ],
+  "title": "Modelo",
+  "title_en": "Model",
+  "city": "Medellín - Pereira - Cúcuta - Bogotá",
+  "description": "¿Estás lista para cambiar tu vida? Models1A te ofrece la oportunidad, buscamos modelos con buena actitud y carisma que deseen crecer profesionalmente y generar grandes ingresos. Debe ser una persona disciplinada, con objetivos claros y, sobre todo, responsable.&nbsp; No es necesario que cuentes con experiencia, en Models1A la puedes adquirir.<br>",
+  "description_en": "Are you ready to change your life? Models1A offers you the opportunity, we are looking for models with good attitude and charisma who want to grow professionally and generate great income. You must be a disciplined person, with clear objectives and, above all, responsible.&nbsp; It is not necessary that you have experience, in Models1A you can acquire it.",
+  "experience": 0,
+  "image": "https://new-web-site-bucket.s3.amazonaws.com/admin/employees/vacancies/6102b8e51d1a235d4aa6b06b/modelo1.jpg",
+  "name": "modelo",
+  "__v": 0,
+  "priority": 1,
+  "isShow": true
+},{
+  "_id": {
+    "$oid": "6102bf271d1a235d4aa6b08c"
+  },
+  "requirements": [],
+  "requirements_en": [],
+  "title": "Monitor Bilingüe - Asesor de Ventas ",
+  "title_en": "Monitor o Asesor de Ventas Bilingüe",
+  "city": "Medellín",
+  "description": "",
+  "description_en": "",
+  "experience": 0,
+  "image": "https://new-web-site-bucket.s3.amazonaws.com/admin/employees/vacancies/6102bf271d1a235d4aa6b08c/monitor.jpg",
+  "name": "monitorbilingue-asesordeventas",
+  "__v": 0,
+  "priority": 4,
+  "isShow": false
+},{
+  "_id": {
+    "$oid": "6102c0341d1a235d4aa6b090"
+  },
+  "requirements": [
+    "Enviar reel de video si se cuenta con uno",
+    "Disponibilidad tiempo completo",
+    "Portafolio"
+  ],
+  "requirements_en": [
+    "Full time availability",
+    "Portfolio",
+    "Send video reel (if available)"
+  ],
+  "title": "Fotógrafo",
+  "title_en": "Photographer",
+  "city": "Cúcuta",
+  "description": "<div>Buscamos Fotógrafo para nuestro equipo de trabajo con conocimientos en:</div><div>⦁ Fotografía de retrato y video</div><div>⦁ Manejo de flash en interior y exterior</div><div>⦁ Buena interacción y manejo de la modelo</div><div>Debe tener manejo de herramientas de edición tales como: Photoshop, Lightroom y Adobe Premiere.</div><div><br></div>",
+  "description_en": "<div><div>We are looking for Photographer for our team with knowledge in:</div><div>⦁ Portrait and video photography.</div><div>⦁ Indoor and outdoor flash handling.</div><div>⦁ Good interaction and model handling.</div><div>Must have command of editing tools such as: Photoshop, Lightroom and Adobe Premiere.</div></div><div><br></div>",
+  "experience": 2,
+  "image": "https://new-web-site-bucket.s3.amazonaws.com/admin/employees/vacancies/6102d77bd243886a001f240e/Fotografo.jpg",
+  "name": "fotografo",
+  "__v": 0,
+  "priority": 0,
+  "isShow": true
+},{
+  "_id": {
+    "$oid": "6102c1161d1a235d4aa6b094"
+  },
+  "requirements": [
+    "Portafolio",
+    "Disponibilidad tiempo completo",
+    "Trabajo presencial"
+  ],
+  "requirements_en": [
+    "Portfolio",
+    "Full time availability",
+    "Face-to-face work"
+  ],
+  "title": "Diseñador Gráfico",
+  "title_en": "Graphic Designer",
+  "city": "Medellín",
+  "description": "Buscamos Diseñador Gráfico en la ciudad de Medellín para creación y edición de fotografía, vídeo y piezas gráficas para diferentes medios. Debe tener manejo de la Suite de Adobe: Photoshop, Illustrator, After Effects y Premiere. Es importante que la persona sea comprometida, creativa, innovadora y proactiva.<br>",
+  "description_en": "We are looking for a Graphic Designer in the city of Medellin to create and edit photography, video and graphic pieces for different media. Must be proficient in Adobe Suite: Photoshop, Illustrator, After Effects and Premiere. It is important that the person is committed, creative, innovative and proactive.",
+  "experience": 2,
+  "image": "https://new-web-site-bucket.s3.amazonaws.com/admin/employees/vacancies/6102c1161d1a235d4aa6b094/Dise%C3%B1ador%20Grafico.jpg",
+  "name": "disenadorgrafico",
+  "__v": 0,
+  "priority": 2,
+  "isShow": true
+},{
+  "_id": {
+    "$oid": "6102c27b1d1a235d4aa6b09b"
+  },
+  "requirements": [
+    "Portafolio",
+    "Disponibilidad tiempo completo",
+    "Dominio suite de adobe"
+  ],
+  "requirements_en": [
+    "Portfolio",
+    "Full time availability",
+    "Proficient in adobe suite"
+  ],
+  "title": "Post Producción de Fotografía y Vídeo",
+  "title_en": "Photography and Video Post Production",
+  "city": "Medellín",
+  "description": "Buscamos persona para nuestro equipo de Diseño, quien será el encargado de la post producción de fotografía y vídeo. Debe tener experiencia en edición de fotografía de retrato, edición de piel, beauty y colorización, además de manejo programas como Adobe Photoshop, Premiere o Davinci Resolve.<br>",
+  "description_en": "We are looking for a person for our Design team, who will be in charge of the photography and video post production. You must have experience in portrait photo editing, skin editing, beauty and colorization, as well as using programs such as Adobe Photoshop, Premiere or Davinci Resolve.",
+  "experience": 2,
+  "image": "https://new-web-site-bucket.s3.amazonaws.com/admin/employees/vacancies/6102c27b1d1a235d4aa6b09b/edicciondevideo02.jpg",
+  "name": "postproducciondefotografiayvideo",
+  "__v": 0,
+  "priority": 3,
+  "isShow": true
+}]

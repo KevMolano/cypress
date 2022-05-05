@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6075a33e9cad406d62afa7b7"
+  },
+  "alt": "Models1A #Modelos1A",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/modelos/m25.jpg",
+  "hashtagText": "Modelos1A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075a2f49cad406d62afa7b5"
+  },
+  "alt": "Models1A #Dubai",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/dubai/D01.jpg",
+  "hashtagText": "Dubai",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075a3de9cad406d62afa7b9"
+  },
+  "alt": "Models1A #Rumania",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/rumania/ru1.jpg",
+  "hashtagText": "Rumania",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075a2759cad406d62afa7b2"
+  },
+  "alt": "Models1A #Awards",
+  "pictureLink": "https://new-web-site-bucket.s3.amazonaws.com/website/gallery/awards2019/a88.jpg",
+  "hashtagText": "Awards",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075a3219cad406d62afa7b6"
+  },
+  "alt": "Models1A #Europa",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/europa/eu1.jpeg",
+  "hashtagText": "Europa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075a2d99cad406d62afa7b4"
+  },
+  "alt": "Models1A #CumpleTusSueños",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/cumpletussuenos/cts1.jpg",
+  "hashtagText": "CumpleTusSueños",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075a2b19cad406d62afa7b3"
+  },
+  "alt": "Models1A #Convocatorias",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/convocatorias/conv1.jpg",
+  "hashtagText": "Convocatorias",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6075a37b9cad406d62afa7b8"
+  },
+  "alt": "Models1A #Reuniones&Eventos",
+  "pictureLink": "https://new-web-site-bucket.s3.us-east-1.amazonaws.com/website/gallery/reuniones/re1.jpg",
+  "hashtagText": "Reuniones&Eventos",
+  "__v": 0
+}]

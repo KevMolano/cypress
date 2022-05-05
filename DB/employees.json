@@ -1,0 +1,4282 @@
+[{
+  "_id": {
+    "$oid": "613ba4e9d8490c1e94f80314"
+  },
+  "professions": [
+    {
+      "profession": "sadasd",
+      "year": "123123",
+      "detail": "d"
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1631284578210"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "2891212999",
+  "name": "Alfonso",
+  "lastName": "PruebaRC",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "552718800000"
+    }
+  },
+  "email": "alfonso@test22.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "160549200000"
+    }
+  },
+  "civilStatus": "",
+  "childrensNumber": "3",
+  "brand": "onegroup",
+  "city": "Medellín",
+  "__v": 0,
+  "contactPerson": "",
+  "emailPersonal": "",
+  "numberContact": "",
+  "relationship": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bornCity": "",
+  "cellPhoneContact": "",
+  "children": [
+    {
+      "names": "asdasdas",
+      "birth": "2021-12-03",
+      "tel": "123123123",
+      "address": "asdasdas",
+      "securitySocial": false
+    }
+  ],
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "documentIDExpe": "",
+  "emailWork": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "yes",
+  "hasPermitionCapacity": "no",
+  "numberBank": "",
+  "partnerAddress": "132423",
+  "partnerBirth": "2021-12-24",
+  "partnerDocumentNumber": "12312312",
+  "partnerName": "[object InputEvent]",
+  "partnerTelephone": "324234",
+  "partnerTypeDocument": "idforeign",
+  "typePartner": "conyuge",
+  "isEnable": true,
+  "Expeditiondate": null
+},{
+  "_id": {
+    "$oid": "6143a126c00d191c335b5e4d"
+  },
+  "professions": [
+    ""
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1631821336982"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "432122343",
+  "name": "Guillermo Alfonso",
+  "lastName": "Rentería Posada",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "484963200000"
+    }
+  },
+  "email": "renpos@models1a.com",
+  "cellPhone": "3105555555",
+  "address": "Calle 45 #46-21",
+  "position": "Supernumerario",
+  "socialSecurity": "Savia",
+  "pensionFund": "Colpensiones",
+  "jobStartDate": null,
+  "civilStatus": "married",
+  "childrensNumber": "12",
+  "brand": "models1a",
+  "city": "medellin",
+  "emailPersonal": "renteria@test22.com",
+  "contactPerson": "Girlesa Montoya",
+  "relationship": "Prima",
+  "numberContact": "3213341223",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "6144f7d6a32b042e090a7bd8"
+  },
+  "professions": [
+    {
+      "profession": "Ingeniero de Software",
+      "year": "2019",
+      "detail": ""
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1631886376079"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "1000564781",
+  "name": "Jose Anibal",
+  "lastName": "Garcia Giraldo",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "996642000000"
+    }
+  },
+  "email": "test@test.com",
+  "cellPhone": "3134356576",
+  "address": "Calle 2 #20-21",
+  "position": "Desarrollador",
+  "socialSecurity": "Sura",
+  "pensionFund": "Protección",
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1625547600000"
+    }
+  },
+  "civilStatus": "single",
+  "childrensNumber": "0",
+  "brand": "onegroup",
+  "city": "medellin",
+  "emailPersonal": "jagarcia@test.com",
+  "contactPerson": "Gloria Zuluaga",
+  "relationship": "Madre",
+  "numberContact": "3136587450",
+  "__v": 0,
+  "isEnable": false
+},{
+  "_id": {
+    "$oid": "614503f80ca67832eddadd2c"
+  },
+  "professions": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1631910479504"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "4534534534",
+  "name": "Anibal",
+  "lastName": "Garcia Giraldo",
+  "email": "jose.garcia@onegroupitservices.com",
+  "position": "Fotógrafo",
+  "__v": 0,
+  "address": "",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "1028178000000"
+    }
+  },
+  "brand": "models1a",
+  "cellPhone": "",
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "contactPerson": "",
+  "emailPersonal": "",
+  "jobStartDate": null,
+  "numberContact": "",
+  "pensionFund": "",
+  "relationship": "",
+  "socialSecurity": "",
+  "isEnable": false,
+  "addressCity": "",
+  "allergyName": [],
+  "bornCity": "",
+  "cellPhoneContact": "",
+  "children": [],
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "documentIDExpe": "",
+  "emailWork": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasPermitionCapacity": "yes",
+  "numberBank": ""
+},{
+  "_id": {
+    "$oid": "614ba829198f5682f9647a2b"
+  },
+  "professions": [
+    ""
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1632328658594"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "87899221",
+  "name": "Juan ",
+  "lastName": "Benitez",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "236926800000"
+    }
+  },
+  "email": "juan@omg.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1536037200000"
+    }
+  },
+  "civilStatus": "",
+  "childrensNumber": "",
+  "brand": "omg",
+  "city": "bogota",
+  "emailPersonal": "",
+  "contactPerson": "",
+  "relationship": "",
+  "numberContact": "",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "61573cf8c706f790627661d2"
+  },
+  "professions": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1633099864496"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "12938111",
+  "name": "Vannessa Gonzalesz",
+  "email": "vannesa@test22.com",
+  "position": "model",
+  "brand": "models1a",
+  "cellPhone": "52133221",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "696470400000"
+    }
+  },
+  "jobStartDate": null,
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "615754d2c706f79062767776"
+  },
+  "professions": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1633099864496"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "52733",
+  "name": "Gertrudis Alicia",
+  "email": "gertrudis@test22.com",
+  "position": "model",
+  "brand": "models1a",
+  "cellPhone": "2381919",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "917395200000"
+    }
+  },
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1632873600000"
+    }
+  },
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "615e03e1df6b18e82fb9d5f9"
+  },
+  "professions": [
+    {
+      "detail": "",
+      "profession": "Ingeniero civil",
+      "year": "2002"
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1633530748487"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "392330843",
+  "name": "Cristiano",
+  "lastName": "Agudelo",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "358473600000"
+    }
+  },
+  "email": "cris@models1a.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": null,
+  "civilStatus": "",
+  "childrensNumber": "",
+  "brand": "models1a",
+  "city": "medellin",
+  "emailPersonal": "cris@test22.com",
+  "contactPerson": "Gertrudis Bustamante",
+  "relationship": "",
+  "numberContact": "",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "615f526972e662fbcb4c149d"
+  },
+  "professions": [
+    "",
+    {
+      "detail": "",
+      "profession": "ydxdfx",
+      "year": "54334"
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1633635909479"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "123456789654",
+  "name": "Leonel",
+  "lastName": "Messi",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "163832400000"
+    }
+  },
+  "email": "alexander.henao@onegroupitservices.com",
+  "cellPhone": "30000000000",
+  "address": "Calle 47 # 38 - 65",
+  "position": "CTO",
+  "socialSecurity": "other",
+  "pensionFund": "other",
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1616043600000"
+    }
+  },
+  "civilStatus": "single",
+  "childrensNumber": "6",
+  "brand": "onegroup",
+  "city": "Medellín",
+  "emailPersonal": "test@test.com",
+  "contactPerson": "Test",
+  "relationship": "other",
+  "numberContact": "300000000",
+  "__v": 0,
+  "code": "28i88elg",
+  "addressCity": "",
+  "allergyName": [],
+  "bornCity": "",
+  "cellPhoneContact": "",
+  "children": [],
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "documentIDExpe": "",
+  "emailWork": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "numberBank": "",
+  "pensionFundOther": "",
+  "relationshipOther": "",
+  "socialSecurityOther": "",
+  "isEnable": false
+},{
+  "_id": {
+    "$oid": "61683f1712f89c5b01074b0d"
+  },
+  "professions": [
+    ""
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1634164746765"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "895468812",
+  "name": "Catalina",
+  "lastName": "Montoya",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "288939600000"
+    }
+  },
+  "email": "cata@test22.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": null,
+  "civilStatus": "",
+  "childrensNumber": "",
+  "brand": "models1a",
+  "city": "cucuta",
+  "emailPersonal": "",
+  "contactPerson": "",
+  "relationship": "",
+  "numberContact": "",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "61683f3712f89c5b01074b10"
+  },
+  "professions": [
+    ""
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1634164746765"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "897987999",
+  "name": "Camila",
+  "lastName": "Ochoa",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "487400400000"
+    }
+  },
+  "email": "camila@test22.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": null,
+  "civilStatus": "",
+  "childrensNumber": "",
+  "brand": "models1a",
+  "city": "cucuta",
+  "emailPersonal": "",
+  "contactPerson": "",
+  "relationship": "",
+  "numberContact": "",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "6168431d12f89c5b01074b46"
+  },
+  "professions": [
+    ""
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1634164746765"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "35345324",
+  "name": "David",
+  "lastName": "Morales",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "977356800000"
+    }
+  },
+  "email": "David@models1a.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": null,
+  "civilStatus": "",
+  "childrensNumber": "",
+  "brand": "models1a",
+  "city": "bogota",
+  "emailPersonal": "",
+  "contactPerson": "",
+  "relationship": "",
+  "numberContact": "",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "6169eba2e725698401bd3d0b"
+  },
+  "professions": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1634325520537"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "8546684",
+  "name": "Gilberto",
+  "lastName": "Gutierrez",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "288421200000"
+    }
+  },
+  "email": "gilberto@models1a.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": null,
+  "civilStatus": "",
+  "childrensNumber": "",
+  "brand": "models1a",
+  "city": "Medellín",
+  "emailPersonal": "",
+  "contactPerson": "",
+  "relationship": "",
+  "numberContact": "",
+  "__v": 0,
+  "addressCity": "",
+  "allergyName": [],
+  "bornCity": "",
+  "cellPhoneContact": "",
+  "children": [],
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "directionParents": "asd",
+  "documentIDExpe": "",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "sdad",
+  "hasAffiliates": "parents",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasPermitionCapacity": "no",
+  "motherBirth": "",
+  "motherName": "",
+  "numberBank": "",
+  "telephoneParents": "123",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "6169ec3be725698401bd3d0f"
+  },
+  "professions": [
+    {
+      "profession": "Ingeniera Civil",
+      "year": "2015",
+      "detail": "Énfasis en construcción en seco"
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1634325520537"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "8987161858",
+  "name": "Carolina",
+  "lastName": "Gallón",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "567561600000"
+    }
+  },
+  "email": "carolina@onegroup.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": null,
+  "civilStatus": "single",
+  "childrensNumber": "0",
+  "brand": "onegroup",
+  "city": "Medellín",
+  "emailPersonal": "carolina@test22.com",
+  "contactPerson": "",
+  "relationship": "",
+  "numberContact": "",
+  "__v": 0,
+  "isEnable": true,
+  "addressCity": "",
+  "allergyName": [],
+  "bornCity": "",
+  "cellPhoneContact": "",
+  "children": [],
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "documentIDExpe": "Abriaquí",
+  "emailWork": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasPermitionCapacity": "yes",
+  "numberBank": "",
+  "typeHouse": "hipoteca",
+  "typeMovil": "car"
+},{
+  "_id": {
+    "$oid": "6169ecbce725698401bd3d13"
+  },
+  "professions": [
+    {
+      "profession": "Diseñadora",
+      "year": "2018",
+      "detail": "Maquetación 3D"
+    },
+    {
+      "detail": "",
+      "profession": "Ciencias artísticas",
+      "year": "2008"
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1634325520537"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "89513315488",
+  "name": "Catalina",
+  "lastName": "Montoya",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "169084800000"
+    }
+  },
+  "email": "catalina@omg.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": null,
+  "civilStatus": "",
+  "childrensNumber": "",
+  "brand": "omg",
+  "city": "bogota",
+  "emailPersonal": "",
+  "contactPerson": "",
+  "relationship": "",
+  "numberContact": "",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "6169ee1be725698401bd3d67"
+  },
+  "professions": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1634325520537"
+    }
+  },
+  "documentType": "idforeign",
+  "documentID": "1010051054",
+  "name": "Sabina Mailen ",
+  "lastName": "Ramirez Rossi",
+  "email": "samaro3000@hotmail.com",
+  "position": "Diseñador Gráfico",
+  "__v": 0,
+  "address": "",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "147675600000"
+    }
+  },
+  "brand": "models1a",
+  "cellPhone": "",
+  "childrensNumber": "",
+  "city": "medellin",
+  "civilStatus": "",
+  "contactPerson": "",
+  "emailPersonal": "",
+  "jobStartDate": null,
+  "numberContact": "",
+  "pensionFund": "",
+  "relationship": "",
+  "socialSecurity": "",
+  "isEnable": false
+},{
+  "_id": {
+    "$oid": "61704a214297becd7f846c96"
+  },
+  "professions": [
+    {
+      "detail": "Especialización en cemento",
+      "profession": "Arquitecto",
+      "year": "2005"
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1634748629762"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "1231233213",
+  "name": "pruebaRC",
+  "lastName": "pruebaRC",
+  "email": "prueba@models1a.com",
+  "position": "Diseñador Gráfico",
+  "__v": 0,
+  "address": "",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "102574800000"
+    }
+  },
+  "brand": "models1a",
+  "cellPhone": "",
+  "childrensNumber": "",
+  "city": "medellin",
+  "civilStatus": "",
+  "contactPerson": "",
+  "emailPersonal": "",
+  "jobStartDate": null,
+  "numberContact": "",
+  "pensionFund": "",
+  "relationship": "",
+  "socialSecurity": "",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "617876df9997264e2a898cc5"
+  },
+  "professions": [
+    {
+      "detail": "Énfasis en diesel",
+      "profession": "Operario de máquina pesada",
+      "year": "2000"
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1635282710492"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "897896452",
+  "name": "Guillermo",
+  "lastName": "Acevedo",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "270104400000"
+    }
+  },
+  "email": "guillermo@models1a.com",
+  "cellPhone": "",
+  "address": "",
+  "position": "",
+  "socialSecurity": "",
+  "pensionFund": "",
+  "jobStartDate": null,
+  "civilStatus": "",
+  "childrensNumber": "",
+  "brand": "models1a",
+  "city": "Medellín",
+  "emailPersonal": "",
+  "contactPerson": "",
+  "relationship": "",
+  "numberContact": "",
+  "__v": 0,
+  "addressCity": "",
+  "allergyName": [],
+  "bornCity": "",
+  "cellPhoneContact": "",
+  "children": [],
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "documentIDExpe": "",
+  "emailWork": "",
+  "gropuEtnia": "gitano",
+  "hasAffiliates": "partner",
+  "hasAllergy": "no",
+  "hasChildren": "yes",
+  "hasPermitionCapacity": "no",
+  "numberBank": "",
+  "partnerAddress": "123123",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "123123",
+  "partnerName": "Vieja pareja ",
+  "partnerTelephone": "123123",
+  "partnerTypeDocument": "idforeign",
+  "typePartner": "unionLibre",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "61844a9cc695eac68a18114a"
+  },
+  "professions": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1635975261701"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "1029457912",
+  "name": "Yaira Olaya",
+  "email": "m-bm23@test22.com",
+  "position": "model",
+  "brand": "models1a",
+  "cellPhone": "3506290364",
+  "address": "Cra 14#56a19",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "898560000000"
+    }
+  },
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1636070400000"
+    }
+  },
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "61844aa4c695eac68a181190"
+  },
+  "professions": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1635975261701"
+    }
+  },
+  "documentType": "idcard",
+  "documentID": "1088312736",
+  "name": "Maria Alejandra Rodriguez Valencia",
+  "email": "alejandra_rodriguezv@hotmail.com",
+  "position": "model",
+  "brand": "models1a",
+  "cellPhone": "3233447056",
+  "address": "Cr 28",
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "752976000000"
+    }
+  },
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1633651200000"
+    }
+  },
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "619581e53ff78bf6bc877072"
+  },
+  "professions": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1637168798277"
+    }
+  },
+  "documentType": "idforeign",
+  "documentID": "2132132131",
+  "name": "eqwewqe",
+  "lastName": "wqeqwewq",
+  "email": "KevinMolano@models1a.com",
+  "position": "Diseñador Gráfico",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "619d547bb9ab2022b42eb10f"
+  },
+  "accountBank": "nequi",
+  "accountType": "cuentaAhorro",
+  "address": "asdfsad",
+  "allergyName": [
+    "Viento"
+  ],
+  "bloodType": "bloodTypeO",
+  "brand": "omg",
+  "cellPhone": "65465465",
+  "cellPhoneContact": "315515",
+  "censantyFund": "porvenirCensanty",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "married",
+  "code": "ml3vklx1",
+  "contactEmergencyDirection": "Calle amor",
+  "contactEmergencyEmail": "liseth@test22.com",
+  "contactNearBirth": "",
+  "contactNearDirection": "asdfasdf",
+  "contactNearDocumentNumber": "41234123",
+  "contactNearDocumentType": "idcard",
+  "contactNearName": "Peraldo",
+  "contactNearTelephone": "12345132",
+  "contactPerson": "Liseth",
+  "date": {
+    "$date": {
+      "$numberLong": "1637699995701"
+    }
+  },
+  "directionParents": "",
+  "documentID": "1341234",
+  "documentType": "idcard",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "gitano",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "partner",
+  "hasAllergy": "yes",
+  "hasChildren": "yes",
+  "hasDiscapacity": "yes",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "yes",
+  "hasPermitionNotifyEmailCoorp": "yes",
+  "hasPermitionNotifyEmailPersonal": "yes",
+  "lastName": "Ortiz",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Jaime",
+  "numberBank": "2342134",
+  "numberContact": "",
+  "partnerAddress": "asdfasd",
+  "partnerBirth": "2021-11-02",
+  "partnerDocumentNumber": "151516514515",
+  "partnerName": "Liseth Sepúlveda",
+  "partnerTelephone": "2342134",
+  "partnerTypeDocument": "idcard",
+  "pensionFund": "proteccionPension",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "conyuge",
+  "relationshipOther": "",
+  "rhType": "plus",
+  "sexType": "male",
+  "socialSecurity": "coomevaEps",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typePartner": "conyuge",
+  "email": "jaime.ortiz@omgworldwidegroup.com",
+  "__v": 0,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "599788800000"
+    }
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1638307054000"
+    }
+  },
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1546473600000"
+    }
+  },
+  "addressCity": "Itagüí",
+  "bornCity": "Andes",
+  "documentIDExpe": "Andes",
+  "typeHouse": "arrendada",
+  "typeMovil": "moto",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "619d56b2b9ab2022b42eb12e"
+  },
+  "accountBank": "bancoItau",
+  "accountType": "cuentaAhorro",
+  "address": "Calle 47 # 38 - 65",
+  "allergyName": "",
+  "bloodType": "bloodTypeA",
+  "brand": "onegroup",
+  "cellPhone": "30000000000",
+  "cellPhoneContact": "",
+  "censantyFund": "proteccionCensanty",
+  "censantyFundOther": "",
+  "children": [
+    {
+      "names": "test hijo",
+      "birth": "2001-11-03",
+      "tel": "",
+      "address": "",
+      "securitySocial": false
+    }
+  ],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "single",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactNearBirth": "",
+  "contactNearDirection": "kra 30",
+  "contactNearDocumentNumber": "121212121221",
+  "contactNearDocumentType": "idcard",
+  "contactNearName": "test contacto",
+  "contactNearTelephone": "322222222222",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1637699995701"
+    }
+  },
+  "directionParents": "",
+  "documentID": "987654321",
+  "documentType": "idcard",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "raizalArchiSanAndres",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "yes",
+  "hasDiscapacity": "no",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "yes",
+  "hasPermitionNotifyEmailCoorp": "yes",
+  "hasPermitionNotifyEmailPersonal": "yes",
+  "lastName": "test form",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "test form",
+  "numberBank": "09888996322",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "proteccionPension",
+  "pensionFundOther": "",
+  "position": "test cargo",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "plus",
+  "sexType": "male",
+  "socialSecurity": "suraEps",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typePartner": "",
+  "email": "alexander2@models1a.com",
+  "__v": 0,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "211334400000"
+    }
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1637701520000"
+    }
+  },
+  "jobStartDate": null,
+  "isEnable": false
+},{
+  "_id": {
+    "$oid": "619d618ab9ab2022b42eb156"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "allergyName": "",
+  "bloodType": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "",
+  "civilStatus": "",
+  "code": "29b3v0fp",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactNearBirth": "",
+  "contactNearDirection": "",
+  "contactNearDocumentNumber": "",
+  "contactNearDocumentType": "",
+  "contactNearName": "",
+  "contactNearTelephone": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1637699995701"
+    }
+  },
+  "directionParents": "",
+  "documentID": "",
+  "documentType": "",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "",
+  "hasAllergy": "",
+  "hasChildren": "",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typePartner": "",
+  "email": "alexander.henao@models1a.com",
+  "__v": 0,
+  "isEnable": false
+},{
+  "_id": {
+    "$oid": "61a138c408a3c75085e30ff7"
+  },
+  "accountBank": "finandina",
+  "accountType": "cuentaCorriente",
+  "address": "afasdfad",
+  "addressCity": "Itagüí",
+  "allergyName": [],
+  "bloodType": "bloodTypeO",
+  "bornCity": "Andes",
+  "brand": "onegroup",
+  "cellPhone": "1654151",
+  "cellPhoneContact": "41234123",
+  "censantyFund": "proteccionCensanty",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "1di4qzvs",
+  "contactEmergencyDirection": "Calle amor",
+  "contactEmergencyEmail": "",
+  "contactPerson": "Liseth",
+  "date": {
+    "$date": {
+      "$numberLong": "1637952504902"
+    }
+  },
+  "directionParents": "",
+  "documentID": "6465462413",
+  "documentIDExpe": "Andes",
+  "documentType": "idcard",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "nothing",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "no",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "yes",
+  "hasPermitionNotifyEmailCoorp": "yes",
+  "hasPermitionNotifyEmailPersonal": "no",
+  "lastName": "Ortiz",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Jaime",
+  "numberBank": "42314123412423",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "proteccionPension",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "conyuge",
+  "relationshipOther": "",
+  "rhType": "plus",
+  "sexType": "male",
+  "socialSecurity": "suraEps",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "arrendada",
+  "typeMovil": "moto",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "email": "jaime.ortiz@onegroupitservices.com",
+  "__v": 0,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "599788800000"
+    }
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1638821737000"
+    }
+  },
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1578009600000"
+    }
+  },
+  "isEnable": true,
+  "Expeditiondate": null
+},{
+  "_id": {
+    "$oid": "61a138d508a3c75085e30ffc"
+  },
+  "accountBank": "nequi",
+  "accountType": "cuentaAhorro",
+  "address": "sadfasd",
+  "addressCity": "Medellín",
+  "allergyName": [],
+  "bloodType": "bloodTypeB",
+  "bornCity": "Albania",
+  "brand": "omg",
+  "cellPhone": "16541511234",
+  "cellPhoneContact": "41234123",
+  "censantyFund": "fondoNacionalAhorroCensanty",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "Calle amor",
+  "contactEmergencyEmail": "",
+  "contactPerson": "Gertrudis Bustamante",
+  "date": {
+    "$date": {
+      "$numberLong": "1637952504902"
+    }
+  },
+  "directionParents": "",
+  "documentID": "6465462413123",
+  "documentIDExpe": "Itagüí",
+  "documentType": "idcard",
+  "emailWork": "jaime.ortiz@onegroupitservices.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "gitano",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "no",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "yes",
+  "hasPermitionNotifyEmailCoorp": "yes",
+  "hasPermitionNotifyEmailPersonal": "no",
+  "lastName": "Calderon",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Miguel",
+  "numberBank": "241234123",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "colpensionesPension",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "hermano",
+  "relationshipOther": "",
+  "rhType": "minus",
+  "sexType": "male",
+  "socialSecurity": "coomevaEps",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "email": "jaime.ortiz@models1a.com",
+  "__v": 0,
+  "isEnable": true,
+  "Expeditiondate": null,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "555742800000"
+    }
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1643646006000"
+    }
+  },
+  "jobStartDate": null
+},{
+  "_id": {
+    "$oid": "61a162953a02965a324a3be9"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "onegroup",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "",
+  "civilStatus": "",
+  "code": "zwu2np9u",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1637963723610"
+    }
+  },
+  "directionParents": "",
+  "documentID": "",
+  "documentIDExpe": "",
+  "documentType": "",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "",
+  "hasAllergy": "",
+  "hasChildren": "",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "email": "alexander@models1a.com",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "61a163843a02965a324a3bf6"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [
+    ""
+  ],
+  "bloodType": "",
+  "bornCity": "Medellín",
+  "brand": "onegroup",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "8myf5zlf",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1637963723610"
+    }
+  },
+  "directionParents": "",
+  "documentID": "12345678999",
+  "documentIDExpe": "Medellín",
+  "documentType": "idcard",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "nothing",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "no",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "yes",
+  "hasPermitionNotifyEmailCoorp": "no",
+  "hasPermitionNotifyEmailPersonal": "yes",
+  "lastName": "Henao",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Alexander",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [
+    {
+      "profession": "Ingeniero Industrial",
+      "year": "2010",
+      "detail": ""
+    }
+  ],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "male",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "email": "alexander@onegroupitservices.com",
+  "__v": 0,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "189666000000"
+    }
+  },
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1420434000000"
+    }
+  },
+  "isEnable": false,
+  "Expeditiondate": {
+    "$date": {
+      "$numberLong": "783561600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61a167fb3a02965a324a3c43"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1637963723610"
+    }
+  },
+  "directionParents": "",
+  "documentID": "10000",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "",
+  "hasAllergy": "",
+  "hasChildren": "",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Garcia Giraldo",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Jose Anibal",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "Fotógrafo",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "email": "jagarcia7655@gmail.com",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "61a4f0173a02965a324a3c7d"
+  },
+  "accountBank": "bancolombia",
+  "accountType": "cuentaAhorro",
+  "address": "Carrera 54 C no 13 a sur 25 Torre 2 apto 2620",
+  "addressCity": "Medellín",
+  "allergyName": [],
+  "bloodType": "bloodTypeO",
+  "bornCity": "Anzá",
+  "brand": "omg",
+  "cellPhone": "3017437336",
+  "cellPhoneContact": "3046336287",
+  "censantyFund": "fondoNacionalAhorroCensanty",
+  "censantyFundOther": "",
+  "children": [
+    {
+      "names": "Simón ",
+      "birth": "2019-05-20",
+      "tel": "3147528434",
+      "address": "Carrera 54 C no 13 A sur 25",
+      "securitySocial": true
+    },
+    {
+      "names": "Alberto ",
+      "birth": "2019-05-20",
+      "tel": "3147528434",
+      "address": "Car 54 C no 13 a sur 25",
+      "securitySocial": true
+    }
+  ],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "free_union",
+  "code": "",
+  "contactEmergencyDirection": "Carrera 54 C No 13 a sur 25 Torre 2 apto 2620",
+  "contactEmergencyEmail": "jplope78@hotmail.com",
+  "contactPerson": "Juan Pablo Lopera Vasquez",
+  "date": {
+    "$date": {
+      "$numberLong": "1637963723610"
+    }
+  },
+  "directionParents": "Carre 74 a sur no 57 293 apto 201",
+  "documentID": "1000766044",
+  "documentIDExpe": "Medellín",
+  "documentType": "idcard",
+  "emailWork": "yessica.jimenez@omgworldwidegroup.com",
+  "fatherBirth": "1986-07-30",
+  "fatherName": "William Jimenez",
+  "gropuEtnia": "nothing",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "parents",
+  "hasAllergy": "no",
+  "hasChildren": "yes",
+  "hasDiscapacity": "no",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "yes",
+  "hasPermitionNotifyEmailCoorp": "yes",
+  "hasPermitionNotifyEmailPersonal": "yes",
+  "lastName": "Jiménez Cano",
+  "motherBirth": "1986-10-21",
+  "motherName": "Maria Patricia Cano",
+  "name": "Yessica Alejandra",
+  "numberBank": "24390303650",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "Juan Pablo Lopera Vasquez",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "colpensionesPension",
+  "pensionFundOther": "",
+  "position": "Auxiliar Administrativo",
+  "professions": [
+    {
+      "profession": "Auxiliar Administrativo en Salud",
+      "year": "2013",
+      "detail": ""
+    }
+  ],
+  "relationship": "conyuge",
+  "relationshipOther": "",
+  "rhType": "plus",
+  "sexType": "feminale",
+  "socialSecurity": "suraEps",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "arrendada",
+  "typeMovil": "nothing",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "email": "alejandracano9525@gmail.com",
+  "__v": 0,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "820368000000"
+    }
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1638199357000"
+    }
+  },
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "1630299600000"
+    }
+  },
+  "isEnable": false
+},{
+  "_id": {
+    "$oid": "61a9357b8f49aedf7be08b1d"
+  },
+  "accountBank": "finandina",
+  "accountType": "cuentaAhorro",
+  "address": "cra43a ",
+  "addressCity": "Agustín Codazzi",
+  "allergyName": [],
+  "bloodType": "bloodTypeB",
+  "bornCity": "Abriaquí",
+  "brand": "onegroup",
+  "cellPhone": "31313131",
+  "cellPhoneContact": "51515",
+  "censantyFund": "porvenirCensanty",
+  "censantyFundOther": "",
+  "children": [
+    {
+      "names": "Juan davis",
+      "birth": "2021-12-04",
+      "tel": "31357234603",
+      "address": "Cra 43A #130-263",
+      "securitySocial": true
+    },
+    {
+      "names": "juan asdasd",
+      "birth": "2021-12-01",
+      "tel": "1321321231",
+      "address": "dasdas 21332a 13",
+      "securitySocial": true
+    }
+  ],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "married",
+  "code": "",
+  "contactEmergencyDirection": "51155",
+  "contactEmergencyEmail": "1515@gmail.com",
+  "contactPerson": "mkjbb",
+  "date": {
+    "$date": {
+      "$numberLong": "1638477842540"
+    }
+  },
+  "directionParents": "123123",
+  "documentID": "12321213",
+  "documentIDExpe": "Abriaquí",
+  "documentType": "idcard",
+  "emailWork": "pancho@onegroup.com",
+  "fatherBirth": "2021-12-22",
+  "fatherName": "juan cano",
+  "gropuEtnia": "indigena",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "parents",
+  "hasAllergy": "no",
+  "hasChildren": "yes",
+  "hasDiscapacity": "yes",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "no",
+  "hasPermitionNotifyEmailCoorp": "yes",
+  "hasPermitionNotifyEmailPersonal": "no",
+  "lastName": "rcx2",
+  "motherBirth": "2021-12-19",
+  "motherName": "asdasd",
+  "name": "rc",
+  "numberBank": "15151515151",
+  "numberContact": "1515115",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "saassasaassa asdasdasd asdasdasdas",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "porvenirPension",
+  "pensionFundOther": "",
+  "position": "Diseñador Gráfico",
+  "professions": [
+    {
+      "detail": "asdasdasdasd",
+      "profession": "asdasd ",
+      "year": "12312"
+    }
+  ],
+  "relationship": "madre",
+  "relationshipOther": "",
+  "rhType": "minus",
+  "sexType": "feminale",
+  "socialSecurity": "other",
+  "socialSecurityOther": "Alianza Medellin",
+  "telephoneParents": "123123",
+  "typeHouse": "familiar",
+  "typeMovil": "other",
+  "typeMovilOther": "Motopatin",
+  "typePartner": "",
+  "email": "dasvv7@test.com",
+  "__v": 0,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "95662800000"
+    }
+  },
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "94712400000"
+    }
+  },
+  "isEnable": true,
+  "Expeditiondate": null
+},{
+  "_id": {
+    "$oid": "61c9da7bdc4ade2e396ffa76"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "",
+  "civilStatus": "",
+  "code": "goy37o1f",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1640372294120"
+    }
+  },
+  "directionParents": "",
+  "documentID": "",
+  "documentIDExpe": "",
+  "documentType": "",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "",
+  "hasAllergy": "",
+  "hasChildren": "",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "email": "sebastian.giraldo@omgworldwidegroup.com",
+  "__v": 0,
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "61ce33a6bc0b6b946b2dd804"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "",
+  "civilStatus": "",
+  "code": "detp3eun",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1640902096219"
+    }
+  },
+  "directionParents": "",
+  "documentID": "",
+  "documentIDExpe": "",
+  "documentType": "",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "",
+  "hasAllergy": "",
+  "hasChildren": "",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "email": "jsgiraldo.32@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d37dbe90d1cad1b4489690"
+  },
+  "accountBank": "finandina",
+  "accountType": "cuentaCorriente",
+  "address": "cra43a ",
+  "addressCity": "Acacías",
+  "allergyName": [],
+  "bloodType": "bloodTypeO",
+  "bornCity": "Abriaquí",
+  "brand": "onegroup",
+  "cellPhone": "31313131",
+  "cellPhoneContact": "",
+  "censantyFund": "fondoNacionalAhorroCensanty",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Pereira",
+  "civilStatus": "free_union",
+  "code": "",
+  "contactEmergencyDirection": "2312312",
+  "contactEmergencyEmail": "",
+  "contactPerson": "asd asd asdasd",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "11000151515",
+  "documentIDExpe": "Acandí",
+  "documentType": "idcard",
+  "emailWork": "asdasd@dada.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "sepulveda",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Rosa Castro",
+  "numberBank": "6563546",
+  "numberContact": "545555555555 ",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "Vieja pareja",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "colpensionesPension",
+  "pensionFundOther": "",
+  "position": "sadasd",
+  "professions": [],
+  "relationship": "hermano",
+  "relationshipOther": "",
+  "rhType": "minus",
+  "sexType": "feminale",
+  "socialSecurity": "capitalsaludEps",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "familiar",
+  "typeMovil": "ambos",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": false,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "158734800000"
+    }
+  },
+  "email": "yirajshdgasjhdsaada@test22.com",
+  "jobStartDate": null,
+  "__v": 0,
+  "Expeditiondate": null
+},{
+  "_id": {
+    "$oid": "61d37df690d1cad1b4489699"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "Agustín Codazzi",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "Abriaquí",
+  "brand": "onegroup",
+  "cellPhone": "3135768444",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Bogotá",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "1100015151542342",
+  "documentIDExpe": "Acandí",
+  "documentType": "idcard",
+  "emailWork": "panasdasdsadsacho@onegroup.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "sepulveda",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Gilberto",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "feminale",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "moto",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": false,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "466646400000"
+    }
+  },
+  "email": "rosa@rdsadosa.com",
+  "jobStartDate": null,
+  "__v": 0,
+  "Expeditiondate": {
+    "$date": {
+      "$numberLong": "1362355200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61d37eae90d1cad1b44896ad"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [
+    "asma",
+    "gripe",
+    "sida"
+  ],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "onegroup",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "89748798",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "penelope@onegroupitservices.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "yes",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Gutierrez",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Penelope",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": false,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "134197200000"
+    }
+  },
+  "email": "penelope@test22.com",
+  "jobStartDate": null,
+  "__v": 0,
+  "Expeditiondate": null
+},{
+  "_id": {
+    "$oid": "61d37ecf90d1cad1b44896b1"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [
+    "asma "
+  ],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "49459645651",
+  "documentIDExpe": "Almeida",
+  "documentType": "idcard",
+  "emailWork": "asdasdasdasd@asdgmail.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "yes",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "546465",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "6656125",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": false,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "978325200000"
+    }
+  },
+  "email": "dieasdasdgo.sasdsdepasdasdaulveda@models1a.com",
+  "jobStartDate": null,
+  "__v": 0,
+  "Expeditiondate": null
+},{
+  "_id": {
+    "$oid": "61d37eef90d1cad1b44896b5"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "onegroup",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Bogotá",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "8497219458231",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "pancasdasdho@onegroasdasdup.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "dasdasdas",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "asdasdas",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": false,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "445410000000"
+    }
+  },
+  "email": "dsasasddadaas@gsdmasd.com",
+  "jobStartDate": null,
+  "__v": 0,
+  "Expeditiondate": null
+},{
+  "_id": {
+    "$oid": "61d37ef190d1cad1b44896b9"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "341234",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "luis@omgitservices.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Monteria",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Luis",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "1039651200000"
+    }
+  },
+  "email": "luismonteria@test22.com",
+  "jobStartDate": null,
+  "__v": 0,
+  "Expeditiondate": null
+},{
+  "_id": {
+    "$oid": "61d37f2090d1cad1b44896bd"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Pereira",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "12321123",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "asdaddasd@onegroasdsadasd.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "sepulveda ",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Lorenasda Maasdaschado",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "131518800000"
+    }
+  },
+  "email": "dasdasdasdythha@models1a.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d37f3790d1cad1b44896c1"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "models1a",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "087897134",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "josea@test22.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Miguel",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Jose",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "1264395600000"
+    }
+  },
+  "email": "josea@test22.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d37f6890d1cad1b44896d1"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "onegroup",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Bogotá",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "9458231",
+  "documentIDExpe": "Abejorral",
+  "documentType": "idcard",
+  "emailWork": "asdasdasd@gmtuyail.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "12312",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "123 123 ",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "918709200000"
+    }
+  },
+  "email": "asdyu567@gmail.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d37fd990d1cad1b44896ef"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "31313131",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Cúcuta",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "5445459845",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "6516514651@gmail.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "654465",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "6546556",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "978325200000"
+    }
+  },
+  "email": "6+65+5@gmail.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d3800b90d1cad1b4489701"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "onegroup",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Pereira",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "1232133",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "paasdasdncho@asd.ccom",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "asdasd asdasd asdsad s",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Yirada Camadaasd as ",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "529891200000"
+    }
+  },
+  "email": "dasdasdasd@gmail.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d3800d90d1cad1b4489705"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [
+    "asma"
+  ],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "models1a",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "14265476",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "cristinaP@test22.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "yes",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Perex",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Cristina",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "1290902400000"
+    }
+  },
+  "email": "cristinaP@test22.com",
+  "jobStartDate": null,
+  "__v": 0,
+  "Expeditiondate": null
+},{
+  "_id": {
+    "$oid": "61d3803090d1cad1b4489709"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "Aguada",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Pereira",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "458484545",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "as435dasd@gmail.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "dasd asd",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "casimiro ",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "1009861200000"
+    }
+  },
+  "email": "asdasdasd87678876@gmail.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d3803a90d1cad1b4489717"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "models1a",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "654648",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "diego.leon@models1aa.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Gonzales",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Maribel Torrez",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "511074000000"
+    }
+  },
+  "email": "diego.leon@models1aa.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d3807a90d1cad1b448971f"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "587878567",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "diego.leon@models1aaa.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Toledo",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Miguel",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "958194000000"
+    }
+  },
+  "email": "diego.leon@models1aaa.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d3808490d1cad1b4489727"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Pereira",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "1100234234324",
+  "documentIDExpe": "Abejorral",
+  "documentType": "idcard",
+  "emailWork": "asasd345asd@oneasdasroup.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "sepulveda dfasdfds ",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Rosa Castro",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "1396674000000"
+    }
+  },
+  "email": "dasvasdasdasdv7@gmail.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d380ad90d1cad1b448972b"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "onegroup",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Bogotá",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "54494",
+  "documentIDExpe": "4545",
+  "documentType": "idcard",
+  "emailWork": "asdvyfd4@gmail.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "645465 ",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "44565645 45  4 ",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "1355270400000"
+    }
+  },
+  "email": "sadasiu86786v8@gmail.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d380bf90d1cad1b4489737"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Bogotá",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "5696785678",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "diego@test.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Leon",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Diego",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "745045200000"
+    }
+  },
+  "email": "diego@test.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d380e390d1cad1b448973c"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "models1a",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "PRUEBA",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "678515",
+  "documentIDExpe": "Acacías",
+  "documentType": "idcard",
+  "emailWork": "sdasdasancho@onegroup.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "sdfsd dsfsdf ",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "asf dsfdsf",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "165733200000"
+    }
+  },
+  "email": "asdas@roasdasda.com",
+  "jobStartDate": {
+    "$date": {
+      "$numberLong": "160462800000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d380f390d1cad1b4489740"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "onegroup",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Bogotá",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "356342523452",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "leidy@test22.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Tabarez",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Leidy",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "1014613200000"
+    }
+  },
+  "email": "leidy@test22.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d3811b90d1cad1b4489745"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Bogotá",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "768435345",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "diegodsadasd.sepulveda@models1a.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "asdasd asdasd",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "sadasdas dasdsa dsad as as",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "389077200000"
+    }
+  },
+  "email": "dasdasdasdsa49848947@gmail.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d3812990d1cad1b4489756"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "onegroup",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Bogotá",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1641249269699"
+    }
+  },
+  "directionParents": "",
+  "documentID": "87908732485345",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "paulina@test22.com",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Bustamante",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Paulina",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "761029200000"
+    }
+  },
+  "email": "paulina@test22.com",
+  "jobStartDate": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f805aa223e67e25cfe0e60"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1643401523849"
+    }
+  },
+  "directionParents": "",
+  "documentID": "646546",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Gonzales",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Jaime",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "email": "a@comafd.com",
+  "__v": 0,
+  "Expeditiondate": null,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "570862800000"
+    }
+  },
+  "jobStartDate": null
+},{
+  "_id": {
+    "$oid": "61f8070e223e67e25cfe0e8a"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "Medellín",
+  "civilStatus": "",
+  "code": "",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1643401523849"
+    }
+  },
+  "directionParents": "",
+  "documentID": "8974879864",
+  "documentIDExpe": "",
+  "documentType": "idcard",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "nothing",
+  "hasAllergy": "no",
+  "hasChildren": "no",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "yes",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "Toledo",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "Maribel Torrez",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "email": "arturo@gmiada.com",
+  "__v": 0,
+  "Expeditiondate": null,
+  "birthDayDate": {
+    "$date": {
+      "$numberLong": "345013200000"
+    }
+  },
+  "jobStartDate": null
+},{
+  "_id": {
+    "$oid": "61f80b9a223e67e25cfe0ea8"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "",
+  "civilStatus": "",
+  "code": "uhr7b43o",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1643401523849"
+    }
+  },
+  "directionParents": "",
+  "documentID": "",
+  "documentIDExpe": "",
+  "documentType": "",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "",
+  "hasAllergy": "",
+  "hasChildren": "",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "email": "angela@also.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622773dd6a40f543cb182817"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "",
+  "civilStatus": "",
+  "code": "fkdoud5z",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1646692733379"
+    }
+  },
+  "directionParents": "",
+  "documentID": "",
+  "documentIDExpe": "",
+  "documentType": "",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "",
+  "hasAllergy": "",
+  "hasChildren": "",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "email": "dasvv7@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624756d52cc13e146e9bfc8e"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "",
+  "civilStatus": "",
+  "code": "l48ho8jg",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1648668149190"
+    }
+  },
+  "directionParents": "",
+  "documentID": "",
+  "documentIDExpe": "",
+  "documentType": "",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "",
+  "hasAllergy": "",
+  "hasChildren": "",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "email": "luiscarloshurtado@live.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624772ed2cc13e146e9bfc97"
+  },
+  "accountBank": "",
+  "accountType": "",
+  "address": "",
+  "addressCity": "",
+  "allergyName": [],
+  "bloodType": "",
+  "bornCity": "",
+  "brand": "omg",
+  "cellPhone": "",
+  "cellPhoneContact": "",
+  "censantyFund": "",
+  "censantyFundOther": "",
+  "children": [],
+  "childrensNumber": "",
+  "city": "",
+  "civilStatus": "",
+  "code": "ostzfiza",
+  "contactEmergencyDirection": "",
+  "contactEmergencyEmail": "",
+  "contactPerson": "",
+  "date": {
+    "$date": {
+      "$numberLong": "1648668149190"
+    }
+  },
+  "directionParents": "",
+  "documentID": "",
+  "documentIDExpe": "",
+  "documentType": "",
+  "emailWork": "",
+  "fatherBirth": "",
+  "fatherName": "",
+  "gropuEtnia": "",
+  "gropuEtniaOther": "",
+  "hasAffiliates": "",
+  "hasAllergy": "",
+  "hasChildren": "",
+  "hasDiscapacity": "",
+  "hasPermitionCapacity": "",
+  "hasPermitionNotifyData": "",
+  "hasPermitionNotifyEmailCoorp": "",
+  "hasPermitionNotifyEmailPersonal": "",
+  "lastName": "",
+  "motherBirth": "",
+  "motherName": "",
+  "name": "",
+  "numberBank": "",
+  "numberContact": "",
+  "partnerAddress": "",
+  "partnerBirth": "",
+  "partnerDocumentNumber": "",
+  "partnerName": "",
+  "partnerTelephone": "",
+  "partnerTypeDocument": "",
+  "pensionFund": "",
+  "pensionFundOther": "",
+  "position": "",
+  "professions": [],
+  "relationship": "",
+  "relationshipOther": "",
+  "rhType": "",
+  "sexType": "",
+  "socialSecurity": "",
+  "socialSecurityOther": "",
+  "telephoneParents": "",
+  "typeHouse": "",
+  "typeMovil": "",
+  "typeMovilOther": "",
+  "typePartner": "",
+  "isEnable": true,
+  "email": "hola@luigios.com",
+  "__v": 0
+}]

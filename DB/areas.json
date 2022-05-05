@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "626aa632d0d67de28c1c1a37"
+  },
+  "name": "ti",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "626aa7d087b4a30ccbd18745"
+  },
+  "name": "administración",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "626aa80887b4a30ccbd18746"
+  },
+  "name": "monitores",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "626aa83587b4a30ccbd18747"
+  },
+  "name": "diseño",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "626aa84887b4a30ccbd18748"
+  },
+  "name": "qa",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "626aa86287b4a30ccbd18749"
+  },
+  "name": "desarrollo",
+  "isEnable": true
+},{
+  "_id": {
+    "$oid": "626ac0511bccb73b9432b0af"
+  },
+  "name": "otro",
+  "isEnable": false
+}]
